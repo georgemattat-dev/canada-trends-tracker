@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Scratch files
+scratch_*.py
+yt_full_data.json
+yt_keys.json
+
+# OS system files
+.DS_Store
+
+# Archives and old plugin files
+daily-dive-bridge/
+daily-dive-bridge.zip
+daily-dive-trends/

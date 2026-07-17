@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- SEO Meta Tags -->
+  <title>Canada Trends Tracker — X (Twitter), Google & YouTube</title>
+  <meta name="description" content="Explore real-time trending topics and popular videos across Twitter (X), Google Trends, and YouTube in Canada for the last 24 hours. Updated hourly.">
+  <meta name="keywords" content="Canada Trends Tracker, trends Canada, Twitter trends, Google trends Canada, YouTube trends Canada, real-time trends, Canada news, trending keywords">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  
+  <!-- Styling -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="logo-area">
+        <svg class="logo-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="url(#logoGrad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <defs>
+            <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#ff4b2b" />
+              <stop offset="100%" stop-color="#ff416c" />
+            </linearGradient>
+          </defs>
+          <path d="M23 6l-9.5 9.5-5-5L1 18" />
+          <path d="M17 6h6v6" />
+        </svg>
+        <div class="logo-text">
+          <h1 id="app-title">Canada Trends Tracker</h1>
+          <span class="sub-logo">Top Trends for Twitter or X, Google Trends and YouTube Trends for the last 24 hours</span>
+        </div>
+      </div>
+      
+      <div class="header-actions">
+        <div class="update-status" id="update-status-container">
+          <span class="status-dot"></span>
+          <span class="status-text" id="last-updated-text">Checking status...</span>
+        </div>
+        <button id="refresh-btn" class="refresh-btn" aria-label="Refresh trending data">
+          <svg class="refresh-icon" viewBox="0 0 24 24" width="18" height="18">
+            <path d="M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/>
+          </svg>
+          Refresh
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="app-content">
+    
+    <!-- Top Leaderboard Ad Slot -->
+    <div class="ad-container leaderboard-ad" id="ad-leaderboard-top">
+      <div class="ad-label">Sponsored</div>
+      <div class="ad-content">
+        <div class="ad-text-wrapper">
+          <h4>Read Unbiased News on Daily Dive</h4>
+          <p>Get news in quick summaries for easy reading. Daily Dive combines data from multiple trusted sources to deliver a neutral, balanced perspective.</p>
+        </div>
+        <a href="https://dailydive.ca/download/" class="ad-cta-btn" id="ad-cta-leaderboard">Download App</a>
+      </div>
+    </div>
+
+    <!-- Main Grid System -->
+    <div class="dashboard-grid">
+
+      <!-- COLUMN 1: TWITTER TRENDS -->
+      <section class="grid-column" id="twitter-column">
+        <div class="column-header">
+          <div class="column-title-wrapper">
+            <svg class="column-icon twitter-blue" viewBox="0 0 24 24" width="22" height="22">
+              <path d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.38-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.98 8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21 16 21 20.33 14.5 20.33 8.8c0-.19 0-.37-.01-.56.84-.6 1.56-1.36 2.14-2.24z"/>
+            </svg>
+            <h2>Twitter Trends Timeline</h2>
+          </div>
+          <div class="selector-wrapper">
+            <select id="twitter-time-selector" class="custom-select" aria-label="Select Twitter trends snapshot time">
+              <option value="0">Loading timeline...</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="trends-container" id="twitter-trends-list">
+          <!-- Populated by JS -->
+          <div class="loading-placeholder">
+            <div class="spinner"></div>
+            <p>Loading real-time trends...</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- COLUMN 2: GOOGLE TRENDS -->
+      <section class="grid-column" id="google-column">
+        <div class="column-header">
+          <div class="column-title-wrapper">
+            <svg class="column-icon google-purple" viewBox="0 0 24 24" width="22" height="22">
+              <path d="M12.24 10.285V14.4h6.887c-.648 2.41-2.519 4.113-5.211 4.113-3.532 0-6.402-2.87-6.402-6.402s2.87-6.402 6.402-6.402c1.782 0 3.32.73 4.433 1.916l3.2-3.2C19.533 2.506 16.006 1 11.916 1 5.888 1 1 5.888 1 11.916s4.888 10.916 10.916 10.916c6.288 0 10.457-4.416 10.457-10.632 0-.693-.062-1.372-.178-2.03H12.24z"/>
+            </svg>
+            <h2>Google Daily Trends</h2>
+          </div>
+          <span class="column-badge">Canada Search Volume</span>
+        </div>
+
+        <div class="trends-container" id="google-trends-list">
+          <!-- Populated by JS -->
+          <div class="loading-placeholder">
+            <div class="spinner"></div>
+            <p>Gathering search interest...</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- COLUMN 3: YOUTUBE TRENDS -->
+      <section class="grid-column" id="youtube-column">
+        <div class="column-header">
+          <div class="column-title-wrapper">
+            <svg class="column-icon youtube-red" viewBox="0 0 24 24" width="22" height="22">
+              <path d="M23.498 6.163a3.003 3.003 0 0 0-2.11-2.11C19.517 3.545 12 3.545 12 3.545s-7.517 0-9.388.507a3.003 3.003 0 0 0-2.11 2.11C0 8.033 0 12 0 12s0 3.967.502 5.837a3.003 3.003 0 0 0 2.11 2.11c1.871.507 9.388.507 9.388.507s7.517 0 9.388-.507a3.003 3.003 0 0 0 2.11-2.11C24 15.967 24 12 24 12s0-3.967-.502-5.837zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+            </svg>
+            <h2>YouTube Trending Feed</h2>
+          </div>
+          <span class="column-badge text-red">Top 50 Canada</span>
+        </div>
+
+        <div class="trends-container" id="youtube-trends-list">
+          <!-- Populated by JS -->
+          <div class="loading-placeholder">
+            <div class="spinner"></div>
+            <p>Fetching popular videos...</p>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <!-- Detailed Interactive Modal Overlay -->
+  <div class="modal-overlay" id="detail-modal" aria-hidden="true" role="dialog">
+    <div class="modal-card">
+      <button class="modal-close-btn" id="modal-close-btn" aria-label="Close detailed view">
+        <svg viewBox="0 0 24 24" width="20" height="20">
+          <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z" fill="currentColor"/>
+        </svg>
+      </button>
+      
+      <div class="modal-header">
+        <span class="modal-source-tag" id="modal-source-tag">Source</span>
+        <h3 class="modal-title" id="modal-trend-title">Trend Keyword</h3>
+        <p class="modal-subtitle" id="modal-trend-subtitle">Sub details</p>
+      </div>
+
+      <div class="modal-body">
+        
+        <!-- News Articles Shelf (Dynamic) -->
+        <div class="news-section" id="modal-news-section">
+          <h4>Related News Articles</h4>
+          <div class="news-grid" id="modal-news-grid">
+            <!-- News populated dynamically -->
+          </div>
+        </div>
+
+        <!-- Quick actions -->
+        <div class="actions-section">
+          <h4>Explore Topic</h4>
+          <div class="actions-grid">
+            <a href="#" target="_blank" class="action-btn x-btn" id="modal-action-x">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+              </svg>
+              Search on X (Twitter)
+            </a>
+            
+            <a href="#" target="_blank" class="action-btn google-btn" id="modal-action-google">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+                <path d="M12.24 10.285V14.4h6.887c-.648 2.41-2.519 4.113-5.211 4.113-3.532 0-6.402-2.87-6.402-6.402s2.87-6.402 6.402-6.402c1.782 0 3.32.73 4.433 1.916l3.2-3.2C19.533 2.506 16.006 1 11.916 1 5.888 1 11.916 5.888 11.916 11.916s4.888 10.916 10.916 10.916c6.288 0 10.457-4.416 10.457-10.632 0-.693-.062-1.372-.178-2.03H12.24z"/>
+              </svg>
+              Search on Google
+            </a>
+
+            <a href="#" target="_blank" class="action-btn trends-btn" id="modal-action-google-trends">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+                <path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"/>
+              </svg>
+              Analyze on Google Trends
+            </a>
+
+            <button class="action-btn share-btn" id="modal-action-share">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+                <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92c0-1.61-1.31-2.92-2.92-2.92zM18 4c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zM6 13c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm12 5.9c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1z"/>
+              </svg>
+              Copy Trend Details
+            </button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Global Loading / Overlay Spinner for manual updates -->
+  <div class="loading-overlay" id="loading-overlay">
+    <div class="loading-box">
+      <div class="double-spinner"></div>
+      <h3>Refreshing Live Trends...</h3>
+      <p>Crawling Twitter, Google & YouTube (Canada)</p>
+    </div>
+  </div>
+
+  <!-- Copy Toast Notice -->
+  <div class="toast-notice" id="toast-notice">Copied to clipboard!</div>
+
+  <!-- Client-side Logic -->
+  <script src="app.js"></script>
+</body>
+</html>
