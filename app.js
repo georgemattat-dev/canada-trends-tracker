@@ -6,10 +6,11 @@ const DATA_SOURCE_URL = 'data.json';
 
 // Global variables
 let trendsData = null;
+let activeCardElement = null;
 
 // DOM Elements
-const lastUpdatedText = document.getElementById('last-updated-text');
-const refreshBtn = document.getElementById('refresh-btn');
+const localUpdatedTime = document.getElementById('local-updated-time');
+const nextUpdateCountdown = document.getElementById('next-update-countdown');
 const twitterTimeSelector = document.getElementById('twitter-time-selector');
 const twitterTrendsList = document.getElementById('twitter-trends-list');
 const googleTrendsList = document.getElementById('google-trends-list');
@@ -19,6 +20,7 @@ const toastNotice = document.getElementById('toast-notice');
 
 // Modal Elements
 const detailModal = document.getElementById('detail-modal');
+const detailModalCard = detailModal ? detailModal.querySelector('.modal-card') : null;
 const modalCloseBtn = document.getElementById('modal-close-btn');
 const modalSourceTag = document.getElementById('modal-source-tag');
 const modalTrendTitle = document.getElementById('modal-trend-title');
@@ -38,8 +40,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Setup click handlers
 function setupEventListeners() {
-  // Manual refresh button
-  refreshBtn.addEventListener('click', refreshTrends);
+  // Live timezone-aware update message when clicking header info
+  const timeStatus = document.querySelector('.time-status');
+  if (timeStatus) {
+    timeStatus.style.cursor = 'pointer';
+    timeStatus.addEventListener('click', () => {
+      if (trendsData && trendsData.last_updated) {
+        const date = parseDateStr(trendsData.last_updated);
+        const fullTimeStr = date.toLocaleString([], { dateStyle: 'medium', timeStyle: 'medium' });
+        showToast(`Up to date. Data crawled at ${fullTimeStr}`);
+      }
+    });
+  }
 
   // Time selector for Twitter trends
   twitterTimeSelector.addEventListener('change', (e) => {
@@ -91,7 +103,7 @@ async function fetchTrends() {
     populateDashboard(trendsData);
   } catch (error) {
     console.error('Error fetching trends:', error);
-    lastUpdatedText.textContent = 'Error loading trends';
+    if (localUpdatedTime) localUpdatedTime.textContent = 'Error loading trends';
     // Fallback: show error placeholders in list columns
     showColumnError(twitterTrendsList, 'Twitter data temporarily unavailable.');
     showColumnError(googleTrendsList, 'Google trends temporarily unavailable.');
@@ -101,7 +113,7 @@ async function fetchTrends() {
 
 // Render a friendly security warning for file:// launches
 function showFileProtocolWarning() {
-  lastUpdatedText.textContent = 'Local File Mode';
+  if (localUpdatedTime) localUpdatedTime.textContent = 'Local File Mode';
   
   // Custom styled CSS warning box
   const warningMsg = `
@@ -175,8 +187,12 @@ function showColumnError(container, message) {
 function populateDashboard(data) {
   // Update timestamp
   if (data.last_updated) {
-    lastUpdatedText.textContent = `Updated: ${data.last_updated}`;
+    renderUpdatedTime(data.last_updated);
+    startCountdownTimer(data.last_updated);
   }
+  
+  // Populate top ticker marquee
+  populateTicker(data);
 
   // Populate Twitter Selector & List
   if (data.twitter && data.twitter.length > 0) {
@@ -247,11 +263,11 @@ function renderTwitterList(trends) {
       </div>
     `;
 
-    card.addEventListener('click', () => openTrendModal(trend, 'twitter'));
+    card.addEventListener('click', () => openTrendModal(trend, 'twitter', card));
     card.addEventListener('keydown', (e) => {
       if (e.key === 'Enter' || e.key === ' ') {
         e.preventDefault();
-        openTrendModal(trend, 'twitter');
+        openTrendModal(trend, 'twitter', card);
       }
     });
 
@@ -288,11 +304,11 @@ function renderGoogleList(trends) {
       </div>
     `;
 
-    card.addEventListener('click', () => openTrendModal(trend, 'google'));
+    card.addEventListener('click', () => openTrendModal(trend, 'google', card));
     card.addEventListener('keydown', (e) => {
       if (e.key === 'Enter' || e.key === ' ') {
         e.preventDefault();
-        openTrendModal(trend, 'google');
+        openTrendModal(trend, 'google', card);
       }
     });
 
@@ -355,11 +371,11 @@ function renderYoutubeList(trends) {
       </div>
     `;
 
-    card.addEventListener('click', () => openTrendModal(trend, 'youtube'));
+    card.addEventListener('click', () => openTrendModal(trend, 'youtube', card));
     card.addEventListener('keydown', (e) => {
       if (e.key === 'Enter' || e.key === ' ') {
         e.preventDefault();
-        openTrendModal(trend, 'youtube');
+        openTrendModal(trend, 'youtube', card);
       }
     });
 
@@ -380,8 +396,65 @@ function insertInlineAd(container, title, text, ctaUrl) {
   container.appendChild(adCard);
 }
 
-// Open detailed popover/modal
-function openTrendModal(data, source) {
+// Open detailed popover/modal with expanding card view-transition
+function openTrendModal(data, source, clickedCardElement) {
+  activeCardElement = clickedCardElement;
+
+  if (clickedCardElement && document.startViewTransition) {
+    // Temporarily tag elements with view-transition name
+    clickedCardElement.style.viewTransitionName = 'trend-card-expand';
+    if (detailModalCard) detailModalCard.style.viewTransitionName = 'trend-card-expand';
+
+    const transition = document.startViewTransition(() => {
+      populateModalContent(data, source);
+      detailModal.classList.add('active');
+      detailModal.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden';
+    });
+
+    // Clean up transition name after transition is finished
+    transition.finished.then(() => {
+      if (clickedCardElement) clickedCardElement.style.viewTransitionName = '';
+      if (detailModalCard) detailModalCard.style.viewTransitionName = '';
+    });
+  } else {
+    // Fallback
+    populateModalContent(data, source);
+    detailModal.classList.add('active');
+    detailModal.setAttribute('aria-hidden', 'false');
+    document.body.style.overflow = 'hidden';
+  }
+}
+
+// Close detailed popover/modal with reverse expanding card view-transition
+function closeModal() {
+  if (activeCardElement && document.startViewTransition) {
+    activeCardElement.style.viewTransitionName = 'trend-card-expand';
+    if (detailModalCard) detailModalCard.style.viewTransitionName = 'trend-card-expand';
+
+    const transition = document.startViewTransition(() => {
+      detailModal.classList.remove('active');
+      detailModal.setAttribute('aria-hidden', 'true');
+      document.body.style.overflow = '';
+    });
+
+    // Clean up transition names once the transition is complete
+    transition.finished.then(() => {
+      if (activeCardElement) activeCardElement.style.viewTransitionName = '';
+      if (detailModalCard) detailModalCard.style.viewTransitionName = '';
+      activeCardElement = null;
+    });
+  } else {
+    // Fallback
+    detailModal.classList.remove('active');
+    detailModal.setAttribute('aria-hidden', 'true');
+    document.body.style.overflow = '';
+    activeCardElement = null;
+  }
+}
+
+// Helper to populate the modal content details
+function populateModalContent(data, source) {
   // Reset modal classes
   modalSourceTag.className = 'modal-source-tag';
   modalNewsSection.style.display = 'none';
@@ -444,7 +517,6 @@ function openTrendModal(data, source) {
   const encKeyword = encodeURIComponent(keyword);
   
   // Set X (Twitter) search URL
-  // If twitter data has pre-scraped search link, use it; otherwise generate standard query
   if (source === 'twitter' && data.url) {
     modalActionX.href = data.url;
   } else {
@@ -455,7 +527,6 @@ function openTrendModal(data, source) {
   modalActionGoogle.href = `https://www.google.com/search?q=${encKeyword}`;
   
   // Google Trends link
-  // If YouTube link is clicked, link to video directly as main action
   if (source === 'youtube') {
     modalActionGoogleTrends.innerHTML = `
       <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
@@ -490,18 +561,6 @@ Google Search: ${modalActionGoogle.href}`;
       showToast('Failed to copy to clipboard', true);
     });
   };
-
-  // Open the Modal
-  detailModal.classList.add('active');
-  detailModal.setAttribute('aria-hidden', 'false');
-  document.body.style.overflow = 'hidden'; // Disable page scrolling
-}
-
-// Close detailed popover/modal
-function closeModal() {
-  detailModal.classList.remove('active');
-  detailModal.setAttribute('aria-hidden', 'true');
-  document.body.style.overflow = ''; // Enable page scrolling
 }
 
 // Display copy/action toast notice
@@ -517,4 +576,147 @@ function showToast(message, isError = false) {
   setTimeout(() => {
     toastNotice.classList.remove('show');
   }, 2500);
+}
+
+// Timezone conversion & formatting
+function renderUpdatedTime(lastUpdatedStr) {
+  if (!localUpdatedTime) return;
+
+  try {
+    const date = parseDateStr(lastUpdatedStr);
+    const options = {
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: true
+    };
+    
+    const timeStr = date.toLocaleTimeString([], options);
+    const tzStr = getShortTimezoneName(date);
+    
+    localUpdatedTime.textContent = `Updated: ${timeStr} (${tzStr})`;
+  } catch (e) {
+    console.error('Error formatting date:', e);
+    localUpdatedTime.textContent = `Updated: ${lastUpdatedStr}`;
+  }
+}
+
+// Parse custom datetime string safely: "YYYY-MM-DD hh:mm:ss AM/PM UTC"
+function parseDateStr(str) {
+  if (str.includes('UTC')) {
+    const parts = str.match(/(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2}):(\d{2})\s+(AM|PM)\s+UTC/);
+    if (parts) {
+      let [_, yr, mo, dy, hr, min, sec, ampm] = parts;
+      hr = parseInt(hr);
+      if (ampm === 'PM' && hr < 12) hr += 12;
+      if (ampm === 'AM' && hr === 12) hr = 0;
+      return new Date(Date.UTC(yr, mo - 1, dy, hr, min, sec));
+    }
+  }
+  return new Date(str);
+}
+
+// Extract short timezone abbreviation (e.g. EDT, PDT, GMT)
+function getShortTimezoneName(date) {
+  try {
+    const parts = new Intl.DateTimeFormat('en-US', { timeZoneName: 'short' }).formatToParts(date);
+    const tzPart = parts.find(p => p.type === 'timeZoneName');
+    return tzPart ? tzPart.value : 'UTC';
+  } catch (e) {
+    return 'UTC';
+  }
+}
+
+// Live Countdown Timer to the next top of the hour
+let countdownInterval = null;
+function startCountdownTimer(lastUpdatedStr) {
+  if (countdownInterval) clearInterval(countdownInterval);
+  if (!nextUpdateCountdown) return;
+
+  function updateCountdown() {
+    const now = new Date();
+    // GitHub Actions cron updates at the 0th minute of every hour
+    const nextHour = new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours() + 1, 0, 0);
+    
+    const diffMs = nextHour - now;
+    if (diffMs <= 0) {
+      nextUpdateCountdown.textContent = 'Updating data...';
+      return;
+    }
+
+    const minutes = Math.floor(diffMs / 60000);
+    const seconds = Math.floor((diffMs % 60000) / 1000);
+    
+    const minStr = String(minutes).padStart(2, '0');
+    const secStr = String(seconds).padStart(2, '0');
+    
+    nextUpdateCountdown.textContent = `Next update in ${minStr}:${secStr}`;
+  }
+
+  updateCountdown();
+  countdownInterval = setInterval(updateCountdown, 1000);
+}
+
+// Populate horizontal moving marquee ticker below header
+function populateTicker(data) {
+  const container = document.getElementById('trends-ticker-content');
+  if (!container) return;
+
+  const items = [];
+  
+  // 1. Get top 2 Twitter trends
+  if (data.twitter) {
+    const snapshots = Object.values(data.twitter);
+    if (snapshots.length > 0 && snapshots[0].trends) {
+      snapshots[0].trends.slice(0, 2).forEach(t => {
+        items.push({ name: t.name, source: 'twitter', originalData: t });
+      });
+    }
+  }
+
+  // 2. Get top 2 Google trends
+  if (data.google && data.google.length > 0) {
+    data.google.slice(0, 2).forEach(t => {
+      items.push({ name: t.keyword, source: 'google', originalData: t });
+    });
+  }
+
+  // 3. Get top 2 YouTube trends
+  if (data.youtube && data.youtube.length > 0) {
+    data.youtube.slice(0, 2).forEach(t => {
+      items.push({ name: t.title, source: 'youtube', originalData: t });
+    });
+  }
+
+  if (items.length === 0) {
+    container.innerHTML = '<span class="ticker-item">Gathering latest trends...</span>';
+    return;
+  }
+
+  // Generate item cards
+  const html = items.map((item, idx) => {
+    let badgeClass = 'ticker-source-tw';
+    let label = 'Twitter';
+    let emoji = '🔥';
+    if (item.source === 'google') { badgeClass = 'ticker-source-go'; label = 'Google'; emoji = '📈'; }
+    if (item.source === 'youtube') { badgeClass = 'ticker-source-yt'; label = 'YouTube'; emoji = '🎬'; }
+    
+    return `
+      <div class="ticker-item" data-source="${item.source}" data-index="${idx}">
+        <span class="ticker-source-badge ${badgeClass}">${label}</span>
+        <span>${emoji} ${item.name}</span>
+      </div>
+    `;
+  }).join('');
+
+  // Duplicate elements to ensure a continuous seamless loop scroll
+  container.innerHTML = html + html;
+
+  // Add click handlers to open detailed views
+  container.querySelectorAll('.ticker-item').forEach(el => {
+    el.addEventListener('click', () => {
+      const idx = parseInt(el.getAttribute('data-index'));
+      const item = items[idx];
+      openTrendModal(item.originalData, item.source, el);
+    });
+  });
 }

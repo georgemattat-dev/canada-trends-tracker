@@ -35,24 +35,30 @@
         </svg>
         <div class="logo-text">
           <h1 id="app-title">Canada Trends Tracker</h1>
-          <span class="sub-logo">Top Trends for Twitter or X, Google Trends and YouTube Trends for the last 24 hours</span>
+          <span class="sub-logo">Know what canada is searching</span>
         </div>
       </div>
       
       <div class="header-actions">
-        <div class="update-status" id="update-status-container">
-          <span class="status-dot"></span>
-          <span class="status-text" id="last-updated-text">Checking status...</span>
+        <div class="update-info">
+          <div class="time-status">
+            <span class="status-dot live-dot"></span>
+            <span class="time-text" id="local-updated-time">Checking status...</span>
+          </div>
+          <div class="countdown-status">
+            <span class="countdown-text" id="next-update-countdown">Next update in --:--</span>
+          </div>
         </div>
-        <button id="refresh-btn" class="refresh-btn" aria-label="Refresh trending data">
-          <svg class="refresh-icon" viewBox="0 0 24 24" width="18" height="18">
-            <path d="M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/>
-          </svg>
-          Refresh
-        </button>
       </div>
     </div>
   </header>
+
+  <!-- Moving Trends Ticker (Sub-Header) -->
+  <div class="trends-ticker-bar" id="trends-ticker-bar" role="marquee" aria-label="Scrolling trending topics">
+    <div class="ticker-content" id="trends-ticker-content">
+      <span class="ticker-item">Gathering latest trends...</span>
+    </div>
+  </div>
 
   <main class="app-content">
     
