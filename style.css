@@ -1005,8 +1005,13 @@ h1, h2, h3, h4, .logo-text h1 {
   }
 
   .update-info {
-    align-items: flex-end;
-    gap: 0.1rem;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .status-divider {
+    font-size: 0.7rem;
+    opacity: 0.4;
   }
 
   .time-text {
@@ -1073,10 +1078,16 @@ h1, h2, h3, h4, .logo-text h1 {
 /* Ticker Bar & Countdown Styles */
 .update-info {
   display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 0.15rem;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.75rem;
   font-family: 'Inter', sans-serif;
+}
+
+.status-divider {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  opacity: 0.4;
 }
 
 .time-status {
