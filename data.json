@@ -1,7 +1,519 @@
 {
-  "last_updated": "2026-08-20 05:19:31 AM UTC",
-  "timestamp": 1787203173.2168,
+  "last_updated": "2026-08-20 06:22:48 AM UTC",
+  "timestamp": 1787206969.982837,
   "twitter": [
+    {
+      "time": "Thu Aug 20 2026 06:06:26 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1787205986.728,
+      "trends": [
+        {
+          "name": "Sanchez",
+          "url": "https://twitter.com/search?q=Sanchez",
+          "tweet_count": ""
+        },
+        {
+          "name": "Keystone",
+          "url": "https://twitter.com/search?q=Keystone",
+          "tweet_count": ""
+        },
+        {
+          "name": "Carney",
+          "url": "https://twitter.com/search?q=Carney",
+          "tweet_count": ""
+        },
+        {
+          "name": "#VWFC",
+          "url": "https://twitter.com/search?q=%23VWFC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Quebec",
+          "url": "https://twitter.com/search?q=Quebec",
+          "tweet_count": ""
+        },
+        {
+          "name": "PSPP",
+          "url": "https://twitter.com/search?q=PSPP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Scherzer",
+          "url": "https://twitter.com/search?q=Scherzer",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Baleba",
+          "url": "https://twitter.com/search?q=Baleba",
+          "tweet_count": ""
+        },
+        {
+          "name": "$MRNA",
+          "url": "https://twitter.com/search?q=%24MRNA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Loblaws",
+          "url": "https://twitter.com/search?q=Loblaws",
+          "tweet_count": ""
+        },
+        {
+          "name": "Taco Tuesday",
+          "url": "https://twitter.com/search?q=Taco%20Tuesday",
+          "tweet_count": ""
+        },
+        {
+          "name": "#VANvHOU",
+          "url": "https://twitter.com/search?q=%23VANvHOU",
+          "tweet_count": ""
+        },
+        {
+          "name": "Meghan",
+          "url": "https://twitter.com/search?q=Meghan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kory",
+          "url": "https://twitter.com/search?q=Kory",
+          "tweet_count": ""
+        },
+        {
+          "name": "Heat 2",
+          "url": "https://twitter.com/search?q=Heat%202",
+          "tweet_count": ""
+        },
+        {
+          "name": "Konsa",
+          "url": "https://twitter.com/search?q=Konsa",
+          "tweet_count": ""
+        },
+        {
+          "name": "Magic Lover Worship",
+          "url": "https://twitter.com/search?q=Magic%20Lover%20Worship",
+          "tweet_count": ""
+        },
+        {
+          "name": "#บวงสรวงMagicLover",
+          "url": "https://twitter.com/search?q=%23%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%87MagicLover",
+          "tweet_count": ""
+        },
+        {
+          "name": "#RTXPowersPlay",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
+          "tweet_count": ""
+        },
+        {
+          "name": "Whitecaps",
+          "url": "https://twitter.com/search?q=Whitecaps",
+          "tweet_count": ""
+        },
+        {
+          "name": "GTA 6",
+          "url": "https://twitter.com/search?q=GTA%206",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schneider",
+          "url": "https://twitter.com/search?q=Schneider",
+          "tweet_count": ""
+        },
+        {
+          "name": "Natalie",
+          "url": "https://twitter.com/search?q=Natalie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Larraz",
+          "url": "https://twitter.com/search?q=Larraz",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ossoff",
+          "url": "https://twitter.com/search?q=Ossoff",
+          "tweet_count": ""
+        },
+        {
+          "name": "McAdoo",
+          "url": "https://twitter.com/search?q=McAdoo",
+          "tweet_count": ""
+        },
+        {
+          "name": "Sasuke",
+          "url": "https://twitter.com/search?q=Sasuke",
+          "tweet_count": ""
+        },
+        {
+          "name": "Moderna",
+          "url": "https://twitter.com/search?q=Moderna",
+          "tweet_count": ""
+        },
+        {
+          "name": "Porcupine",
+          "url": "https://twitter.com/search?q=Porcupine",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rockstar",
+          "url": "https://twitter.com/search?q=Rockstar",
+          "tweet_count": ""
+        },
+        {
+          "name": "Houston",
+          "url": "https://twitter.com/search?q=Houston",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chauvin",
+          "url": "https://twitter.com/search?q=Chauvin",
+          "tweet_count": ""
+        },
+        {
+          "name": "Aston Villa",
+          "url": "https://twitter.com/search?q=Aston%20Villa",
+          "tweet_count": ""
+        },
+        {
+          "name": "Alejandro Kirk",
+          "url": "https://twitter.com/search?q=Alejandro%20Kirk",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mosquera",
+          "url": "https://twitter.com/search?q=Mosquera",
+          "tweet_count": ""
+        },
+        {
+          "name": "Sabalenka",
+          "url": "https://twitter.com/search?q=Sabalenka",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "Radio X",
+          "url": "https://twitter.com/search?q=Radio%20X",
+          "tweet_count": ""
+        },
+        {
+          "name": "SBMM",
+          "url": "https://twitter.com/search?q=SBMM",
+          "tweet_count": ""
+        },
+        {
+          "name": "California",
+          "url": "https://twitter.com/search?q=California",
+          "tweet_count": ""
+        },
+        {
+          "name": "Waldron",
+          "url": "https://twitter.com/search?q=Waldron",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fedorov",
+          "url": "https://twitter.com/search?q=Fedorov",
+          "tweet_count": ""
+        },
+        {
+          "name": "Pinango",
+          "url": "https://twitter.com/search?q=Pinango",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rays",
+          "url": "https://twitter.com/search?q=Rays",
+          "tweet_count": ""
+        },
+        {
+          "name": "Montecito",
+          "url": "https://twitter.com/search?q=Montecito",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dieppe",
+          "url": "https://twitter.com/search?q=Dieppe",
+          "tweet_count": ""
+        },
+        {
+          "name": "Sophie",
+          "url": "https://twitter.com/search?q=Sophie",
+          "tweet_count": ""
+        },
+        {
+          "name": "ic markets",
+          "url": "https://twitter.com/search?q=ic%20markets",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lynx",
+          "url": "https://twitter.com/search?q=Lynx",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Thu Aug 20 2026 05:15:23 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1787202923.706,
+      "trends": [
+        {
+          "name": "Sanchez",
+          "url": "https://twitter.com/search?q=Sanchez",
+          "tweet_count": ""
+        },
+        {
+          "name": "Keystone",
+          "url": "https://twitter.com/search?q=Keystone",
+          "tweet_count": ""
+        },
+        {
+          "name": "Carney",
+          "url": "https://twitter.com/search?q=Carney",
+          "tweet_count": ""
+        },
+        {
+          "name": "#VWFC",
+          "url": "https://twitter.com/search?q=%23VWFC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Quebec",
+          "url": "https://twitter.com/search?q=Quebec",
+          "tweet_count": ""
+        },
+        {
+          "name": "PSPP",
+          "url": "https://twitter.com/search?q=PSPP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Scherzer",
+          "url": "https://twitter.com/search?q=Scherzer",
+          "tweet_count": ""
+        },
+        {
+          "name": "$MRNA",
+          "url": "https://twitter.com/search?q=%24MRNA",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Baleba",
+          "url": "https://twitter.com/search?q=Baleba",
+          "tweet_count": ""
+        },
+        {
+          "name": "Tiafoe",
+          "url": "https://twitter.com/search?q=Tiafoe",
+          "tweet_count": ""
+        },
+        {
+          "name": "Loblaws",
+          "url": "https://twitter.com/search?q=Loblaws",
+          "tweet_count": ""
+        },
+        {
+          "name": "Taco Tuesday",
+          "url": "https://twitter.com/search?q=Taco%20Tuesday",
+          "tweet_count": ""
+        },
+        {
+          "name": "#VANvHOU",
+          "url": "https://twitter.com/search?q=%23VANvHOU",
+          "tweet_count": ""
+        },
+        {
+          "name": "Meghan",
+          "url": "https://twitter.com/search?q=Meghan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kory",
+          "url": "https://twitter.com/search?q=Kory",
+          "tweet_count": ""
+        },
+        {
+          "name": "Heat 2",
+          "url": "https://twitter.com/search?q=Heat%202",
+          "tweet_count": ""
+        },
+        {
+          "name": "Konsa",
+          "url": "https://twitter.com/search?q=Konsa",
+          "tweet_count": ""
+        },
+        {
+          "name": "Magic Lover Worship",
+          "url": "https://twitter.com/search?q=Magic%20Lover%20Worship",
+          "tweet_count": ""
+        },
+        {
+          "name": "#บวงสรวงMagicLover",
+          "url": "https://twitter.com/search?q=%23%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%87MagicLover",
+          "tweet_count": ""
+        },
+        {
+          "name": "GTA 6",
+          "url": "https://twitter.com/search?q=GTA%206",
+          "tweet_count": ""
+        },
+        {
+          "name": "Larraz",
+          "url": "https://twitter.com/search?q=Larraz",
+          "tweet_count": ""
+        },
+        {
+          "name": "Whitecaps",
+          "url": "https://twitter.com/search?q=Whitecaps",
+          "tweet_count": ""
+        },
+        {
+          "name": "#RTXPowersPlay",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
+          "tweet_count": ""
+        },
+        {
+          "name": "Natalie",
+          "url": "https://twitter.com/search?q=Natalie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schneider",
+          "url": "https://twitter.com/search?q=Schneider",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jokic",
+          "url": "https://twitter.com/search?q=Jokic",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ossoff",
+          "url": "https://twitter.com/search?q=Ossoff",
+          "tweet_count": ""
+        },
+        {
+          "name": "Moderna",
+          "url": "https://twitter.com/search?q=Moderna",
+          "tweet_count": ""
+        },
+        {
+          "name": "McAdoo",
+          "url": "https://twitter.com/search?q=McAdoo",
+          "tweet_count": ""
+        },
+        {
+          "name": "Sasuke",
+          "url": "https://twitter.com/search?q=Sasuke",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rockstar",
+          "url": "https://twitter.com/search?q=Rockstar",
+          "tweet_count": ""
+        },
+        {
+          "name": "Houston",
+          "url": "https://twitter.com/search?q=Houston",
+          "tweet_count": ""
+        },
+        {
+          "name": "Aston Villa",
+          "url": "https://twitter.com/search?q=Aston%20Villa",
+          "tweet_count": ""
+        },
+        {
+          "name": "Alejandro Kirk",
+          "url": "https://twitter.com/search?q=Alejandro%20Kirk",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chauvin",
+          "url": "https://twitter.com/search?q=Chauvin",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mosquera",
+          "url": "https://twitter.com/search?q=Mosquera",
+          "tweet_count": ""
+        },
+        {
+          "name": "Cavs",
+          "url": "https://twitter.com/search?q=Cavs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Sabalenka",
+          "url": "https://twitter.com/search?q=Sabalenka",
+          "tweet_count": ""
+        },
+        {
+          "name": "Radio X",
+          "url": "https://twitter.com/search?q=Radio%20X",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "Sophie Cunningham",
+          "url": "https://twitter.com/search?q=Sophie%20Cunningham",
+          "tweet_count": ""
+        },
+        {
+          "name": "Waldron",
+          "url": "https://twitter.com/search?q=Waldron",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fedorov",
+          "url": "https://twitter.com/search?q=Fedorov",
+          "tweet_count": ""
+        },
+        {
+          "name": "Pinango",
+          "url": "https://twitter.com/search?q=Pinango",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rays",
+          "url": "https://twitter.com/search?q=Rays",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dieppe",
+          "url": "https://twitter.com/search?q=Dieppe",
+          "tweet_count": ""
+        },
+        {
+          "name": "Montecito",
+          "url": "https://twitter.com/search?q=Montecito",
+          "tweet_count": ""
+        },
+        {
+          "name": "Willow",
+          "url": "https://twitter.com/search?q=Willow",
+          "tweet_count": ""
+        },
+        {
+          "name": "ic markets",
+          "url": "https://twitter.com/search?q=ic%20markets",
+          "tweet_count": ""
+        }
+      ]
+    },
     {
       "time": "Thu Aug 20 2026 04:21:29 GMT+0000 (Coordinated Universal Time)",
       "epoch": 1787199689.908,
@@ -5633,548 +6145,96 @@
           "tweet_count": ""
         }
       ]
-    },
-    {
-      "time": "Wed Aug 19 2026 12:52:42 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1787143962.275,
-      "trends": [
-        {
-          "name": "Baleba",
-          "url": "https://twitter.com/search?q=Baleba",
-          "tweet_count": ""
-        },
-        {
-          "name": "PSPP",
-          "url": "https://twitter.com/search?q=PSPP",
-          "tweet_count": ""
-        },
-        {
-          "name": "Keystone",
-          "url": "https://twitter.com/search?q=Keystone",
-          "tweet_count": ""
-        },
-        {
-          "name": "Taco Tuesday",
-          "url": "https://twitter.com/search?q=Taco%20Tuesday",
-          "tweet_count": ""
-        },
-        {
-          "name": "Konsa",
-          "url": "https://twitter.com/search?q=Konsa",
-          "tweet_count": ""
-        },
-        {
-          "name": "Wilmac",
-          "url": "https://twitter.com/search?q=Wilmac",
-          "tweet_count": ""
-        },
-        {
-          "name": "Santé Québec",
-          "url": "https://twitter.com/search?q=Sant%C3%A9%20Qu%C3%A9bec",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hump Day",
-          "url": "https://twitter.com/search?q=Hump%20Day",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cyrus",
-          "url": "https://twitter.com/search?q=Cyrus",
-          "tweet_count": ""
-        },
-        {
-          "name": "#betya",
-          "url": "https://twitter.com/search?q=%23betya",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mosquera",
-          "url": "https://twitter.com/search?q=Mosquera",
-          "tweet_count": ""
-        },
-        {
-          "name": "#RTXPowersPlay",
-          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
-          "tweet_count": ""
-        },
-        {
-          "name": "Good Wednesday",
-          "url": "https://twitter.com/search?q=Good%20Wednesday",
-          "tweet_count": ""
-        },
-        {
-          "name": "Natalie",
-          "url": "https://twitter.com/search?q=Natalie",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trump",
-          "url": "https://twitter.com/search?q=Trump",
-          "tweet_count": ""
-        },
-        {
-          "name": "NRED",
-          "url": "https://twitter.com/search?q=NRED",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ossoff",
-          "url": "https://twitter.com/search?q=Ossoff",
-          "tweet_count": ""
-        },
-        {
-          "name": "Saliba",
-          "url": "https://twitter.com/search?q=Saliba",
-          "tweet_count": ""
-        },
-        {
-          "name": "FOMC",
-          "url": "https://twitter.com/search?q=FOMC",
-          "tweet_count": ""
-        },
-        {
-          "name": "#BINI_SIGNALS_VANCOUVER",
-          "url": "https://twitter.com/search?q=%23BINI_SIGNALS_VANCOUVER",
-          "tweet_count": ""
-        },
-        {
-          "name": "Alejandro Kirk",
-          "url": "https://twitter.com/search?q=Alejandro%20Kirk",
-          "tweet_count": ""
-        },
-        {
-          "name": "#DWCS",
-          "url": "https://twitter.com/search?q=%23DWCS",
-          "tweet_count": ""
-        },
-        {
-          "name": "ZZ Top",
-          "url": "https://twitter.com/search?q=ZZ%20Top",
-          "tweet_count": ""
-        },
-        {
-          "name": "Frank Beard",
-          "url": "https://twitter.com/search?q=Frank%20Beard",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blaq",
-          "url": "https://twitter.com/search?q=Blaq",
-          "tweet_count": ""
-        },
-        {
-          "name": "Josh Smith",
-          "url": "https://twitter.com/search?q=Josh%20Smith",
-          "tweet_count": ""
-        },
-        {
-          "name": "Promise David",
-          "url": "https://twitter.com/search?q=Promise%20David",
-          "tweet_count": ""
-        },
-        {
-          "name": "#monarch",
-          "url": "https://twitter.com/search?q=%23monarch",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cineplex",
-          "url": "https://twitter.com/search?q=Cineplex",
-          "tweet_count": ""
-        },
-        {
-          "name": "Florida",
-          "url": "https://twitter.com/search?q=Florida",
-          "tweet_count": ""
-        },
-        {
-          "name": "GTA 6",
-          "url": "https://twitter.com/search?q=GTA%206",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lloyd",
-          "url": "https://twitter.com/search?q=Lloyd",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mainoo",
-          "url": "https://twitter.com/search?q=Mainoo",
-          "tweet_count": ""
-        },
-        {
-          "name": "waldron",
-          "url": "https://twitter.com/search?q=waldron",
-          "tweet_count": ""
-        },
-        {
-          "name": "Closing",
-          "url": "https://twitter.com/search?q=Closing",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jessica Davis",
-          "url": "https://twitter.com/search?q=Jessica%20Davis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mulroney",
-          "url": "https://twitter.com/search?q=Mulroney",
-          "tweet_count": ""
-        },
-        {
-          "name": "Crown Coins",
-          "url": "https://twitter.com/search?q=Crown%20Coins",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kimberly",
-          "url": "https://twitter.com/search?q=Kimberly",
-          "tweet_count": ""
-        },
-        {
-          "name": "Brighton",
-          "url": "https://twitter.com/search?q=Brighton",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vance",
-          "url": "https://twitter.com/search?q=Vance",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fishback",
-          "url": "https://twitter.com/search?q=Fishback",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rays",
-          "url": "https://twitter.com/search?q=Rays",
-          "tweet_count": ""
-        },
-        {
-          "name": "Wande",
-          "url": "https://twitter.com/search?q=Wande",
-          "tweet_count": ""
-        },
-        {
-          "name": "IMAX 70mm",
-          "url": "https://twitter.com/search?q=IMAX%2070mm",
-          "tweet_count": ""
-        },
-        {
-          "name": "Churchill Falls",
-          "url": "https://twitter.com/search?q=Churchill%20Falls",
-          "tweet_count": ""
-        },
-        {
-          "name": "Toronto Tempo",
-          "url": "https://twitter.com/search?q=Toronto%20Tempo",
-          "tweet_count": ""
-        },
-        {
-          "name": "Buck",
-          "url": "https://twitter.com/search?q=Buck",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vindman",
-          "url": "https://twitter.com/search?q=Vindman",
-          "tweet_count": ""
-        },
-        {
-          "name": "Swing",
-          "url": "https://twitter.com/search?q=Swing",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Wed Aug 19 2026 12:52:25 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1787143945.41,
-      "trends": [
-        {
-          "name": "PSPP",
-          "url": "https://twitter.com/search?q=PSPP",
-          "tweet_count": ""
-        },
-        {
-          "name": "Baleba",
-          "url": "https://twitter.com/search?q=Baleba",
-          "tweet_count": ""
-        },
-        {
-          "name": "Keystone",
-          "url": "https://twitter.com/search?q=Keystone",
-          "tweet_count": ""
-        },
-        {
-          "name": "Taco Tuesday",
-          "url": "https://twitter.com/search?q=Taco%20Tuesday",
-          "tweet_count": ""
-        },
-        {
-          "name": "Wilmac",
-          "url": "https://twitter.com/search?q=Wilmac",
-          "tweet_count": ""
-        },
-        {
-          "name": "Konsa",
-          "url": "https://twitter.com/search?q=Konsa",
-          "tweet_count": ""
-        },
-        {
-          "name": "Santé Québec",
-          "url": "https://twitter.com/search?q=Sant%C3%A9%20Qu%C3%A9bec",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hump Day",
-          "url": "https://twitter.com/search?q=Hump%20Day",
-          "tweet_count": ""
-        },
-        {
-          "name": "#betya",
-          "url": "https://twitter.com/search?q=%23betya",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mosquera",
-          "url": "https://twitter.com/search?q=Mosquera",
-          "tweet_count": ""
-        },
-        {
-          "name": "#RTXPowersPlay",
-          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
-          "tweet_count": ""
-        },
-        {
-          "name": "Good Wednesday",
-          "url": "https://twitter.com/search?q=Good%20Wednesday",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cyrus",
-          "url": "https://twitter.com/search?q=Cyrus",
-          "tweet_count": ""
-        },
-        {
-          "name": "Natalie",
-          "url": "https://twitter.com/search?q=Natalie",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trump",
-          "url": "https://twitter.com/search?q=Trump",
-          "tweet_count": ""
-        },
-        {
-          "name": "NRED",
-          "url": "https://twitter.com/search?q=NRED",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ossoff",
-          "url": "https://twitter.com/search?q=Ossoff",
-          "tweet_count": ""
-        },
-        {
-          "name": "Saliba",
-          "url": "https://twitter.com/search?q=Saliba",
-          "tweet_count": ""
-        },
-        {
-          "name": "FOMC",
-          "url": "https://twitter.com/search?q=FOMC",
-          "tweet_count": ""
-        },
-        {
-          "name": "#BINI_SIGNALS_VANCOUVER",
-          "url": "https://twitter.com/search?q=%23BINI_SIGNALS_VANCOUVER",
-          "tweet_count": ""
-        },
-        {
-          "name": "Alejandro Kirk",
-          "url": "https://twitter.com/search?q=Alejandro%20Kirk",
-          "tweet_count": ""
-        },
-        {
-          "name": "#DWCS",
-          "url": "https://twitter.com/search?q=%23DWCS",
-          "tweet_count": ""
-        },
-        {
-          "name": "ZZ Top",
-          "url": "https://twitter.com/search?q=ZZ%20Top",
-          "tweet_count": ""
-        },
-        {
-          "name": "Frank Beard",
-          "url": "https://twitter.com/search?q=Frank%20Beard",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blaq",
-          "url": "https://twitter.com/search?q=Blaq",
-          "tweet_count": ""
-        },
-        {
-          "name": "Josh Smith",
-          "url": "https://twitter.com/search?q=Josh%20Smith",
-          "tweet_count": ""
-        },
-        {
-          "name": "Promise David",
-          "url": "https://twitter.com/search?q=Promise%20David",
-          "tweet_count": ""
-        },
-        {
-          "name": "#monarch",
-          "url": "https://twitter.com/search?q=%23monarch",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cineplex",
-          "url": "https://twitter.com/search?q=Cineplex",
-          "tweet_count": ""
-        },
-        {
-          "name": "Florida",
-          "url": "https://twitter.com/search?q=Florida",
-          "tweet_count": ""
-        },
-        {
-          "name": "GTA 6",
-          "url": "https://twitter.com/search?q=GTA%206",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lloyd",
-          "url": "https://twitter.com/search?q=Lloyd",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mainoo",
-          "url": "https://twitter.com/search?q=Mainoo",
-          "tweet_count": ""
-        },
-        {
-          "name": "waldron",
-          "url": "https://twitter.com/search?q=waldron",
-          "tweet_count": ""
-        },
-        {
-          "name": "Closing",
-          "url": "https://twitter.com/search?q=Closing",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jessica Davis",
-          "url": "https://twitter.com/search?q=Jessica%20Davis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mulroney",
-          "url": "https://twitter.com/search?q=Mulroney",
-          "tweet_count": ""
-        },
-        {
-          "name": "Crown Coins",
-          "url": "https://twitter.com/search?q=Crown%20Coins",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kimberly",
-          "url": "https://twitter.com/search?q=Kimberly",
-          "tweet_count": ""
-        },
-        {
-          "name": "Brighton",
-          "url": "https://twitter.com/search?q=Brighton",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vance",
-          "url": "https://twitter.com/search?q=Vance",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fishback",
-          "url": "https://twitter.com/search?q=Fishback",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rays",
-          "url": "https://twitter.com/search?q=Rays",
-          "tweet_count": ""
-        },
-        {
-          "name": "Wande",
-          "url": "https://twitter.com/search?q=Wande",
-          "tweet_count": ""
-        },
-        {
-          "name": "IMAX 70mm",
-          "url": "https://twitter.com/search?q=IMAX%2070mm",
-          "tweet_count": ""
-        },
-        {
-          "name": "Churchill Falls",
-          "url": "https://twitter.com/search?q=Churchill%20Falls",
-          "tweet_count": ""
-        },
-        {
-          "name": "Toronto Tempo",
-          "url": "https://twitter.com/search?q=Toronto%20Tempo",
-          "tweet_count": ""
-        },
-        {
-          "name": "Buck",
-          "url": "https://twitter.com/search?q=Buck",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vindman",
-          "url": "https://twitter.com/search?q=Vindman",
-          "tweet_count": ""
-        },
-        {
-          "name": "Swing",
-          "url": "https://twitter.com/search?q=Swing",
-          "tweet_count": ""
-        }
-      ]
     }
   ],
   "google": [
     {
+      "keyword": "fortnite",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkD_CF7-otunjnzHPxx-Octk5x7g7s1mKFl9rJbUeVCIkhx0glUKd2esmRJl8",
+      "picture_source": "Forbes",
+      "pub_date": "Wed, 19 Aug 2026 23:00:00 -0700",
+      "news": [
+        {
+          "title": "'Fortnite' Chapter 7, Season 4 Start-Time, Battle Pass And More",
+          "url": "https://www.forbes.com/sites/erikkain/2026/08/19/fortnite-chapter-7-season-4-override-start-time-servers-down/",
+          "source": "Forbes",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkD_CF7-otunjnzHPxx-Octk5x7g7s1mKFl9rJbUeVCIkhx0glUKd2esmRJl8"
+        },
+        {
+          "title": "All Fortnite Chapter 7 Season 4 Sprites at Launch – Complete List",
+          "url": "https://www.vice.com/en/article/fortnite-chapter-7-season-4-sprites-list/",
+          "source": "VICE",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROAityQlJ_8Rsnfu92tYbNVmhVzr2B_KegIfL2uACslUi9uYbvE5BZlkSi7qE"
+        },
+        {
+          "title": "Now It Will Be Sonic's Turn To Have A Gun In New Fortnite Update",
+          "url": "https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774",
+          "source": "Kotaku",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQj9FoOtKMxXBqsB6ZhSNvTjkK8mT_0MCVXjLzcb14RgRK4uhWoGIjRi7CJdto"
+        }
+      ]
+    },
+    {
+      "keyword": "motley fool",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNtWB_JybQPPqGKZEC1j6Ys7ubwMBmXYBafUoJMFYEuRawXFcbso3qbA5BZiw",
+      "picture_source": "The Motley Fool",
+      "pub_date": "Wed, 19 Aug 2026 22:30:00 -0700",
+      "news": [
+        {
+          "title": "Unfortunate News for Broadcom Stock Investors",
+          "url": "https://www.fool.com/investing/2026/08/18/unfortunate-news-for-broadcom-stock-investors/",
+          "source": "The Motley Fool",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNtWB_JybQPPqGKZEC1j6Ys7ubwMBmXYBafUoJMFYEuRawXFcbso3qbA5BZiw"
+        },
+        {
+          "title": "Cava Group Inc (CAVA) Shares Fall 4.6% -- What GF Score of 62 Te",
+          "url": "https://www.gurufocus.com/news/9039589/cava-group-inc-cava-shares-fall-46-what-gf-score-of-62-tells-investors",
+          "source": "GuruFocus",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRetxX6DGK3IZXSDqPAd48QZo27GwAwyGvNe2sFZBrPWgWnpP9Cl6VnZiKNfIc"
+        },
+        {
+          "title": "Best Semiconductor Stocks to Buy: Marvell Stock vs. Broadcom Stock",
+          "url": "https://www.fool.com/investing/2026/08/18/best-semiconductor-stocks-to-buy-marvell-stock-vs/",
+          "source": "The Motley Fool",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPR8_EISwk8JDUfhJ7j8iqnE_5FgAntjaIudmVviMdVsvsqg42rRcBGWVxUBY"
+        }
+      ]
+    },
+    {
       "keyword": "许家印",
       "traffic": "200+",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAAiaHUpLHtga-KgSTt2YsY5IdRuLRKUAS5Suf4NhJ_LxjYVpqxRbE5YXY16Q",
-      "picture_source": "搜狐网",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgILsfbzN5p5C4xwbc8s3eddwsP3vA16NTvAXdr5uak5WTwKDHDrfjxdlXkTE",
+      "picture_source": "Sin Chew Daily",
       "pub_date": "Wed, 19 Aug 2026 21:50:00 -0700",
       "news": [
         {
-          "title": "许家印被判处无期徒刑 恒大集团、恒大地产等案一审宣判",
-          "url": "https://www.sohu.com/a/1065273126_115239?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-          "source": "搜狐网",
+          "title": "涉非法吸存集资诈骗等罪 许家印2子同案获刑 - 国际 - 即时国际",
+          "url": "https://www.sinchew.com.my/news/20260820/international/7773996",
+          "source": "Sin Chew Daily",
           "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAAiaHUpLHtga-KgSTt2YsY5IdRuLRKUAS5Suf4NhJ_LxjYVpqxRbE5YXY16Q"
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgILsfbzN5p5C4xwbc8s3eddwsP3vA16NTvAXdr5uak5WTwKDHDrfjxdlXkTE"
         },
         {
-          "title": "恒大许家印︱非法集资诈骗罪成判无期徒刑 恒大系被罚近¥160亿",
-          "url": "https://www.stheadline.com/zh-hans/realtime-china/3606323/%E6%81%92%E5%A4%A7%E8%AE%B8%E5%AE%B6%E5%8D%B0%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84%E8%AF%88%E9%AA%97%E7%BD%AA%E6%88%90%E5%88%A4%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91-%E6%81%92%E5%A4%A7%E7%B3%BB%E8%A2%AB%E7%BD%9A%E8%BF%91160%E4%BA%BF",
-          "source": "星島頭條",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCG0LnpdQnw_JhHXgxS0UKxSuG0MAaXYmgYsZHZ9mUFO-PE1hoethksBLnCvM"
-        },
-        {
-          "title": "恒大集团、恒大地产、许家印等案宣判 数罪并罚重判落锤",
-          "url": "https://news.china.com/socialgd/10000169/20260820/49687961.html",
+          "title": "许家印两个儿子也判了 家族命运逆转",
+          "url": "https://news.china.com/socialgd/10000169/20260820/49688146.html",
           "source": "中华网",
           "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYg4Suy9nMuLcaLQ-W1zMCZat6djOFsb9c1j2PF5xcF4bBaJHj-2jvoxIYLHc"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlgeWob9MPvEATNkjGyiLsd-WarTZ4oHvbnD_QerBLtVL3-tD4xnoxMzi5zJw"
+        },
+        {
+          "title": "許家印受審照曝光 滿頭白髮令網民唏噓",
+          "url": "https://www.epochtimes.com/gb/26/8/20/n14833230.htm",
+          "source": "大纪元",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnEU2vnfgMSM7gICaFnUIQBUVewwKbFwtkn_9McUzQwmOI_dU9xm5NUFRiAHU"
         }
       ]
     },
@@ -6186,11 +6246,18 @@
       "pub_date": "Wed, 19 Aug 2026 21:50:00 -0700",
       "news": [
         {
-          "title": "DraftKings Promo Code: Spend $5, Get $150 Bonus For Diamondbacks-Red Sox, Any MLB Game",
-          "url": "https://www.sportsbettingdime.com/news/betting/draftkings-promo-code-spend-5-get-150-bonus-for-diamondbacks-red-sox-any-mlb-game/",
+          "title": "DraftKings Promo Code: Get $150 Bonus for Yankees-Orioles, DBacks-Red Sox Bonus Offer",
+          "url": "https://www.sportsbettingdime.com/news/betting/draftkings-promo-code-get-150-bonus-for-yankees-orioles-dbacks-red-sox-bonus-offer/",
           "source": "Sports Betting Dime",
           "snippet": "",
           "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPji8eICLIjRTx6u5sS7DSzE_JbFfjGwVfyJq07qKc4vyrL8UlCqKyeYGJuCQ"
+        },
+        {
+          "title": "Bet365 bonus code: Score $150 in bonus bets for Brewers-Mariners, Dodgers-Rockies, MLB betting on Wednesday",
+          "url": "https://www.cbssports.com/betting/news/bet365-bonus-code-score-150-in-bonus-bets-brewers-mariners-dodgers-rockies-mlb-betting-wednesday/",
+          "source": "CBS Sports",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLtK1K2dvuaBdefyB4ZwKPL88LqqULZUNKdLxEEUQ7aDyQaAQX6bKchn317M"
         },
         {
           "title": "The 10 lasting WWE reverberations from Solo Sikoa’s Samoan spike to Roman Reigns",
@@ -6198,36 +6265,89 @@
           "source": "Inbox.eu",
           "snippet": "",
           "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvUajDXRfJl65dSTfmtLgdR4j1RnhZDV5K6Ubiz6fWWhp_iD_vwaecdqi9oPM"
+        }
+      ]
+    },
+    {
+      "keyword": "pokerstars tournaments",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZTfwnAViJwPzZsJXwHIwGoP825ItgGI0uqvHBh_zomvq_l67aabCWlDnl6I0",
+      "picture_source": "The Times of India",
+      "pub_date": "Wed, 19 Aug 2026 21:50:00 -0700",
+      "news": [
+        {
+          "title": "'Behaving Like A Child': IRGC Commander Shows No Mercy To Trump In Rare Video Message",
+          "url": "https://timesofindia.indiatimes.com/videos/international/behaving-like-a-child-irgc-commander-shows-no-mercy-to-trump-in-rare-video-message/videoshow/133341328.cms",
+          "source": "The Times of India",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZTfwnAViJwPzZsJXwHIwGoP825ItgGI0uqvHBh_zomvq_l67aabCWlDnl6I0"
         },
         {
-          "title": "bet365 Indiana Bonus Code: Bet $10, Get $365 in Bonus Bets",
-          "url": "https://fightingirishwire.usatoday.com/story/sports/2026/08/19/bet365-indiana-bonus-code-for-august-19/91375677007/",
-          "source": "Fighting Irish Wire",
+          "title": "Paddy Power ambassador, Dara O’Kearney, finishes 4th at EPT Barcelo...",
+          "url": "https://pokerfuse.com/the-rail/2026/34/?post=6671",
+          "source": "Pokerfuse",
           "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCRjUcdJFKoLbFiNENAt9GMKtNOmVoOOXYEsE2DXTCN6WSosfZyVv6Pm9lAyE"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCdJYcRf3Y8-KbYXo2TFoH1S4IA89iBbBLkW5O7BfOpBAFkItkPC5CclLvreI"
+        },
+        {
+          "title": "Rezaei: Iran Will Not Surrender, and Those Who Flee in Food Truck Should Surrender",
+          "url": "https://saba.ye/en/news3767510.htm",
+          "source": "وكالة سبأ",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_3YRTxAA85SvCHOVkkQWyMnHyu_L0pz7Yrh1xMhiu4Ub8JOtdho_2Ya6khDo"
+        }
+      ]
+    },
+    {
+      "keyword": "car",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS09kDjhlUjF4E05SOhJBjE4W-XJWojPJTU7usxpOISq2zIe8Og4krvEynoxDU",
+      "picture_source": "BBC",
+      "pub_date": "Wed, 19 Aug 2026 21:30:00 -0700",
+      "news": [
+        {
+          "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+          "url": "https://www.bbc.com/news/articles/crl7yjlpx2po",
+          "source": "BBC",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS09kDjhlUjF4E05SOhJBjE4W-XJWojPJTU7usxpOISq2zIe8Og4krvEynoxDU"
+        },
+        {
+          "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
+          "url": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
+          "source": "NPR",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-eU1peLlewEf7h1R_ogwBBouFF0rflCN9iVDRIY48iXD7ZtJhhSOsfG46bes"
+        },
+        {
+          "title": "Israel opens criminal probes over killings of 6-year-old Palestinian girl Hind Rajab, Gaza rescue workers",
+          "url": "https://www.cbc.ca/news/world/israel-criminal-probe-palestinian-girl-killed-hind-rajab-9.7312142",
+          "source": "CBC",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvCwXMMxGTEZXABjlwtjwpYz42xZWagGonH2qqwIxdFE4pfW1ahAhHprk2olU"
         }
       ]
     },
     {
       "keyword": "dog",
-      "traffic": "500+",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeyafCC5q0PamQ3a18OlZRiuMNbU3mS-sYmy7YiyspuQBBDGt9z_bNve1t6FM",
-      "picture_source": "SooToday.com",
+      "traffic": "1000+",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJhuaqEIOGxqxdacAEuw3eGeU-t-cnn5-tzQQET7T2Q_uX3dY2TXav1LSC5U4",
+      "picture_source": "CBC",
       "pub_date": "Wed, 19 Aug 2026 21:20:00 -0700",
       "news": [
-        {
-          "title": "Bear attack victim says her dog saved her life",
-          "url": "https://www.sootoday.com/local-news/bear-attack-victim-says-her-dog-saved-her-life-12682195",
-          "source": "SooToday.com",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeyafCC5q0PamQ3a18OlZRiuMNbU3mS-sYmy7YiyspuQBBDGt9z_bNve1t6FM"
-        },
         {
           "title": "'She's our hero': Dog honoured after protecting Nipigon, Ont., family from black bear last fall",
           "url": "https://www.cbc.ca/news/canada/thunder-bay/chloe-dog-hall-of-fame-9.7311374",
           "source": "CBC",
           "snippet": "",
           "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJhuaqEIOGxqxdacAEuw3eGeU-t-cnn5-tzQQET7T2Q_uX3dY2TXav1LSC5U4"
+        },
+        {
+          "title": "Bear attack victim says her dog saved her life",
+          "url": "https://www.sootoday.com/local-news/bear-attack-victim-says-her-dog-saved-her-life-12682195",
+          "source": "SooToday.com",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeyafCC5q0PamQ3a18OlZRiuMNbU3mS-sYmy7YiyspuQBBDGt9z_bNve1t6FM"
         },
         {
           "title": "An Ontario family says a bear ‘barged’ into their home and attacked them. Then their dog stepped in",
@@ -6240,7 +6360,7 @@
     },
     {
       "keyword": "charlie day",
-      "traffic": "200+",
+      "traffic": "500+",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs3eA1dt_L_w2XBXZamquEkSKKYLAX7qAhvMrVXbl3yZnpdOrnAx6STGgcbkk",
       "picture_source": "The New Yorker",
       "pub_date": "Wed, 19 Aug 2026 21:00:00 -0700",
@@ -6253,18 +6373,18 @@
           "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs3eA1dt_L_w2XBXZamquEkSKKYLAX7qAhvMrVXbl3yZnpdOrnAx6STGgcbkk"
         },
         {
-          "title": "Here's what to expect from the new season of 'It's Always Sunny,' including a Mummers Parade memorial",
-          "url": "https://www.phillyvoice.com/its-always-sunny-in-philadelphia-18th-season-what-to-expect/",
-          "source": "PhillyVoice",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiElzxLeo34PN7lKIJqiUDG5GHPNbnVHwdc4s8DZcADISArx9trL4BBZlHB7A"
-        },
-        {
           "title": "‘It’s Always Sunny’ Season 18 Is for the Sickos",
           "url": "https://www.indiewire.com/criticism/shows/its-always-sunny-in-philadelphia-season-18-for-the-sickos-1235210525/",
           "source": "IndieWire",
           "snippet": "",
           "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdKQ8cyw4Rkor9dlappHu93jzh8filTWhiQFenXakqLzFwbHrkDq1tIbMKC8A"
+        },
+        {
+          "title": "‘It’s Always Sunny’ Honors Lynne Marie Stewart the Only Way It Knows How",
+          "url": "https://www.pajiba.com/news/its-always-sunny-honors-lynne-marie-stewart-the-only-way-it-knows-how.php",
+          "source": "Pajiba",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4enCJhg3BX2dj5CHPzIig3-IurbwpFJJ1q6hWnOZLkzfO5JI1BrqsIhr3Vhk"
         }
       ]
     },
@@ -6327,126 +6447,6 @@
           "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfT1fX5SibBziNZTNYDXy_zFKXF2tHjoVQEl3fQMzIiN0RCogqjBMimcvLjKc"
         }
       ]
-    },
-    {
-      "keyword": "aryna sabalenka",
-      "traffic": "1000+",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9mUDfQdEvI9RLvj1AZo5ShcpP4u5DefQQDED3Hr3ZBeZcYsTRa4678GaqNWE",
-      "picture_source": "BBC",
-      "pub_date": "Wed, 19 Aug 2026 20:00:00 -0700",
-      "news": [
-        {
-          "title": "Cincinnati Open: Aryna Sabalenka wins but Daniil Medvedev's frustrations boil over",
-          "url": "https://www.bbc.com/sport/tennis/articles/ce97ln7kp01o",
-          "source": "BBC",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9mUDfQdEvI9RLvj1AZo5ShcpP4u5DefQQDED3Hr3ZBeZcYsTRa4678GaqNWE"
-        },
-        {
-          "title": "Sabalenka cruises through as Medvedev falls to Nakashima at Cincinnati Open",
-          "url": "https://www.aljazeera.com/sports/2026/8/19/no-1-sabalenka-slams-wang-to-advance-at-cincinnati-open-medvedev-nakashima",
-          "source": "Al Jazeera",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkroyQTS6zztLR0aa8LXEljVmmV7c0XaT0AE-2m_QU4eA4IBV6X8KuwcX222A"
-        },
-        {
-          "title": "No. 1 Sabalenka slams Wang",
-          "url": "https://www.taipeitimes.com/News/sport/archives/2026/08/20/2003862799",
-          "source": "Taipei Times",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4-Th4Gj0mo2d-ZYYnZh-L_oSKVhPo9_wlG8hOWdKkNHv4D9XEZSXU5VYIeJU"
-        }
-      ]
-    },
-    {
-      "keyword": "montreal weather",
-      "traffic": "1000+",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcghCaw56UD-if0ydyoaXnsgid-F38je463SEQ7eBJW_FHBAHgHpTYcKidbwE",
-      "picture_source": "CityNews Montreal",
-      "pub_date": "Wed, 19 Aug 2026 20:00:00 -0700",
-      "news": [
-        {
-          "title": "Showers, risk of thunderstorm in Montreal Wednesday, but sun returns Thursday",
-          "url": "https://montreal.citynews.ca/2026/08/19/wet-wednesday-montreal-sun-returns-thursday/",
-          "source": "CityNews Montreal",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcghCaw56UD-if0ydyoaXnsgid-F38je463SEQ7eBJW_FHBAHgHpTYcKidbwE"
-        },
-        {
-          "title": "Tomorrow's Weather Montréal (Aug 20): Mild Morning, Cloudy Afternoon",
-          "url": "https://www.theweathernetwork.com/en/news/weather/local-forecasts/montreal-qc-weather-forecast-20-august",
-          "source": "The Weather Network",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx-OuprIwfg8bAyOkbkY1eWxoixKvi6zjPBh5DltKuUe1CTG3MLLIW2y1BMuQ"
-        },
-        {
-          "title": "Montreal weather: A perfect summer day if you’re a little weird",
-          "url": "https://montrealgazette.com/news/weather/montreal-weather-a-perfect-summer-day-if-youre-a-little-weird/",
-          "source": "Montreal Gazette",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmWMM_m51KcyAcLAeIauiTtxNTEJSK3PwyzvIp7Dy-ZSMVHMc5EJj3zTFeVcI"
-        }
-      ]
-    },
-    {
-      "keyword": "mathieu baron",
-      "traffic": "200+",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6x3rIOwkHR4u0NguRUAfvUDXb0FBIus1H79JOjxnn09R5VHpDhN7clr7wNhc",
-      "picture_source": "7 Jours",
-      "pub_date": "Wed, 19 Aug 2026 19:20:00 -0700",
-      "news": [
-        {
-          "title": "Mathieu Baron se confie sur son voyage en amoureux en Suisse",
-          "url": "https://www.7jours.ca/2026/08/20/mathieu-baron-se-confie-sur-son-voyage-en-amoureux-en-suisse",
-          "source": "7 Jours",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6x3rIOwkHR4u0NguRUAfvUDXb0FBIus1H79JOjxnn09R5VHpDhN7clr7wNhc"
-        },
-        {
-          "title": "«Mon cœur de maman est rempli»: Déclaration concernant Mathieu Baron",
-          "url": "https://hollywoodpq.com/mon-coeur-de-maman-est-rempli-declaration-concernant-mathieu-baron/",
-          "source": "Hollywood PQ",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJuDBzHz6uSyWMcHt0saovabF_tOF6NlNh3JjTczjFo0dc02fjDYk9qLOPu_c"
-        },
-        {
-          "title": "La blonde de Mathieu Baron publie de rares photos de son chum avec ses enfants",
-          "url": "https://vedettequebec.com/2026/08/19/blonde-mathieu-baron-publie-rares-photos-chum-avec-enfants/",
-          "source": "Vedette Québec",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKsQYggaDR4Ynrn43e6a_g6pCE3vbP0yiblZUpaUpBORlouwqUEDOxF7K-Iwc"
-        }
-      ]
-    },
-    {
-      "keyword": "lynx vs valkyries",
-      "traffic": "500+",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlx6W3fWmidClF81iCOJpVV6D1asHUvDBt52Fo5ags7GIvnZCwgzJltKfdhiE",
-      "picture_source": "Sportsnet.ca",
-      "pub_date": "Wed, 19 Aug 2026 19:10:00 -0700",
-      "news": [
-        {
-          "title": "Lynx beat Valkyries, lose Miles to injury",
-          "url": "https://www.sportsnet.ca/wnba/article/lynx-beat-valkyries-lose-miles-to-injury/",
-          "source": "Sportsnet.ca",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlx6W3fWmidClF81iCOJpVV6D1asHUvDBt52Fo5ags7GIvnZCwgzJltKfdhiE"
-        },
-        {
-          "title": "Olivia Miles has 20 points, 7 assists before ankle injury as WNBA-best Lynx beat Valkyries 77-66",
-          "url": "https://www.thestar.com/sports/basketball/olivia-miles-has-20-points-7-assists-before-ankle-injury-as-wnba-best-lynx-beat-valkyries-77-66/article_b2dce77b-ad33-51fe-9e86-1ba008cf17f0.html",
-          "source": "Toronto Star",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPvUf94twAx4XkDMgjKOP58g7z3x8_oblupIGqTiBXTgN9sLQyBqxpGgwzxuo"
-        },
-        {
-          "title": "Lynx vs. Valkyries Prediction, Odds, Best WNBA Prop Bet for Wednesday, Aug. 19",
-          "url": "https://www.si.com/betting/lynx-vs-valkyries-prediction-odds-best-wnba-prop-bet-for-wednesday-aug-19-01m0bygts9j8",
-          "source": "Sports Illustrated",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVuFtLqutwB4TC-vWYhhNgpCf-qXOOYzjREG5Dgaen0DpMeXuTx7Nu4OB_N64"
-        }
-      ]
     }
   ],
   "youtube": [
@@ -6502,9 +6502,9 @@
     {
       "rank": "8",
       "status": "NEW",
-      "title": "Avengers Doomsday Opening Scene & Trailer Breakdown",
-      "url": "https://youtu.be/Yi113sBCLDs",
-      "video_id": "Yi113sBCLDs"
+      "title": "Black Myth: Zhong Kui – 15 Minutes Gameplay Trailer",
+      "url": "https://youtu.be/oi2QgPH61JM",
+      "video_id": "oi2QgPH61JM"
     },
     {
       "rank": "9",
@@ -6516,30 +6516,30 @@
     {
       "rank": "10",
       "status": "NEW",
-      "title": "Fally Ipupa - Lost (Clip Officiel)",
-      "url": "https://youtu.be/VJbsHnGGUPo",
-      "video_id": "VJbsHnGGUPo"
+      "title": "Rex Orange County feat. Daniel Caesar - Indecision (Official Video)",
+      "url": "https://youtu.be/uh0SpzMsZAs",
+      "video_id": "uh0SpzMsZAs"
     },
     {
       "rank": "11",
       "status": "NEW",
-      "title": "Black Myth: Zhong Kui – 15 Minutes Gameplay Trailer",
-      "url": "https://youtu.be/oi2QgPH61JM",
-      "video_id": "oi2QgPH61JM"
+      "title": "Avengers Doomsday Opening Scene & Trailer Breakdown",
+      "url": "https://youtu.be/Yi113sBCLDs",
+      "video_id": "Yi113sBCLDs"
     },
     {
       "rank": "12",
       "status": "NEW",
-      "title": "Parrot and FlameFrags join Random Minecraft Servers!",
-      "url": "https://youtu.be/2U61wN-xXnc",
-      "video_id": "2U61wN-xXnc"
+      "title": "Our First Time Playing Resident Evil 2 (Part 2)",
+      "url": "https://youtu.be/xBB1l6e4wbw",
+      "video_id": "xBB1l6e4wbw"
     },
     {
       "rank": "13",
       "status": "NEW",
-      "title": "Rex Orange County feat. Daniel Caesar - Indecision (Official Video)",
-      "url": "https://youtu.be/uh0SpzMsZAs",
-      "video_id": "uh0SpzMsZAs"
+      "title": "Fally Ipupa - Lost (Clip Officiel)",
+      "url": "https://youtu.be/VJbsHnGGUPo",
+      "video_id": "VJbsHnGGUPo"
     },
     {
       "rank": "14",
@@ -6551,9 +6551,9 @@
     {
       "rank": "15",
       "status": "NEW",
-      "title": "​",
-      "url": "https://youtu.be/BPS_mffMzHI",
-      "video_id": "BPS_mffMzHI"
+      "title": "Parrot and FlameFrags join Random Minecraft Servers!",
+      "url": "https://youtu.be/2U61wN-xXnc",
+      "video_id": "2U61wN-xXnc"
     },
     {
       "rank": "16",
@@ -6572,16 +6572,16 @@
     {
       "rank": "18",
       "status": "NEW",
-      "title": "Our First Time Playing Resident Evil 2 (Part 2)",
-      "url": "https://youtu.be/xBB1l6e4wbw",
-      "video_id": "xBB1l6e4wbw"
+      "title": "​",
+      "url": "https://youtu.be/BPS_mffMzHI",
+      "video_id": "BPS_mffMzHI"
     },
     {
       "rank": "19",
-      "status": "NEW",
-      "title": "WALLFLOWER - DOMINIC FIKE",
-      "url": "https://youtu.be/b1jjURWPLy4",
-      "video_id": "b1jjURWPLy4"
+      "status": "-15",
+      "title": "Casper TNG, 100Bandplan - Die 2 Young (Official Music Video)",
+      "url": "https://youtu.be/XLa_pNSU50I",
+      "video_id": "XLa_pNSU50I"
     },
     {
       "rank": "20",
@@ -6593,16 +6593,16 @@
     {
       "rank": "21",
       "status": "NEW",
-      "title": "Destroying +1 Keyboard Escape With ADMIN..",
-      "url": "https://youtu.be/OvmXcVZXe4c",
-      "video_id": "OvmXcVZXe4c"
+      "title": "Planet Coaster, but you MUST make $100k",
+      "url": "https://youtu.be/AmcSmTtG4ck",
+      "video_id": "AmcSmTtG4ck"
     },
     {
       "rank": "22",
-      "status": "-18",
-      "title": "Casper TNG, 100Bandplan - Die 2 Young (Official Music Video)",
-      "url": "https://youtu.be/XLa_pNSU50I",
-      "video_id": "XLa_pNSU50I"
+      "status": "NEW",
+      "title": "WALLFLOWER - DOMINIC FIKE",
+      "url": "https://youtu.be/b1jjURWPLy4",
+      "video_id": "b1jjURWPLy4"
     },
     {
       "rank": "23",
@@ -6614,9 +6614,9 @@
     {
       "rank": "24",
       "status": "NEW",
-      "title": "Planet Coaster, but you MUST make $100k",
-      "url": "https://youtu.be/AmcSmTtG4ck",
-      "video_id": "AmcSmTtG4ck"
+      "title": "PLAYING THE LAST OF US PART 2",
+      "url": "https://youtu.be/0jw85PAcFEM",
+      "video_id": "0jw85PAcFEM"
     },
     {
       "rank": "25",
@@ -6635,9 +6635,9 @@
     {
       "rank": "27",
       "status": "NEW",
-      "title": "HIDING as FAST FOOD in Meccha Chameleon!",
-      "url": "https://youtu.be/0nEPVhR8phg",
-      "video_id": "0nEPVhR8phg"
+      "title": "Destroying +1 Keyboard Escape With ADMIN..",
+      "url": "https://youtu.be/OvmXcVZXe4c",
+      "video_id": "OvmXcVZXe4c"
     },
     {
       "rank": "28",
@@ -6656,9 +6656,9 @@
     {
       "rank": "30",
       "status": "NEW",
-      "title": "$5 vs $500 Guitar Hero Controller!",
-      "url": "https://youtu.be/AHP423JqiLc",
-      "video_id": "AHP423JqiLc"
+      "title": "The GTA 6 Leak Just Got Wilder...",
+      "url": "https://youtu.be/xCMMiq9xk58",
+      "video_id": "xCMMiq9xk58"
     },
     {
       "rank": "31",
@@ -6698,9 +6698,9 @@
     {
       "rank": "36",
       "status": "NEW",
-      "title": "The GTA 6 Leak Just Got Wilder...",
-      "url": "https://youtu.be/xCMMiq9xk58",
-      "video_id": "xCMMiq9xk58"
+      "title": "HIDING as FAST FOOD in Meccha Chameleon!",
+      "url": "https://youtu.be/0nEPVhR8phg",
+      "video_id": "0nEPVhR8phg"
     },
     {
       "rank": "37",
@@ -6719,9 +6719,9 @@
     {
       "rank": "39",
       "status": "NEW",
-      "title": "Putting Joel Into 2,500 Diamonds of Debt – Hermitcraft 11",
-      "url": "https://youtu.be/fJERMmvXlyc",
-      "video_id": "fJERMmvXlyc"
+      "title": "The Triple T Is After Me!",
+      "url": "https://youtu.be/cYCQswfj03w",
+      "video_id": "cYCQswfj03w"
     },
     {
       "rank": "40",
@@ -6740,9 +6740,9 @@
     {
       "rank": "42",
       "status": "NEW",
-      "title": "Je VENDS la Base French TACOS...",
-      "url": "https://youtu.be/9vYcku5DQg4",
-      "video_id": "9vYcku5DQg4"
+      "title": "$5 vs $500 Guitar Hero Controller!",
+      "url": "https://youtu.be/AHP423JqiLc",
+      "video_id": "AHP423JqiLc"
     },
     {
       "rank": "43",
@@ -6761,16 +6761,16 @@
     {
       "rank": "45",
       "status": "NEW",
-      "title": "The Triple T Is After Me!",
-      "url": "https://youtu.be/cYCQswfj03w",
-      "video_id": "cYCQswfj03w"
+      "title": "Je VENDS la Base French TACOS...",
+      "url": "https://youtu.be/9vYcku5DQg4",
+      "video_id": "9vYcku5DQg4"
     },
     {
       "rank": "46",
       "status": "NEW",
-      "title": "OURBIRTHDAY “SQUEEZY” M/V",
-      "url": "https://youtu.be/f5W2rZ1FdBQ",
-      "video_id": "f5W2rZ1FdBQ"
+      "title": "Bandits (Visualizer) - Jxggi, Sickboi | Inferno",
+      "url": "https://youtu.be/IMQRoxacS5Q",
+      "video_id": "IMQRoxacS5Q"
     },
     {
       "rank": "47",
@@ -6782,16 +6782,16 @@
     {
       "rank": "48",
       "status": "NEW",
-      "title": "You Have A ELEMENTAL Family in Minecraft!",
-      "url": "https://youtu.be/aAy2-Stqiwo",
-      "video_id": "aAy2-Stqiwo"
+      "title": "ROBLOX LOCK THE DOOR..",
+      "url": "https://youtu.be/0UNuhhw0o0w",
+      "video_id": "0UNuhhw0o0w"
     },
     {
       "rank": "49",
       "status": "NEW",
-      "title": "TREAT ME SPECIAL | RAWME HOODA | MC SQUARE | OFFICIAL MUSIC VIDEO | DESI HIP HOP HARYANVI SONG",
-      "url": "https://youtu.be/2oOWoN8IAF0",
-      "video_id": "2oOWoN8IAF0"
+      "title": "OURBIRTHDAY “SQUEEZY” M/V",
+      "url": "https://youtu.be/f5W2rZ1FdBQ",
+      "video_id": "f5W2rZ1FdBQ"
     },
     {
       "rank": "50",
