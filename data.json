@@ -1,7 +1,519 @@
 {
-  "last_updated": "2026-08-25 04:21:53 PM UTC",
-  "timestamp": 1787674914.631605,
+  "last_updated": "2026-08-25 05:21:17 PM UTC",
+  "timestamp": 1787678478.766122,
   "twitter": [
+    {
+      "time": "Tue Aug 25 2026 16:24:43 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1787675083.437,
+      "trends": [
+        {
+          "name": "Canada",
+          "url": "https://twitter.com/search?q=Canada",
+          "tweet_count": ""
+        },
+        {
+          "name": "Canada",
+          "url": "https://twitter.com/search?q=Canada",
+          "tweet_count": ""
+        },
+        {
+          "name": "Canadians",
+          "url": "https://twitter.com/search?q=Canadians",
+          "tweet_count": ""
+        },
+        {
+          "name": "China",
+          "url": "https://twitter.com/search?q=China",
+          "tweet_count": ""
+        },
+        {
+          "name": "The US",
+          "url": "https://twitter.com/search?q=The%20US",
+          "tweet_count": ""
+        },
+        {
+          "name": "Moscow",
+          "url": "https://twitter.com/search?q=Moscow",
+          "tweet_count": ""
+        },
+        {
+          "name": "Maine",
+          "url": "https://twitter.com/search?q=Maine",
+          "tweet_count": ""
+        },
+        {
+          "name": "As a Canadian",
+          "url": "https://twitter.com/search?q=As%20a%20Canadian",
+          "tweet_count": ""
+        },
+        {
+          "name": "Parliament",
+          "url": "https://twitter.com/search?q=Parliament",
+          "tweet_count": ""
+        },
+        {
+          "name": "New York Times",
+          "url": "https://twitter.com/search?q=New%20York%20Times",
+          "tweet_count": ""
+        },
+        {
+          "name": "Palmer",
+          "url": "https://twitter.com/search?q=Palmer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fabian",
+          "url": "https://twitter.com/search?q=Fabian",
+          "tweet_count": ""
+        },
+        {
+          "name": "Notley",
+          "url": "https://twitter.com/search?q=Notley",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chapman",
+          "url": "https://twitter.com/search?q=Chapman",
+          "tweet_count": ""
+        },
+        {
+          "name": "Enes",
+          "url": "https://twitter.com/search?q=Enes",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fulham",
+          "url": "https://twitter.com/search?q=Fulham",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Bessent",
+          "url": "https://twitter.com/search?q=Bessent",
+          "tweet_count": ""
+        },
+        {
+          "name": "John Ratcliffe",
+          "url": "https://twitter.com/search?q=John%20Ratcliffe",
+          "tweet_count": ""
+        },
+        {
+          "name": "Line 5",
+          "url": "https://twitter.com/search?q=Line%205",
+          "tweet_count": ""
+        },
+        {
+          "name": "Robert Sanchez",
+          "url": "https://twitter.com/search?q=Robert%20Sanchez",
+          "tweet_count": ""
+        },
+        {
+          "name": "Good Monday",
+          "url": "https://twitter.com/search?q=Good%20Monday",
+          "tweet_count": ""
+        },
+        {
+          "name": "Avançons",
+          "url": "https://twitter.com/search?q=Avan%C3%A7ons",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fat Trudeau",
+          "url": "https://twitter.com/search?q=Fat%20Trudeau",
+          "tweet_count": ""
+        },
+        {
+          "name": "#WWERaw",
+          "url": "https://twitter.com/search?q=%23WWERaw",
+          "tweet_count": ""
+        },
+        {
+          "name": "Marissal",
+          "url": "https://twitter.com/search?q=Marissal",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chelsea",
+          "url": "https://twitter.com/search?q=Chelsea",
+          "tweet_count": ""
+        },
+        {
+          "name": "Greer",
+          "url": "https://twitter.com/search?q=Greer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fire Jamil Jivani",
+          "url": "https://twitter.com/search?q=Fire%20Jamil%20Jivani",
+          "tweet_count": ""
+        },
+        {
+          "name": "Davie",
+          "url": "https://twitter.com/search?q=Davie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dragon Lee",
+          "url": "https://twitter.com/search?q=Dragon%20Lee",
+          "tweet_count": ""
+        },
+        {
+          "name": "USMCA",
+          "url": "https://twitter.com/search?q=USMCA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Taschereau",
+          "url": "https://twitter.com/search?q=Taschereau",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jeffries",
+          "url": "https://twitter.com/search?q=Jeffries",
+          "tweet_count": ""
+        },
+        {
+          "name": "#XAUUSD",
+          "url": "https://twitter.com/search?q=%23XAUUSD",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kenney",
+          "url": "https://twitter.com/search?q=Kenney",
+          "tweet_count": ""
+        },
+        {
+          "name": "CUSMA",
+          "url": "https://twitter.com/search?q=CUSMA",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BINI_SIGNALS_WINNIPEG",
+          "url": "https://twitter.com/search?q=%23BINI_SIGNALS_WINNIPEG",
+          "tweet_count": ""
+        },
+        {
+          "name": "Big Cass",
+          "url": "https://twitter.com/search?q=Big%20Cass",
+          "tweet_count": ""
+        },
+        {
+          "name": "Freudian",
+          "url": "https://twitter.com/search?q=Freudian",
+          "tweet_count": ""
+        },
+        {
+          "name": "NATO",
+          "url": "https://twitter.com/search?q=NATO",
+          "tweet_count": ""
+        },
+        {
+          "name": "Panthers",
+          "url": "https://twitter.com/search?q=Panthers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Shuv",
+          "url": "https://twitter.com/search?q=Shuv",
+          "tweet_count": ""
+        },
+        {
+          "name": "Algoma Steel",
+          "url": "https://twitter.com/search?q=Algoma%20Steel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lévis",
+          "url": "https://twitter.com/search?q=L%C3%A9vis",
+          "tweet_count": ""
+        },
+        {
+          "name": "BINI SIGNALS INVADES WINNIPEG",
+          "url": "https://twitter.com/search?q=BINI%20SIGNALS%20INVADES%20WINNIPEG",
+          "tweet_count": ""
+        },
+        {
+          "name": "WNBA",
+          "url": "https://twitter.com/search?q=WNBA",
+          "tweet_count": ""
+        },
+        {
+          "name": "#TradeWar",
+          "url": "https://twitter.com/search?q=%23TradeWar",
+          "tweet_count": ""
+        },
+        {
+          "name": "Nvidia",
+          "url": "https://twitter.com/search?q=Nvidia",
+          "tweet_count": ""
+        },
+        {
+          "name": "Good Tuesday",
+          "url": "https://twitter.com/search?q=Good%20Tuesday",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Tue Aug 25 2026 16:24:29 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1787675069.284,
+      "trends": [
+        {
+          "name": "Canada",
+          "url": "https://twitter.com/search?q=Canada",
+          "tweet_count": ""
+        },
+        {
+          "name": "Canada",
+          "url": "https://twitter.com/search?q=Canada",
+          "tweet_count": ""
+        },
+        {
+          "name": "Canadians",
+          "url": "https://twitter.com/search?q=Canadians",
+          "tweet_count": ""
+        },
+        {
+          "name": "China",
+          "url": "https://twitter.com/search?q=China",
+          "tweet_count": ""
+        },
+        {
+          "name": "The US",
+          "url": "https://twitter.com/search?q=The%20US",
+          "tweet_count": ""
+        },
+        {
+          "name": "Moscow",
+          "url": "https://twitter.com/search?q=Moscow",
+          "tweet_count": ""
+        },
+        {
+          "name": "Maine",
+          "url": "https://twitter.com/search?q=Maine",
+          "tweet_count": ""
+        },
+        {
+          "name": "As a Canadian",
+          "url": "https://twitter.com/search?q=As%20a%20Canadian",
+          "tweet_count": ""
+        },
+        {
+          "name": "Parliament",
+          "url": "https://twitter.com/search?q=Parliament",
+          "tweet_count": ""
+        },
+        {
+          "name": "New York Times",
+          "url": "https://twitter.com/search?q=New%20York%20Times",
+          "tweet_count": ""
+        },
+        {
+          "name": "Palmer",
+          "url": "https://twitter.com/search?q=Palmer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fabian",
+          "url": "https://twitter.com/search?q=Fabian",
+          "tweet_count": ""
+        },
+        {
+          "name": "Notley",
+          "url": "https://twitter.com/search?q=Notley",
+          "tweet_count": ""
+        },
+        {
+          "name": "Enes",
+          "url": "https://twitter.com/search?q=Enes",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chapman",
+          "url": "https://twitter.com/search?q=Chapman",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fulham",
+          "url": "https://twitter.com/search?q=Fulham",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Bessent",
+          "url": "https://twitter.com/search?q=Bessent",
+          "tweet_count": ""
+        },
+        {
+          "name": "John Ratcliffe",
+          "url": "https://twitter.com/search?q=John%20Ratcliffe",
+          "tweet_count": ""
+        },
+        {
+          "name": "Line 5",
+          "url": "https://twitter.com/search?q=Line%205",
+          "tweet_count": ""
+        },
+        {
+          "name": "Robert Sanchez",
+          "url": "https://twitter.com/search?q=Robert%20Sanchez",
+          "tweet_count": ""
+        },
+        {
+          "name": "Good Monday",
+          "url": "https://twitter.com/search?q=Good%20Monday",
+          "tweet_count": ""
+        },
+        {
+          "name": "Avançons",
+          "url": "https://twitter.com/search?q=Avan%C3%A7ons",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fat Trudeau",
+          "url": "https://twitter.com/search?q=Fat%20Trudeau",
+          "tweet_count": ""
+        },
+        {
+          "name": "#WWERaw",
+          "url": "https://twitter.com/search?q=%23WWERaw",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chelsea",
+          "url": "https://twitter.com/search?q=Chelsea",
+          "tweet_count": ""
+        },
+        {
+          "name": "Marissal",
+          "url": "https://twitter.com/search?q=Marissal",
+          "tweet_count": ""
+        },
+        {
+          "name": "Greer",
+          "url": "https://twitter.com/search?q=Greer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fire Jamil Jivani",
+          "url": "https://twitter.com/search?q=Fire%20Jamil%20Jivani",
+          "tweet_count": ""
+        },
+        {
+          "name": "Davie",
+          "url": "https://twitter.com/search?q=Davie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dragon Lee",
+          "url": "https://twitter.com/search?q=Dragon%20Lee",
+          "tweet_count": ""
+        },
+        {
+          "name": "USMCA",
+          "url": "https://twitter.com/search?q=USMCA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Taschereau",
+          "url": "https://twitter.com/search?q=Taschereau",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jeffries",
+          "url": "https://twitter.com/search?q=Jeffries",
+          "tweet_count": ""
+        },
+        {
+          "name": "#XAUUSD",
+          "url": "https://twitter.com/search?q=%23XAUUSD",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kenney",
+          "url": "https://twitter.com/search?q=Kenney",
+          "tweet_count": ""
+        },
+        {
+          "name": "CUSMA",
+          "url": "https://twitter.com/search?q=CUSMA",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BINI_SIGNALS_WINNIPEG",
+          "url": "https://twitter.com/search?q=%23BINI_SIGNALS_WINNIPEG",
+          "tweet_count": ""
+        },
+        {
+          "name": "Big Cass",
+          "url": "https://twitter.com/search?q=Big%20Cass",
+          "tweet_count": ""
+        },
+        {
+          "name": "Freudian",
+          "url": "https://twitter.com/search?q=Freudian",
+          "tweet_count": ""
+        },
+        {
+          "name": "Panthers",
+          "url": "https://twitter.com/search?q=Panthers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Shuv",
+          "url": "https://twitter.com/search?q=Shuv",
+          "tweet_count": ""
+        },
+        {
+          "name": "Algoma Steel",
+          "url": "https://twitter.com/search?q=Algoma%20Steel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lévis",
+          "url": "https://twitter.com/search?q=L%C3%A9vis",
+          "tweet_count": ""
+        },
+        {
+          "name": "BINI SIGNALS INVADES WINNIPEG",
+          "url": "https://twitter.com/search?q=BINI%20SIGNALS%20INVADES%20WINNIPEG",
+          "tweet_count": ""
+        },
+        {
+          "name": "NATO",
+          "url": "https://twitter.com/search?q=NATO",
+          "tweet_count": ""
+        },
+        {
+          "name": "#TradeWar",
+          "url": "https://twitter.com/search?q=%23TradeWar",
+          "tweet_count": ""
+        },
+        {
+          "name": "WNBA",
+          "url": "https://twitter.com/search?q=WNBA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Nvidia",
+          "url": "https://twitter.com/search?q=Nvidia",
+          "tweet_count": ""
+        },
+        {
+          "name": "Good Tuesday",
+          "url": "https://twitter.com/search?q=Good%20Tuesday",
+          "tweet_count": ""
+        }
+      ]
+    },
     {
       "time": "Tue Aug 25 2026 15:30:55 GMT+0000 (Coordinated Universal Time)",
       "epoch": 1787671855.532,
@@ -5498,393 +6010,286 @@
           "tweet_count": ""
         }
       ]
-    },
-    {
-      "time": "Mon Aug 24 2026 21:49:05 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1787608145.313,
-      "trends": [
-        {
-          "name": "Ford",
-          "url": "https://twitter.com/search?q=Ford",
-          "tweet_count": ""
-        },
-        {
-          "name": "Palmer",
-          "url": "https://twitter.com/search?q=Palmer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Chelsea",
-          "url": "https://twitter.com/search?q=Chelsea",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sanchez",
-          "url": "https://twitter.com/search?q=Sanchez",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fulham",
-          "url": "https://twitter.com/search?q=Fulham",
-          "tweet_count": ""
-        },
-        {
-          "name": "Colwill",
-          "url": "https://twitter.com/search?q=Colwill",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lacroix",
-          "url": "https://twitter.com/search?q=Lacroix",
-          "tweet_count": ""
-        },
-        {
-          "name": "Maine",
-          "url": "https://twitter.com/search?q=Maine",
-          "tweet_count": ""
-        },
-        {
-          "name": "Taschereau",
-          "url": "https://twitter.com/search?q=Taschereau",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xabi",
-          "url": "https://twitter.com/search?q=Xabi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vance",
-          "url": "https://twitter.com/search?q=Vance",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vincent Marissal",
-          "url": "https://twitter.com/search?q=Vincent%20Marissal",
-          "tweet_count": ""
-        },
-        {
-          "name": "Joao Pedro",
-          "url": "https://twitter.com/search?q=Joao%20Pedro",
-          "tweet_count": ""
-        },
-        {
-          "name": "Enzo",
-          "url": "https://twitter.com/search?q=Enzo",
-          "tweet_count": ""
-        },
-        {
-          "name": "#FULCHE",
-          "url": "https://twitter.com/search?q=%23FULCHE",
-          "tweet_count": ""
-        },
-        {
-          "name": "Governor Carney",
-          "url": "https://twitter.com/search?q=Governor%20Carney",
-          "tweet_count": ""
-        },
-        {
-          "name": "Josh King",
-          "url": "https://twitter.com/search?q=Josh%20King",
-          "tweet_count": ""
-        },
-        {
-          "name": "Caicedo",
-          "url": "https://twitter.com/search?q=Caicedo",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lavia",
-          "url": "https://twitter.com/search?q=Lavia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Bessent",
-          "url": "https://twitter.com/search?q=Bessent",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fat Trudeau",
-          "url": "https://twitter.com/search?q=Fat%20Trudeau",
-          "tweet_count": ""
-        },
-        {
-          "name": "Davie",
-          "url": "https://twitter.com/search?q=Davie",
-          "tweet_count": ""
-        },
-        {
-          "name": "49ers",
-          "url": "https://twitter.com/search?q=49ers",
-          "tweet_count": ""
-        },
-        {
-          "name": "Line 5",
-          "url": "https://twitter.com/search?q=Line%205",
-          "tweet_count": ""
-        },
-        {
-          "name": "Greer",
-          "url": "https://twitter.com/search?q=Greer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Captain Canada",
-          "url": "https://twitter.com/search?q=Captain%20Canada",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sheba",
-          "url": "https://twitter.com/search?q=Sheba",
-          "tweet_count": ""
-        },
-        {
-          "name": "Roma",
-          "url": "https://twitter.com/search?q=Roma",
-          "tweet_count": ""
-        },
-        {
-          "name": "Michigan",
-          "url": "https://twitter.com/search?q=Michigan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Avançons",
-          "url": "https://twitter.com/search?q=Avan%C3%A7ons",
-          "tweet_count": ""
-        },
-        {
-          "name": "Arctic",
-          "url": "https://twitter.com/search?q=Arctic",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ontario and Quebec",
-          "url": "https://twitter.com/search?q=Ontario%20and%20Quebec",
-          "tweet_count": ""
-        },
-        {
-          "name": "Browns",
-          "url": "https://twitter.com/search?q=Browns",
-          "tweet_count": ""
-        },
-        {
-          "name": "The EU",
-          "url": "https://twitter.com/search?q=The%20EU",
-          "tweet_count": ""
-        },
-        {
-          "name": "#TradeWar",
-          "url": "https://twitter.com/search?q=%23TradeWar",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jamil Jivani",
-          "url": "https://twitter.com/search?q=Jamil%20Jivani",
-          "tweet_count": ""
-        },
-        {
-          "name": "Gakpo",
-          "url": "https://twitter.com/search?q=Gakpo",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Mon Aug 24 2026 20:56:13 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1787604973.264,
-      "trends": [
-        {
-          "name": "Ford",
-          "url": "https://twitter.com/search?q=Ford",
-          "tweet_count": ""
-        },
-        {
-          "name": "Palmer",
-          "url": "https://twitter.com/search?q=Palmer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sanchez",
-          "url": "https://twitter.com/search?q=Sanchez",
-          "tweet_count": ""
-        },
-        {
-          "name": "Chelsea",
-          "url": "https://twitter.com/search?q=Chelsea",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fulham",
-          "url": "https://twitter.com/search?q=Fulham",
-          "tweet_count": ""
-        },
-        {
-          "name": "Colwill",
-          "url": "https://twitter.com/search?q=Colwill",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lacroix",
-          "url": "https://twitter.com/search?q=Lacroix",
-          "tweet_count": ""
-        },
-        {
-          "name": "Maine",
-          "url": "https://twitter.com/search?q=Maine",
-          "tweet_count": ""
-        },
-        {
-          "name": "Marissal",
-          "url": "https://twitter.com/search?q=Marissal",
-          "tweet_count": ""
-        },
-        {
-          "name": "Taschereau",
-          "url": "https://twitter.com/search?q=Taschereau",
-          "tweet_count": ""
-        },
-        {
-          "name": "Enzo",
-          "url": "https://twitter.com/search?q=Enzo",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vance",
-          "url": "https://twitter.com/search?q=Vance",
-          "tweet_count": ""
-        },
-        {
-          "name": "#FULCHE",
-          "url": "https://twitter.com/search?q=%23FULCHE",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lavia",
-          "url": "https://twitter.com/search?q=Lavia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Joao Pedro",
-          "url": "https://twitter.com/search?q=Joao%20Pedro",
-          "tweet_count": ""
-        },
-        {
-          "name": "Governor Carney",
-          "url": "https://twitter.com/search?q=Governor%20Carney",
-          "tweet_count": ""
-        },
-        {
-          "name": "Caicedo",
-          "url": "https://twitter.com/search?q=Caicedo",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fat Trudeau",
-          "url": "https://twitter.com/search?q=Fat%20Trudeau",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xabi",
-          "url": "https://twitter.com/search?q=Xabi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Bessent",
-          "url": "https://twitter.com/search?q=Bessent",
-          "tweet_count": ""
-        },
-        {
-          "name": "Line 5",
-          "url": "https://twitter.com/search?q=Line%205",
-          "tweet_count": ""
-        },
-        {
-          "name": "Greer",
-          "url": "https://twitter.com/search?q=Greer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sheba",
-          "url": "https://twitter.com/search?q=Sheba",
-          "tweet_count": ""
-        },
-        {
-          "name": "Roma",
-          "url": "https://twitter.com/search?q=Roma",
-          "tweet_count": ""
-        },
-        {
-          "name": "49ers",
-          "url": "https://twitter.com/search?q=49ers",
-          "tweet_count": ""
-        },
-        {
-          "name": "Parliament",
-          "url": "https://twitter.com/search?q=Parliament",
-          "tweet_count": ""
-        },
-        {
-          "name": "Browns",
-          "url": "https://twitter.com/search?q=Browns",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ontario and Quebec",
-          "url": "https://twitter.com/search?q=Ontario%20and%20Quebec",
-          "tweet_count": ""
-        },
-        {
-          "name": "Avançons",
-          "url": "https://twitter.com/search?q=Avan%C3%A7ons",
-          "tweet_count": ""
-        },
-        {
-          "name": "China and Russia",
-          "url": "https://twitter.com/search?q=China%20and%20Russia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Captain Canada",
-          "url": "https://twitter.com/search?q=Captain%20Canada",
-          "tweet_count": ""
-        },
-        {
-          "name": "Arctic",
-          "url": "https://twitter.com/search?q=Arctic",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jamil Jivani",
-          "url": "https://twitter.com/search?q=Jamil%20Jivani",
-          "tweet_count": ""
-        },
-        {
-          "name": "Gakpo",
-          "url": "https://twitter.com/search?q=Gakpo",
-          "tweet_count": ""
-        },
-        {
-          "name": "FAFO",
-          "url": "https://twitter.com/search?q=FAFO",
-          "tweet_count": ""
-        },
-        {
-          "name": "Deshaun Watson",
-          "url": "https://twitter.com/search?q=Deshaun%20Watson",
-          "tweet_count": ""
-        }
-      ]
     }
   ],
   "google": [
     {
+      "keyword": "al-ettifaq vs al-nassr",
+      "traffic": "200+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+      "picture_source": "BBC",
+      "pub_date": "Tue, 25 Aug 2026 10:10:00 -0700",
+      "news": [
+        {
+          "title": "Al Ettifaq vs Al Nassr: Saudi Pro League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cqp8x6lplr52t",
+          "source": "BBC",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
+        },
+        {
+          "title": "Is Cristiano Ronaldo playing today for Al Nassr vs Al Ettifaq in Matchday 3 of 2026-27 Saudi Pro League sea...",
+          "url": "https://worldsoccertalk.com/news/is-cristiano-ronaldo-playing-today-for-al-nassr-vs-al-ettifaq-in-matchday-3-of-2026-27-saudi-pro-league-season/",
+          "source": "World Soccer Talk",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4j9pm316gv3esZBpx9dKWsh363au2o3Y82OmdxW_EJ9NdI42PjMQyHX7zJ3U"
+        },
+        {
+          "title": "Al Ettifaq vs Al Nassr Lineups Today: Confirmed Starting XI, Team News and Live Updates",
+          "url": "https://heavy.com/sports/soccer/al-ettifaq-vs-al-nassr-lineups-today-confirmed-starting-xi-team-news-and-live-updates/",
+          "source": "Heavy.com",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLV-GIB-FzDRbTGkpvc95pvlsyQ5T3JaOVNOQLGOq6ZU2X2DrLIPsIDvVAkAw"
+        }
+      ]
+    },
+    {
+      "keyword": "kevin hayes",
+      "traffic": "200+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReIsgGwFh5h3t6ZnqzqmbwHnTf5DywSUjCVrAOiD5rQqi4DzQvV1lCF0baha8",
+      "picture_source": "Daily Faceoff",
+      "pub_date": "Tue, 25 Aug 2026 10:10:00 -0700",
+      "news": [
+        {
+          "title": "Veteran NHLer Kevin Hayes signs one-year contract in KHL",
+          "url": "https://www.dailyfaceoff.com/news/kevin-hayes-one-year-contract-khl-ak-bars-kazan-pittsburgh-penguins-nhl-news-signings",
+          "source": "Daily Faceoff",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReIsgGwFh5h3t6ZnqzqmbwHnTf5DywSUjCVrAOiD5rQqi4DzQvV1lCF0baha8"
+        },
+        {
+          "title": "After 12 NHL seasons, Kevin Hayes headed to KHL on one-year deal",
+          "url": "https://www.sportsnet.ca/nhl/article/after-12-nhl-seasons-kevin-hayes-headed-to-khl-on-one-year-deal/",
+          "source": "Sportsnet.ca",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCeXuqVQKp6bqn2KoZ_VLz3GHc3_6X6o3Y7ZWlJa8XmvKeyzpxYPAdp0PWm-8"
+        },
+        {
+          "title": "Former Rangers Forward Signs In KHL After Penguins Stint",
+          "url": "https://thehockeynews.com/nhl/new-york-rangers/latest-news/former-rangers-forward-signs-in-khl-after-penguins-stint",
+          "source": "The Hockey News",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK-H-GOwoJ9z-EYREOUI-shm6hTRlpKjaommac_Tn_XnWGF80kc_1UFrSqZ2E"
+        }
+      ]
+    },
+    {
+      "keyword": "lions vs new zealand",
+      "traffic": "200+",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7o0mvFmOjd47UCsd8gM8wXgneJSbbCwsjTpzrfOr0VbKL44Y--FojzsANbYM",
+      "picture_source": "Stuff",
+      "pub_date": "Tue, 25 Aug 2026 10:10:00 -0700",
+      "news": [
+        {
+          "title": "All Blacks v Lions: All you need to know about the Rugby’s Greatest Rivalry game in Johannesburg",
+          "url": "https://www.stuff.co.nz/sport/361023946/all-blacks-v-lions-all-you-need-know-about-rugbys-greatest-rivalry-game-johannesburg",
+          "source": "Stuff",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7o0mvFmOjd47UCsd8gM8wXgneJSbbCwsjTpzrfOr0VbKL44Y--FojzsANbYM"
+        },
+        {
+          "title": "All Blacks team named to play the Lions",
+          "url": "https://www.allblacks.com/news/all-blacks/all-blacks-team-named-to-play-the-lions",
+          "source": "All Blacks",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9nd8kE58XmlKt5TsKjQIq_PT7vStR1LLmr9jmFJmv4tS8vasT5006i4O4aUg"
+        },
+        {
+          "title": "New Zealand's Mo’unga returns to stake World Cup claims",
+          "url": "https://www.reuters.com/sports/new-zealands-mounga-returns-stake-world-cup-claims-2026-08-24/",
+          "source": "Reuters",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQH0lZwuy-Tl30VVFp69Q-r-pJOLKSry5ZvgFxOzRAc41kw_gtdqIYXbPnXd5Y"
+        }
+      ]
+    },
+    {
+      "keyword": "coroner",
+      "traffic": "200+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKy9Dq521Iltegwnj_Zo1dGkR7rODNVO0t4FtslSy9gIPfvRR0GYS_ILimYLg",
+      "picture_source": "FOX Carolina News",
+      "pub_date": "Tue, 25 Aug 2026 10:10:00 -0700",
+      "news": [
+        {
+          "title": "Investigation underway after body found in Laurens County, coroner says",
+          "url": "https://www.foxcarolina.com/2026/08/25/investigation-underway-after-body-found-laurens-county-coroner-says/",
+          "source": "FOX Carolina News",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKy9Dq521Iltegwnj_Zo1dGkR7rODNVO0t4FtslSy9gIPfvRR0GYS_ILimYLg"
+        },
+        {
+          "title": "Body found in Upstate; death investigation beginning, coroner says",
+          "url": "https://www.wyff4.com/article/body-found-in-laurens-south-carolina/73521989",
+          "source": "WYFF",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqMEnfZydjXdvKHHWZPC2tWc7O0G4pTsVHoL9Im33_Pze-i8B3aUNy8zKE6pw"
+        },
+        {
+          "title": "Body found in Laurens County: Coroner",
+          "url": "https://www.yahoo.com/news/articles/body-found-laurens-county-coroner-154427647.html",
+          "source": "Yahoo",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGITiLmn-aCqxyD5dARPMP7Ch9JO12QUjS3oBihUqBua9rM4HRwtEam3EF5tA"
+        }
+      ]
+    },
+    {
+      "keyword": "nicolas marceau",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvcNnlCxRE7WA2ZHGJRXK5u6QXw1BnLU4q2aujzQiCMaZ8qPyvGj2eWpUgbss",
+      "picture_source": "Radio-Canada",
+      "pub_date": "Tue, 25 Aug 2026 10:00:00 -0700",
+      "news": [
+        {
+          "title": "L’ex-ministre des Finances Nicolas Marceau tentera un retour en politique avec le PQ",
+          "url": "https://ici.radio-canada.ca/nouvelle/2277557/nicolas-marceau-candidat-parti-quebecois",
+          "source": "Radio-Canada",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvcNnlCxRE7WA2ZHGJRXK5u6QXw1BnLU4q2aujzQiCMaZ8qPyvGj2eWpUgbss"
+        },
+        {
+          "title": "L’ex-ministre Nicolas Marceau sera candidat pour le Parti Québécois",
+          "url": "https://www.journaldemontreal.com/2026/08/25/lex-ministre-nicolas-marceau-sera-candidat-pour-le-parti-quebecois",
+          "source": "Le Journal de Montréal",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-0vV-fE44dArmW-wXJ07uRZJf_6jQXZ_JCcs3qAj6t2Tp2xRKKEfaGa8ibTQ"
+        }
+      ]
+    },
+    {
+      "keyword": "erik karlsson",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwp-AQgQ20Q63rfshkfUI9IxbWsAVmV5nlYpWD9kt5Oe4cBY-mQ5siQJtF69M",
+      "picture_source": "Heavy.com",
+      "pub_date": "Tue, 25 Aug 2026 10:00:00 -0700",
+      "news": [
+        {
+          "title": "Maple Leafs Predicted to Trade for $92 Million Star Defenseman",
+          "url": "https://heavy.com/sports/nhl/toronto-maple-leafs/toronto-maple-leafs-erik-karlsson-links/",
+          "source": "Heavy.com",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwp-AQgQ20Q63rfshkfUI9IxbWsAVmV5nlYpWD9kt5Oe4cBY-mQ5siQJtF69M"
+        },
+        {
+          "title": "NHL Rumors: Karlsson to Toronto, Edvinsson Baffled, Hughes and Makar News",
+          "url": "https://thehockeywriters.com/nhl-rumors-karlsson-toronto-edvinsson-baffled-hughes-makar-news-08-25-2026/",
+          "source": "The Hockey Writers",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSJIkpZ1lsC2u5Tp64IxGv6Nl4lBxmE4TkMEt_dVEwdiI5PO2z2n-Jdue9se4"
+        },
+        {
+          "title": "Toronto Maple Leafs acquire defenseman Erik Karlsson from the Pittsburgh Penguins in this Friedman prediction",
+          "url": "https://www.markerzone.com/news/index.php?no=602074",
+          "source": "Markerzone.com",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7tUUKP2RWUm7n3AI6--kxbexNHDgB1HUk78Mc_e2M9Q_ILz8moeRVm3TE2z8"
+        }
+      ]
+    },
+    {
+      "keyword": "desjardins",
+      "traffic": "2000+",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdRrFvfvQQNttb_CgID-H_YYF-RFp2a6A7Q8jouJyc96NErbfTliVk04kRKco",
+      "picture_source": "TVA Nouvelles",
+      "pub_date": "Tue, 25 Aug 2026 09:50:00 -0700",
+      "news": [
+        {
+          "title": "La firme américaine des cartes de crédit Desjardins victime de deux vols de données",
+          "url": "https://www.tvanouvelles.ca/2026/08/24/la-firme-americaine-des-cartes-de-credit-desjardins-victime-de-deux-vols-de-donnees",
+          "source": "TVA Nouvelles",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdRrFvfvQQNttb_CgID-H_YYF-RFp2a6A7Q8jouJyc96NErbfTliVk04kRKco"
+        },
+        {
+          "title": "Les membres de Pontiac Desjardins voteront sur le projet de fusion avec la Caisse Gracefield",
+          "url": "https://chipfm.com/les-membres-de-pontiac-desjardins-voteront-sur-le-projet-de-fusion-avec-la-caisse-gracefield",
+          "source": "CHIP FM",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVye-kTtOyjBURcV4SBiDnIM43IFm9-_1nWllPAUoqnoxHnVg1WxH6IomNSBQ"
+        },
+        {
+          "title": "Candidatures controversées: la grogne monte au PQ dans la région de Québec",
+          "url": "https://www.journaldemontreal.com/2026/08/25/candidatures-controversees-la-grogne-monte-au-pq-dans-la-region-de-quebec",
+          "source": "Le Journal de Montréal",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPsCgjtWAHslypZGZAKamzEklcDFdiJDHscumk-6BqyJ767hpycWt0W2lFsB0"
+        }
+      ]
+    },
+    {
+      "keyword": "harlan coben",
+      "traffic": "500+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzP14Nrlch4xOikV7LuKCz4dWbQbA1kgch1CdGfRDHfbo-70K-PJUaay8FlFU",
+      "picture_source": "Good Housekeeping",
+      "pub_date": "Tue, 25 Aug 2026 09:30:00 -0700",
+      "news": [
+        {
+          "title": "“Better than Fool Me Once”: 7 “terrific” Harlan Coben-style thrillers to watch on ITV, Netflix, the BBC & more",
+          "url": "https://www.goodhousekeeping.com/uk/lifestyle/a73519943/harlan-coben-style-thrillers-to-watch-now/",
+          "source": "Good Housekeeping",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzP14Nrlch4xOikV7LuKCz4dWbQbA1kgch1CdGfRDHfbo-70K-PJUaay8FlFU"
+        },
+        {
+          "title": "Harlan Coben’s 8-Episode Netflix Thriller Is Officially One of Its Top 10 Shows of All Time",
+          "url": "https://collider.com/harlan-coben-i-will-find-you-number-8-netflix-most-watched/",
+          "source": "Collider",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxCl5LC_lHqnMUzgiea6DnWJ1Dvc1-J6aK_wxZaZpJ1gY6s9rr9s5klysx-o"
+        },
+        {
+          "title": "Harlan Coben on His New Memoir, Netflix Hit I Will Find You and Why Jersey Makes a Great Thriller Backdrop",
+          "url": "https://njmonthly.com/articles/arts-entertainment/harlan-coben-on-his-new-memoir-netflix-hit-i-will-find-you-and-why-jersey-makes-a-great-thriller-backdrop/",
+          "source": "New Jersey Monthly Magazine",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgNRdGVtPbgrz7lcAOcAyKs5uONYOp-Jc0v6keRohCyebfOvrHz0esD95HSo8"
+        }
+      ]
+    },
+    {
+      "keyword": "hasan piker",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLSZqyfIueBprFJQrg1PnJ_d2jDMBFxIOj7mt7C97piUK3H6PF51235Pvhs44",
+      "picture_source": "AP News",
+      "pub_date": "Tue, 25 Aug 2026 09:30:00 -0700",
+      "news": [
+        {
+          "title": "El-Sayed distances himself from popular streamer's comments on Israel and Jewish Americans",
+          "url": "https://apnews.com/article/elsayed-michigan-senate-hasan-piker-israel-antisemitism-848cb6859ba019479d6da8024e720b0b",
+          "source": "AP News",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLSZqyfIueBprFJQrg1PnJ_d2jDMBFxIOj7mt7C97piUK3H6PF51235Pvhs44"
+        },
+        {
+          "title": "El-Sayed Pivots Away From Hasan Piker in Bid to Appeal to Michigan Centrists",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/el-sayed-pivots-away-from-hasan-piker-in-bid-to-appeal-to-michigan-centrists",
+          "source": "Bloomberg",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGwq0ylfz-sPE6ZpzD4wKPlWnjQ0yHnuq4xpDo4V0melD1lBPUkBz5iOyCF9Y"
+        },
+        {
+          "title": "Abdul El-Sayed distances himself from left-wing influencer after comments about American Jews",
+          "url": "https://www.cnn.com/2026/08/24/politics/abdul-el-sayed-hasan-piker-statement",
+          "source": "CNN",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpvnIN3PRBmIBCDjf4TCLFKv7W36DN1noNpTqwqaALWkaVqWdKq5QFfkrfXJw"
+        }
+      ]
+    },
+    {
       "keyword": "nhl 27",
       "traffic": "100+",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRond43oS4CyCwoQrC1HfiDRi7nrQ4KiFediGBtEUw-UWxVq2KRYlu7EI4sPw8",
-      "picture_source": "IGN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaY_CJhtp1ePMeXt4uNcaxbN1xfwh9W4UB5BbMfemdz_Tj6u7UAQxJy5xGaSY",
+      "picture_source": "Bleacher Report",
       "pub_date": "Tue, 25 Aug 2026 09:10:00 -0700",
       "news": [
+        {
+          "title": "NHL 27 Drops Gameplay and Presentation Deep Dive Video Detailing Video Game's New Features",
+          "url": "https://bleacherreport.com/articles/25484400-nhl-27-drops-gameplay-and-presentation-deep-dive-video-detailing-video-games-new-features",
+          "source": "Bleacher Report",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaY_CJhtp1ePMeXt4uNcaxbN1xfwh9W4UB5BbMfemdz_Tj6u7UAQxJy5xGaSY"
+        },
         {
           "title": "NHL 27 - Official Gameplay and Presentation Deep Dive Trailer",
           "url": "https://www.ign.com/videos/nhl-27-official-gameplay-and-presentation-deep-dive-trailer",
@@ -5893,288 +6298,11 @@
           "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRond43oS4CyCwoQrC1HfiDRi7nrQ4KiFediGBtEUw-UWxVq2KRYlu7EI4sPw8"
         },
         {
-          "title": "EA Sports NHL 27 Gameplay and Presentation Deep Dive: When and How to Watch",
-          "url": "https://www.yardbarker.com/video_games/articles/ea_sports_nhl_27_gameplay_and_presentation_deep_dive_when_and_how_to_watch/s1_17615_44210854",
-          "source": "Yardbarker",
+          "title": "NHL 27 Gameplay Deep Dive: When and How to Watch",
+          "url": "https://tech.yahoo.com/gaming/articles/nhl-27-gameplay-deep-dive-201141234.html",
+          "source": "Yahoo Tech",
           "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTf7VMqHeUj19azy7SlAunL8pKBFbF2fKKZ8mgGnwhaI5uX6O2jFltIWHBgSx8"
-        },
-        {
-          "title": "NHL 27: Release Date, Pre-Order Info And Editions",
-          "url": "https://www.forbes.com/sites/brianmazique/2026/08/22/nhl-27-release-date-pre-order-info-and-editions/",
-          "source": "Forbes",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTOL1U6sMBvWmSXd54z_qd1xEiuxAVY2BISbGbtePPU8ljCr65HdlBbsx0XjM"
-        }
-      ]
-    },
-    {
-      "keyword": "avengers endgame encore",
-      "traffic": "200+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRP21iwocjjvL6djVERakvqnHcZEZEGI84jAYwYteW5Cdvh9YLhKaDowgqliq0",
-      "picture_source": "IMDb",
-      "pub_date": "Tue, 25 Aug 2026 09:00:00 -0700",
-      "news": [
-        {
-          "title": "Avengers: Endgame Encore: Here's When Tickets For Extended MCU Re-Release Go On Sale",
-          "url": "https://www.imdb.com/news/ni65984055/?ref_=nmnw_art_perm",
-          "source": "IMDb",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRP21iwocjjvL6djVERakvqnHcZEZEGI84jAYwYteW5Cdvh9YLhKaDowgqliq0"
-        },
-        {
-          "title": "AVENGERS: ENDGAME ENCORE Runtime Revealed and It’s Only Four Minutes Longer Than the Original",
-          "url": "https://geektyrant.com/news/avengers-endgame-encore-runtime-revealed-and-its-only-four-minutes-longer-than-the-original",
-          "source": "GeekTyrant",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjC2b0qEV16XI7N4mVev19hPy8efajR7OFA_QpJFtEMI1a3HNmzSxlBAharlw"
-        },
-        {
-          "title": "Avengers: Endgame Encore Trailer Previews New Way to Watch MCU Movie Ahead of Doomsday",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/avengers-endgame-encore-trailer-previews-191916503.html",
-          "source": "Yahoo",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIE9lQ0TkQerNJ-2V8fz1uWnMTg2JswTUsk92MtcDMV22XGaGd7sYPeEwZt2c"
-        }
-      ]
-    },
-    {
-      "keyword": "avion militaire",
-      "traffic": "100+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnKKDLHy4kq78y9Mp39mcBIZujcfpLYAJeqFULN6HZYI--40_audd5ZAZOMRQ",
-      "picture_source": "La Presse",
-      "pub_date": "Tue, 25 Aug 2026 09:00:00 -0700",
-      "news": [
-        {
-          "title": "Le patron de la CIA en visite à Moscou",
-          "url": "https://www.lapresse.ca/international/2026-08-25/le-patron-de-la-cia-en-visite-a-moscou.php",
-          "source": "La Presse",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnKKDLHy4kq78y9Mp39mcBIZujcfpLYAJeqFULN6HZYI--40_audd5ZAZOMRQ"
-        },
-        {
-          "title": "Un mystérieux avion militaire américain vole vers Moscou, selon le site Flightradar24",
-          "url": "https://www.tvanouvelles.ca/2026/08/25/un-avion-militaire-americain-vole-vers-moscou-selon-le-site-flightradar24",
-          "source": "TVA Nouvelles",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQFUb2PvDWjtTLN2kctM2eN2MzCuDcPSGAMPx25Go2FFQSmJP47ODjND0758"
-        },
-        {
-          "title": "Guerre en Ukraine : le patron de la CIA en visite ce mardi à Moscou, selon la presse américaine",
-          "url": "https://www.lefigaro.fr/international/un-avion-militaire-americain-vole-vers-moscou-depuis-la-lettonie-selon-le-site-flightradar24-20260825",
-          "source": "Le Figaro",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXGjhoJsvakoRcUdZl9UtLXSWnzY_2wIuifyjOMMWAUbCJMCaGIvn00PlAanM"
-        }
-      ]
-    },
-    {
-      "keyword": "woody harrelson",
-      "traffic": "100+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfbBybCGwSPoI1LjkihN0iVU3cYjRe6r7CnhVutUvlF8HbPkq0YCCEiKcrXrU",
-      "picture_source": "Yahoo News Canada",
-      "pub_date": "Tue, 25 Aug 2026 09:00:00 -0700",
-      "news": [
-        {
-          "title": "Matthew McConaughey and Woody Harrelson Find Out They’re Brothers in Trailer for New Comedy Series",
-          "url": "https://ca.news.yahoo.com/matthew-mcconaughey-woody-harrelson-brothers-140000390.html",
-          "source": "Yahoo News Canada",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfbBybCGwSPoI1LjkihN0iVU3cYjRe6r7CnhVutUvlF8HbPkq0YCCEiKcrXrU"
-        },
-        {
-          "title": "Woody Harrelson on Reuniting With Matthew McConaughey in 'Brothers'",
-          "url": "https://variety.com/2026/film/global/woody-harrelson-jesse-eisenberg-brothers-matthew-mcconaughey-1236836973/",
-          "source": "Variety",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTF7xrYFUZ7hXHJdi62oCEGK80ut1xiVEQ8nMQSeGpvEtR1EoGrvuNVQudBAwk"
-        },
-        {
-          "title": "First Look: What If Matthew McConaughey and Woody Harrelson Really Are Brothers?",
-          "url": "https://www.vanityfair.com/story/matthew-mcconaughey-and-woody-harrelson-really-are-brothers",
-          "source": "Vanity Fair",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xrUqv7lqKHnQQ1YpELDjslxurOsakUEqfAr6aQRMLC1bQ3ujlp28w8OVNVc"
-        }
-      ]
-    },
-    {
-      "keyword": "paris saint-germain football club",
-      "traffic": "100+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOBGwWd7a2OnhFZ375tps44thYp1i0MKFLTPLfb_6UqusDKhkmI6KVlSu4mRI",
-      "picture_source": "CulturePSG",
-      "pub_date": "Tue, 25 Aug 2026 08:50:00 -0700",
-      "news": [
-        {
-          "title": "Mercato : Le PSG officialise un 9e départ",
-          "url": "https://www.culturepsg.com/news/mercato/le-psg-officialise-un-9e-depart/60450",
-          "source": "CulturePSG",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOBGwWd7a2OnhFZ375tps44thYp1i0MKFLTPLfb_6UqusDKhkmI6KVlSu4mRI"
-        },
-        {
-          "title": "Mercato : le PSG prête l’un de ses titis à Chypre",
-          "url": "https://www.lefigaro.fr/sports/football/transferts/mercato-le-psg-prete-l-un-de-ses-titis-a-chypre-20260825",
-          "source": "Le Figaro",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR634nzIXjMYTO5sx3k9RXS9NvNJdK-A9FlS7AonvcZWTrclJIIiX6X46BmAw0"
-        },
-        {
-          "title": "Un titi parisien rejoint David Luiz à Paphos en prêt - France - Paris Saint-Germain",
-          "url": "https://www.sofoot.com/breves/mercato-un-titi-parisien-rejoint-david-luiz-a-paphos-en-pret",
-          "source": "SO FOOT.com",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0EEoQwvfI3-j8tdFNxHEoIHnuMSND_k9AIb-okQCR2QjeLCzUey-JEoD-fFQ"
-        }
-      ]
-    },
-    {
-      "keyword": "government of canada",
-      "traffic": "100+",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU0My4osNewjgQQgefWQ4WSMjRDyOM8Y75JHdj1A43VbjruSm7ELvk9jECUOw",
-      "picture_source": "The Globe and Mail",
-      "pub_date": "Tue, 25 Aug 2026 08:50:00 -0700",
-      "news": [
-        {
-          "title": "Government of Canada launches engagement process on the 2030 Agenda and the Sustainable Development Goals",
-          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Newswire.ca/4011157/government-of-canada-launches-engagement-process-on-the-2030-agenda-and-the-sustainable-development-goals/",
-          "source": "The Globe and Mail",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU0My4osNewjgQQgefWQ4WSMjRDyOM8Y75JHdj1A43VbjruSm7ELvk9jECUOw"
-        },
-        {
-          "title": "Public engagement process commences on Canada’s SDG goals",
-          "url": "https://environmentjournal.ca/public-engagement-process-commences-on-canadas-sdg-goals/",
-          "source": "The Environment Journal",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzZBCEMiZ4Hr2DpiKS28eVTFpHxvsrbEZHdRiScmDIVHDq5agpPwYDQykYgEQ"
-        },
-        {
-          "title": "Cisco Launches Sovereign Critical Infrastructure in Canada - Government and Organizations Gain More Choice and Control",
-          "url": "https://www.theglobeandmail.com/investing/markets/stocks/CSCO-Q/pressreleases/4018725/cisco-launches-sovereign-critical-infrastructure-in-canada-government-and-organizations-gain-more-choice-and-control/",
-          "source": "The Globe and Mail",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzTcAcWn5m6uQWGSZG2MpEsS02pZ5KsIHExVcwNhsy-ZleqsRnZ7GbUzp02bM"
-        }
-      ]
-    },
-    {
-      "keyword": "teams",
-      "traffic": "200+",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOTs4by6xMTyW6ydcFfznU--XogeeUH1NR6cVRKjJj7TICebP1kZJpm-wapwA",
-      "picture_source": "ESPN",
-      "pub_date": "Tue, 25 Aug 2026 08:50:00 -0700",
-      "news": [
-        {
-          "title": "NFL Rivalries uniforms 2026: Designs, debuts and details",
-          "url": "https://www.espn.com/nfl/story/_/id/49578264/nfl-nike-2026-rivalries-uniform-gear-series-unveiling-nfc-north-afc-south",
-          "source": "ESPN",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOTs4by6xMTyW6ydcFfznU--XogeeUH1NR6cVRKjJj7TICebP1kZJpm-wapwA"
-        },
-        {
-          "title": "Vikings Unveil New ‘Rivalries’ Uniform",
-          "url": "https://www.vikings.com/news/unveiling-new-rivalries-uniform-2026",
-          "source": "Minnesota Vikings",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzgxxGPLR4RcEcY9X_3ioAmz5JyNQU7c3DobYmHKGk3o43zBCO-og_J2dI4BA"
-        },
-        {
-          "title": "Nike, the NFL and Jacksonville Jaguars Reveal the Team’s 2026 Rivalries Uniform",
-          "url": "https://www.jaguars.com/news/nike-the-nfl-and-jacksonville-jaguars-reveal-the-team-s-2026-rivalries-uniform",
-          "source": "Jacksonville Jaguars",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJtIkSOYvrlb-dpNkyVOge1g2Nu8QhwQ5AxaEppxkYCO5Q4zyZ8hJBpioyR78"
-        }
-      ]
-    },
-    {
-      "keyword": "ghislaine maxwell",
-      "traffic": "200+",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSjkKsdr9rrlOiwNzwfkMdqz9I9cn70nvl5iCQQ13b6Ame5x09eTX0GgiFic",
-      "picture_source": "BBC",
-      "pub_date": "Tue, 25 Aug 2026 08:40:00 -0700",
-      "news": [
-        {
-          "title": "US judge rejects Ghislaine Maxwell's 'frivolous' appeal against conviction",
-          "url": "https://www.bbc.com/news/articles/cy0zrey17qno",
-          "source": "BBC",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSjkKsdr9rrlOiwNzwfkMdqz9I9cn70nvl5iCQQ13b6Ame5x09eTX0GgiFic"
-        },
-        {
-          "title": "Ghislaine Maxwell loses bid to throw out conviction for aiding Jeffrey Epstein",
-          "url": "https://www.reuters.com/world/ghislaine-maxwell-loses-bid-throw-out-conviction-aiding-jeffrey-epstein-2026-08-25/",
-          "source": "Reuters",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcco_El45u3mVhv3CnmMogr4cQB4pItDIQNpWAFgKtJU0KI9Rpowrie0AYEEI"
-        },
-        {
-          "title": "Ghislaine Maxwell Loses Bid to Overturn Her Sex-Trafficking Conviction",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-25/maxwell-loses-bid-to-overturn-her-sex-trafficking-conviction",
-          "source": "Bloomberg",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIi8Z9nRyLCdBIIsJzjI0dfB9H3vKcah9csWgzLM-XwyOwbSyjNMT3EMXn8NE"
-        }
-      ]
-    },
-    {
-      "keyword": "indéfendable",
-      "traffic": "200+",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIJh6LMiY-BqdqG9xBkGG7pKoLVtzOl-t7vFOD9FIPPJq0GO-WwC3FOywup0",
-      "picture_source": "La Presse",
-      "pub_date": "Tue, 25 Aug 2026 08:10:00 -0700",
-      "news": [
-        {
-          "title": "Indéfendable : sans trace | Le maître (Macdonald) du jeu !",
-          "url": "https://www.lapresse.ca/arts/chroniques/2026-08-24/indefendable-sans-trace/le-maitre-macdonald-du-jeu.php",
-          "source": "La Presse",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIJh6LMiY-BqdqG9xBkGG7pKoLVtzOl-t7vFOD9FIPPJq0GO-WwC3FOywup0"
-        },
-        {
-          "title": "Voici ce que les téléspectateurs ont pensé d' «Indéfendable : sans trace »",
-          "url": "https://showbizz.net/tele/voici-ce-que-les-telespectateurs-ont-pense-dindefendable-sans-trace",
-          "source": "Showbizz.net",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRA97UhNhLoGVt7dJMBbehOyqbHE-e8s22rws-u7jwg9DM9F0yUg-dcSNndVKE"
-        },
-        {
-          "title": "Indéfendable: sans trace : huit épisodes pour nous faire patienter",
-          "url": "https://www.latribune.ca/arts/richard-therrien/2026/08/19/iindefendable-sans-tracei-huit-episodes-pour-nous-faire-patienter-AZ6GTMQDTRDS5ASHYDABXDYH5M/",
-          "source": "La Tribune",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBUYpx-NM6UhWlj46zy2spzooQIkNv7heISik8mnnbGWmDVHlIyuHdloSk7-s"
-        }
-      ]
-    },
-    {
-      "keyword": "diet",
-      "traffic": "200+",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2n9Vxk8-DLKSx8knop3mOVGK_9kt0TARBCH8NiPBZ_0s4h4KhDt5GnYnKnTY",
-      "picture_source": "GQ",
-      "pub_date": "Tue, 25 Aug 2026 08:10:00 -0700",
-      "news": [
-        {
-          "title": "The Real-Life Diet of Caleb Williams, Who Drinks Small-Batch Olive Oil for Gut Health",
-          "url": "https://www.gq.com/story/the-real-life-diet-of-caleb-williams",
-          "source": "GQ",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2n9Vxk8-DLKSx8knop3mOVGK_9kt0TARBCH8NiPBZ_0s4h4KhDt5GnYnKnTY"
-        },
-        {
-          "title": "Gut health scientist reveals the 5 foods he'd never eat and why",
-          "url": "https://www.newsweek.com/im-a-gut-health-scientist-these-are-the-5-foods-i-never-eat-12359758",
-          "source": "Newsweek",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREjILRK7De6SxQwzBYe0yCpNyUUqwPNMS0cSjLnp848s0AGVWJPi5iXHhh7ew"
-        },
-        {
-          "title": "Experts Say This Popular Food Is Wreaking Havoc on Your Gut",
-          "url": "https://www.prevention.com/food-nutrition/healthy-eating/a73346184/popular-food-impacting-gut/",
-          "source": "Prevention",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_ICTYJwq3KL1NuEWb1f9vzgBV0FgLZ8SiLgf9RyEFlbgRdfQObXCD_HHXoFY"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXKtsS_dLNMO9zc_F_8S3nGX_S1YpEd1hiuVuaGdhzowPKFBHDYehkqs6zj8s"
         }
       ]
     }
@@ -6238,10 +6366,10 @@
     },
     {
       "rank": "9",
-      "status": "-6",
-      "title": "Speedrunning Minecraft Skyfactory was a TERRIBLE Mistake",
-      "url": "https://youtu.be/07S60wsY4SM",
-      "video_id": "07S60wsY4SM"
+      "status": "NEW",
+      "title": "Hermitcraft 11: Episode 25 - THE 1000 DIAMOND PRANK!",
+      "url": "https://youtu.be/aA9SqTG5-GA",
+      "video_id": "aA9SqTG5-GA"
     },
     {
       "rank": "10",
@@ -6259,10 +6387,10 @@
     },
     {
       "rank": "12",
-      "status": "NEW",
-      "title": "Hermitcraft 11: Episode 25 - THE 1000 DIAMOND PRANK!",
-      "url": "https://youtu.be/aA9SqTG5-GA",
-      "video_id": "aA9SqTG5-GA"
+      "status": "-9",
+      "title": "Speedrunning Minecraft Skyfactory was a TERRIBLE Mistake",
+      "url": "https://youtu.be/07S60wsY4SM",
+      "video_id": "07S60wsY4SM"
     },
     {
       "rank": "13",
@@ -6470,9 +6598,9 @@
     {
       "rank": "42",
       "status": "NEW",
-      "title": "THIS IS FINE.",
-      "url": "https://youtu.be/naV3aBBbA5E",
-      "video_id": "naV3aBBbA5E"
+      "title": "I Built The WORLDS BIGGEST BLOCKS In Minecraft Hardcore",
+      "url": "https://youtu.be/_YBm9gjP8Gs",
+      "video_id": "_YBm9gjP8Gs"
     },
     {
       "rank": "43",
@@ -6491,9 +6619,9 @@
     {
       "rank": "45",
       "status": "NEW",
-      "title": "A LEGENDARY DAY",
-      "url": "https://youtu.be/1Wj18e96FCM",
-      "video_id": "1Wj18e96FCM"
+      "title": "THIS IS FINE.",
+      "url": "https://youtu.be/naV3aBBbA5E",
+      "video_id": "naV3aBBbA5E"
     },
     {
       "rank": "46",
@@ -6512,9 +6640,9 @@
     {
       "rank": "48",
       "status": "NEW",
-      "title": "Vous m’avez Forcé à y Jouer.. (Poppy Playtime Chap.5)",
-      "url": "https://youtu.be/5JdywaBTJZo",
-      "video_id": "5JdywaBTJZo"
+      "title": "A LEGENDARY DAY",
+      "url": "https://youtu.be/1Wj18e96FCM",
+      "video_id": "1Wj18e96FCM"
     },
     {
       "rank": "49",
