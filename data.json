@@ -1,7 +1,715 @@
 {
-  "last_updated": "2026-10-04 11:39:19 PM UTC",
-  "timestamp": 1791157161.005218,
+  "last_updated": "2026-10-05 02:38:49 AM UTC",
+  "timestamp": 1791167930.909128,
   "twitter": [
+    {
+      "time": "Mon Oct 05 2026 01:54:46 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1791165286.027,
+      "trends": [
+        {
+          "name": "Paul Cotter",
+          "url": "https://twitter.com/search?q=Paul%20Cotter",
+          "tweet_count": ""
+        },
+        {
+          "name": "#odpanama",
+          "url": "https://twitter.com/search?q=%23odpanama",
+          "tweet_count": ""
+        },
+        {
+          "name": "Bryce Young",
+          "url": "https://twitter.com/search?q=Bryce%20Young",
+          "tweet_count": ""
+        },
+        {
+          "name": "Brazil",
+          "url": "https://twitter.com/search?q=Brazil",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lula",
+          "url": "https://twitter.com/search?q=Lula",
+          "tweet_count": ""
+        },
+        {
+          "name": "#OnePride",
+          "url": "https://twitter.com/search?q=%23OnePride",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thornton",
+          "url": "https://twitter.com/search?q=Thornton",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chiefs",
+          "url": "https://twitter.com/search?q=Chiefs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mason Miller",
+          "url": "https://twitter.com/search?q=Mason%20Miller",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chargers",
+          "url": "https://twitter.com/search?q=Chargers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Raiders",
+          "url": "https://twitter.com/search?q=Raiders",
+          "tweet_count": ""
+        },
+        {
+          "name": "USAID",
+          "url": "https://twitter.com/search?q=USAID",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Lanterns",
+          "url": "https://twitter.com/search?q=%23Lanterns",
+          "tweet_count": ""
+        },
+        {
+          "name": "49ers",
+          "url": "https://twitter.com/search?q=49ers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Herbert",
+          "url": "https://twitter.com/search?q=Herbert",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kenneth Walker",
+          "url": "https://twitter.com/search?q=Kenneth%20Walker",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lions",
+          "url": "https://twitter.com/search?q=Lions",
+          "tweet_count": ""
+        },
+        {
+          "name": "Seahawks",
+          "url": "https://twitter.com/search?q=Seahawks",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kirk Cousins",
+          "url": "https://twitter.com/search?q=Kirk%20Cousins",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Flames",
+          "url": "https://twitter.com/search?q=%23Flames",
+          "tweet_count": ""
+        },
+        {
+          "name": "#skol",
+          "url": "https://twitter.com/search?q=%23skol",
+          "tweet_count": ""
+        },
+        {
+          "name": "Huska",
+          "url": "https://twitter.com/search?q=Huska",
+          "tweet_count": ""
+        },
+        {
+          "name": "Bills",
+          "url": "https://twitter.com/search?q=Bills",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vikings",
+          "url": "https://twitter.com/search?q=Vikings",
+          "tweet_count": ""
+        },
+        {
+          "name": "Wolf",
+          "url": "https://twitter.com/search?q=Wolf",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mahomes",
+          "url": "https://twitter.com/search?q=Mahomes",
+          "tweet_count": ""
+        },
+        {
+          "name": "Niners",
+          "url": "https://twitter.com/search?q=Niners",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dolphins",
+          "url": "https://twitter.com/search?q=Dolphins",
+          "tweet_count": ""
+        },
+        {
+          "name": "South America",
+          "url": "https://twitter.com/search?q=South%20America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Pats",
+          "url": "https://twitter.com/search?q=Pats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Josh Allen",
+          "url": "https://twitter.com/search?q=Josh%20Allen",
+          "tweet_count": ""
+        },
+        {
+          "name": "Brewers",
+          "url": "https://twitter.com/search?q=Brewers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Eagles",
+          "url": "https://twitter.com/search?q=Eagles",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dodgers",
+          "url": "https://twitter.com/search?q=Dodgers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Padres",
+          "url": "https://twitter.com/search?q=Padres",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rams",
+          "url": "https://twitter.com/search?q=Rams",
+          "tweet_count": ""
+        },
+        {
+          "name": "Patriots",
+          "url": "https://twitter.com/search?q=Patriots",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lamar",
+          "url": "https://twitter.com/search?q=Lamar",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texans",
+          "url": "https://twitter.com/search?q=Texans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Drake Maye",
+          "url": "https://twitter.com/search?q=Drake%20Maye",
+          "tweet_count": ""
+        },
+        {
+          "name": "Bengals",
+          "url": "https://twitter.com/search?q=Bengals",
+          "tweet_count": ""
+        },
+        {
+          "name": "#RaiderNation",
+          "url": "https://twitter.com/search?q=%23RaiderNation",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Postseason",
+          "url": "https://twitter.com/search?q=%23Postseason",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Mon Oct 05 2026 01:01:16 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1791162076.075,
+      "trends": [
+        {
+          "name": "#odpanama",
+          "url": "https://twitter.com/search?q=%23odpanama",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chiefs",
+          "url": "https://twitter.com/search?q=Chiefs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mason Miller",
+          "url": "https://twitter.com/search?q=Mason%20Miller",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thornton",
+          "url": "https://twitter.com/search?q=Thornton",
+          "tweet_count": ""
+        },
+        {
+          "name": "Alberta",
+          "url": "https://twitter.com/search?q=Alberta",
+          "tweet_count": ""
+        },
+        {
+          "name": "Raiders",
+          "url": "https://twitter.com/search?q=Raiders",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chargers",
+          "url": "https://twitter.com/search?q=Chargers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Sass Jordan",
+          "url": "https://twitter.com/search?q=Sass%20Jordan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kenneth Walker",
+          "url": "https://twitter.com/search?q=Kenneth%20Walker",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lucki",
+          "url": "https://twitter.com/search?q=Lucki",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BillsMafia",
+          "url": "https://twitter.com/search?q=%23BillsMafia",
+          "tweet_count": ""
+        },
+        {
+          "name": "Matheson",
+          "url": "https://twitter.com/search?q=Matheson",
+          "tweet_count": ""
+        },
+        {
+          "name": "Brazil",
+          "url": "https://twitter.com/search?q=Brazil",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lula",
+          "url": "https://twitter.com/search?q=Lula",
+          "tweet_count": ""
+        },
+        {
+          "name": "#DailyMarketMemo",
+          "url": "https://twitter.com/search?q=%23DailyMarketMemo",
+          "tweet_count": ""
+        },
+        {
+          "name": "#UFC332",
+          "url": "https://twitter.com/search?q=%23UFC332",
+          "tweet_count": ""
+        },
+        {
+          "name": "Herbert",
+          "url": "https://twitter.com/search?q=Herbert",
+          "tweet_count": ""
+        },
+        {
+          "name": "Imane",
+          "url": "https://twitter.com/search?q=Imane",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "Sabrina",
+          "url": "https://twitter.com/search?q=Sabrina",
+          "tweet_count": ""
+        },
+        {
+          "name": "Alexandrie",
+          "url": "https://twitter.com/search?q=Alexandrie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Enzo",
+          "url": "https://twitter.com/search?q=Enzo",
+          "tweet_count": ""
+        },
+        {
+          "name": "#NEPats",
+          "url": "https://twitter.com/search?q=%23NEPats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kirk Cousins",
+          "url": "https://twitter.com/search?q=Kirk%20Cousins",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jackson Chourio",
+          "url": "https://twitter.com/search?q=Jackson%20Chourio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rebecca",
+          "url": "https://twitter.com/search?q=Rebecca",
+          "tweet_count": ""
+        },
+        {
+          "name": "49ers",
+          "url": "https://twitter.com/search?q=49ers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Pattison",
+          "url": "https://twitter.com/search?q=Pattison",
+          "tweet_count": ""
+        },
+        {
+          "name": "USAID",
+          "url": "https://twitter.com/search?q=USAID",
+          "tweet_count": ""
+        },
+        {
+          "name": "Brewers",
+          "url": "https://twitter.com/search?q=Brewers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Broncos",
+          "url": "https://twitter.com/search?q=Broncos",
+          "tweet_count": ""
+        },
+        {
+          "name": "Josh Allen",
+          "url": "https://twitter.com/search?q=Josh%20Allen",
+          "tweet_count": ""
+        },
+        {
+          "name": "Daniel Jones",
+          "url": "https://twitter.com/search?q=Daniel%20Jones",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mike Myers",
+          "url": "https://twitter.com/search?q=Mike%20Myers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Harbaugh",
+          "url": "https://twitter.com/search?q=Harbaugh",
+          "tweet_count": ""
+        },
+        {
+          "name": "Emma",
+          "url": "https://twitter.com/search?q=Emma",
+          "tweet_count": ""
+        },
+        {
+          "name": "Keon Coleman",
+          "url": "https://twitter.com/search?q=Keon%20Coleman",
+          "tweet_count": ""
+        },
+        {
+          "name": "The Gazette",
+          "url": "https://twitter.com/search?q=The%20Gazette",
+          "tweet_count": ""
+        },
+        {
+          "name": "Stutzle",
+          "url": "https://twitter.com/search?q=Stutzle",
+          "tweet_count": ""
+        },
+        {
+          "name": "Bauer",
+          "url": "https://twitter.com/search?q=Bauer",
+          "tweet_count": ""
+        },
+        {
+          "name": "DARIUS COOPER",
+          "url": "https://twitter.com/search?q=DARIUS%20COOPER",
+          "tweet_count": ""
+        },
+        {
+          "name": "Carti",
+          "url": "https://twitter.com/search?q=Carti",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ollie Gordon",
+          "url": "https://twitter.com/search?q=Ollie%20Gordon",
+          "tweet_count": ""
+        },
+        {
+          "name": "Sunday Night Football",
+          "url": "https://twitter.com/search?q=Sunday%20Night%20Football",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mathieu",
+          "url": "https://twitter.com/search?q=Mathieu",
+          "tweet_count": ""
+        },
+        {
+          "name": "Joe Brady",
+          "url": "https://twitter.com/search?q=Joe%20Brady",
+          "tweet_count": ""
+        },
+        {
+          "name": "Good Sunday",
+          "url": "https://twitter.com/search?q=Good%20Sunday",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kolesar",
+          "url": "https://twitter.com/search?q=Kolesar",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hairston",
+          "url": "https://twitter.com/search?q=Hairston",
+          "tweet_count": ""
+        },
+        {
+          "name": "Colts",
+          "url": "https://twitter.com/search?q=Colts",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Mon Oct 05 2026 00:08:03 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1791158883.174,
+      "trends": [
+        {
+          "name": "#odpanama",
+          "url": "https://twitter.com/search?q=%23odpanama",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chiefs",
+          "url": "https://twitter.com/search?q=Chiefs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mason Miller",
+          "url": "https://twitter.com/search?q=Mason%20Miller",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thornton",
+          "url": "https://twitter.com/search?q=Thornton",
+          "tweet_count": ""
+        },
+        {
+          "name": "Raiders",
+          "url": "https://twitter.com/search?q=Raiders",
+          "tweet_count": ""
+        },
+        {
+          "name": "Chargers",
+          "url": "https://twitter.com/search?q=Chargers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Herbert",
+          "url": "https://twitter.com/search?q=Herbert",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kenneth Walker",
+          "url": "https://twitter.com/search?q=Kenneth%20Walker",
+          "tweet_count": ""
+        },
+        {
+          "name": "49ers",
+          "url": "https://twitter.com/search?q=49ers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Seahawks",
+          "url": "https://twitter.com/search?q=Seahawks",
+          "tweet_count": ""
+        },
+        {
+          "name": "Bills",
+          "url": "https://twitter.com/search?q=Bills",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lula",
+          "url": "https://twitter.com/search?q=Lula",
+          "tweet_count": ""
+        },
+        {
+          "name": "Brewers",
+          "url": "https://twitter.com/search?q=Brewers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kirk Cousins",
+          "url": "https://twitter.com/search?q=Kirk%20Cousins",
+          "tweet_count": ""
+        },
+        {
+          "name": "Brazil",
+          "url": "https://twitter.com/search?q=Brazil",
+          "tweet_count": ""
+        },
+        {
+          "name": "Josh Allen",
+          "url": "https://twitter.com/search?q=Josh%20Allen",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vikings",
+          "url": "https://twitter.com/search?q=Vikings",
+          "tweet_count": ""
+        },
+        {
+          "name": "Pats",
+          "url": "https://twitter.com/search?q=Pats",
+          "tweet_count": ""
+        },
+        {
+          "name": "#OlandriaxCultureCon",
+          "url": "https://twitter.com/search?q=%23OlandriaxCultureCon",
+          "tweet_count": ""
+        },
+        {
+          "name": "#RaiderNation",
+          "url": "https://twitter.com/search?q=%23RaiderNation",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mahomes",
+          "url": "https://twitter.com/search?q=Mahomes",
+          "tweet_count": ""
+        },
+        {
+          "name": "Eagles",
+          "url": "https://twitter.com/search?q=Eagles",
+          "tweet_count": ""
+        },
+        {
+          "name": "#skol",
+          "url": "https://twitter.com/search?q=%23skol",
+          "tweet_count": ""
+        },
+        {
+          "name": "#CultureCon2026",
+          "url": "https://twitter.com/search?q=%23CultureCon2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dolphins",
+          "url": "https://twitter.com/search?q=Dolphins",
+          "tweet_count": ""
+        },
+        {
+          "name": "Padres",
+          "url": "https://twitter.com/search?q=Padres",
+          "tweet_count": ""
+        },
+        {
+          "name": "Niners",
+          "url": "https://twitter.com/search?q=Niners",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lions",
+          "url": "https://twitter.com/search?q=Lions",
+          "tweet_count": ""
+        },
+        {
+          "name": "Joe Brady",
+          "url": "https://twitter.com/search?q=Joe%20Brady",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rams",
+          "url": "https://twitter.com/search?q=Rams",
+          "tweet_count": ""
+        },
+        {
+          "name": "Drake Maye",
+          "url": "https://twitter.com/search?q=Drake%20Maye",
+          "tweet_count": ""
+        },
+        {
+          "name": "Patriots",
+          "url": "https://twitter.com/search?q=Patriots",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texans",
+          "url": "https://twitter.com/search?q=Texans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Bengals",
+          "url": "https://twitter.com/search?q=Bengals",
+          "tweet_count": ""
+        },
+        {
+          "name": "Cardinals",
+          "url": "https://twitter.com/search?q=Cardinals",
+          "tweet_count": ""
+        },
+        {
+          "name": "New England",
+          "url": "https://twitter.com/search?q=New%20England",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lamar",
+          "url": "https://twitter.com/search?q=Lamar",
+          "tweet_count": ""
+        },
+        {
+          "name": "Defense",
+          "url": "https://twitter.com/search?q=Defense",
+          "tweet_count": ""
+        },
+        {
+          "name": "Bauer",
+          "url": "https://twitter.com/search?q=Bauer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Beer",
+          "url": "https://twitter.com/search?q=Beer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Quebecers",
+          "url": "https://twitter.com/search?q=Quebecers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Buffalo",
+          "url": "https://twitter.com/search?q=Buffalo",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Postseason",
+          "url": "https://twitter.com/search?q=%23Postseason",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BBNaija",
+          "url": "https://twitter.com/search?q=%23BBNaija",
+          "tweet_count": ""
+        },
+        {
+          "name": "#GoJetsGo",
+          "url": "https://twitter.com/search?q=%23GoJetsGo",
+          "tweet_count": ""
+        }
+      ]
+    },
     {
       "time": "Sun Oct 04 2026 23:15:46 GMT+0000 (Coordinated Universal Time)",
       "epoch": 1791155746.546,
@@ -5307,1049 +6015,306 @@
           "tweet_count": ""
         }
       ]
-    },
-    {
-      "time": "Sun Oct 04 2026 06:12:50 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1791094370.704,
-      "trends": [
-        {
-          "name": "#Canucks",
-          "url": "https://twitter.com/search?q=%23Canucks",
-          "tweet_count": ""
-        },
-        {
-          "name": "#UFC332",
-          "url": "https://twitter.com/search?q=%23UFC332",
-          "tweet_count": ""
-        },
-        {
-          "name": "Petey",
-          "url": "https://twitter.com/search?q=Petey",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lucki",
-          "url": "https://twitter.com/search?q=Lucki",
-          "tweet_count": ""
-        },
-        {
-          "name": "Matheson",
-          "url": "https://twitter.com/search?q=Matheson",
-          "tweet_count": ""
-        },
-        {
-          "name": "Parekh",
-          "url": "https://twitter.com/search?q=Parekh",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sass Jordan",
-          "url": "https://twitter.com/search?q=Sass%20Jordan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Elias Pettersson",
-          "url": "https://twitter.com/search?q=Elias%20Pettersson",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Flames",
-          "url": "https://twitter.com/search?q=%23Flames",
-          "tweet_count": ""
-        },
-        {
-          "name": "#GoSensGo",
-          "url": "https://twitter.com/search?q=%23GoSensGo",
-          "tweet_count": ""
-        },
-        {
-          "name": "Alberta",
-          "url": "https://twitter.com/search?q=Alberta",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ty France",
-          "url": "https://twitter.com/search?q=Ty%20France",
-          "tweet_count": ""
-        },
-        {
-          "name": "EP40",
-          "url": "https://twitter.com/search?q=EP40",
-          "tweet_count": ""
-        },
-        {
-          "name": "Padres",
-          "url": "https://twitter.com/search?q=Padres",
-          "tweet_count": ""
-        },
-        {
-          "name": "Carti",
-          "url": "https://twitter.com/search?q=Carti",
-          "tweet_count": ""
-        },
-        {
-          "name": "Tucker",
-          "url": "https://twitter.com/search?q=Tucker",
-          "tweet_count": ""
-        },
-        {
-          "name": "#GoHabsGo",
-          "url": "https://twitter.com/search?q=%23GoHabsGo",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hockey Night in Canada",
-          "url": "https://twitter.com/search?q=Hockey%20Night%20in%20Canada",
-          "tweet_count": ""
-        },
-        {
-          "name": "Bahl",
-          "url": "https://twitter.com/search?q=Bahl",
-          "tweet_count": ""
-        },
-        {
-          "name": "Demidov",
-          "url": "https://twitter.com/search?q=Demidov",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lyle Odelein",
-          "url": "https://twitter.com/search?q=Lyle%20Odelein",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cole Caufield",
-          "url": "https://twitter.com/search?q=Cole%20Caufield",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cooley",
-          "url": "https://twitter.com/search?q=Cooley",
-          "tweet_count": ""
-        },
-        {
-          "name": "The Gazette",
-          "url": "https://twitter.com/search?q=The%20Gazette",
-          "tweet_count": ""
-        },
-        {
-          "name": "Tavares",
-          "url": "https://twitter.com/search?q=Tavares",
-          "tweet_count": ""
-        },
-        {
-          "name": "Edvinsson",
-          "url": "https://twitter.com/search?q=Edvinsson",
-          "tweet_count": ""
-        },
-        {
-          "name": "Zach Bryan",
-          "url": "https://twitter.com/search?q=Zach%20Bryan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Zary",
-          "url": "https://twitter.com/search?q=Zary",
-          "tweet_count": ""
-        },
-        {
-          "name": "Peace River North",
-          "url": "https://twitter.com/search?q=Peace%20River%20North",
-          "tweet_count": ""
-        },
-        {
-          "name": "Digger",
-          "url": "https://twitter.com/search?q=Digger",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hronek",
-          "url": "https://twitter.com/search?q=Hronek",
-          "tweet_count": ""
-        },
-        {
-          "name": "MR FANBOY CHAPTER 6",
-          "url": "https://twitter.com/search?q=MR%20FANBOY%20CHAPTER%206",
-          "tweet_count": ""
-        },
-        {
-          "name": "HNIC",
-          "url": "https://twitter.com/search?q=HNIC",
-          "tweet_count": ""
-        },
-        {
-          "name": "Pattison",
-          "url": "https://twitter.com/search?q=Pattison",
-          "tweet_count": ""
-        },
-        {
-          "name": "Stutzle",
-          "url": "https://twitter.com/search?q=Stutzle",
-          "tweet_count": ""
-        },
-        {
-          "name": "Crosby",
-          "url": "https://twitter.com/search?q=Crosby",
-          "tweet_count": ""
-        },
-        {
-          "name": "Austin Wells",
-          "url": "https://twitter.com/search?q=Austin%20Wells",
-          "tweet_count": ""
-        },
-        {
-          "name": "Devon Levi",
-          "url": "https://twitter.com/search?q=Devon%20Levi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Huska",
-          "url": "https://twitter.com/search?q=Huska",
-          "tweet_count": ""
-        },
-        {
-          "name": "ComplexCon",
-          "url": "https://twitter.com/search?q=ComplexCon",
-          "tweet_count": ""
-        },
-        {
-          "name": "Larkin",
-          "url": "https://twitter.com/search?q=Larkin",
-          "tweet_count": ""
-        },
-        {
-          "name": "Raty",
-          "url": "https://twitter.com/search?q=Raty",
-          "tweet_count": ""
-        },
-        {
-          "name": "McKenna",
-          "url": "https://twitter.com/search?q=McKenna",
-          "tweet_count": ""
-        },
-        {
-          "name": "Klapka",
-          "url": "https://twitter.com/search?q=Klapka",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lindgren",
-          "url": "https://twitter.com/search?q=Lindgren",
-          "tweet_count": ""
-        },
-        {
-          "name": "mr saturday night",
-          "url": "https://twitter.com/search?q=mr%20saturday%20night",
-          "tweet_count": ""
-        },
-        {
-          "name": "Giannis",
-          "url": "https://twitter.com/search?q=Giannis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Detroit",
-          "url": "https://twitter.com/search?q=Detroit",
-          "tweet_count": ""
-        },
-        {
-          "name": "Silva",
-          "url": "https://twitter.com/search?q=Silva",
-          "tweet_count": ""
-        },
-        {
-          "name": "Drew Rasmussen",
-          "url": "https://twitter.com/search?q=Drew%20Rasmussen",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Sun Oct 04 2026 05:20:19 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1791091219.072,
-      "trends": [
-        {
-          "name": "#Canucks",
-          "url": "https://twitter.com/search?q=%23Canucks",
-          "tweet_count": ""
-        },
-        {
-          "name": "Petey",
-          "url": "https://twitter.com/search?q=Petey",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lucki",
-          "url": "https://twitter.com/search?q=Lucki",
-          "tweet_count": ""
-        },
-        {
-          "name": "Elias Pettersson",
-          "url": "https://twitter.com/search?q=Elias%20Pettersson",
-          "tweet_count": ""
-        },
-        {
-          "name": "Parekh",
-          "url": "https://twitter.com/search?q=Parekh",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sass Jordan",
-          "url": "https://twitter.com/search?q=Sass%20Jordan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ty France",
-          "url": "https://twitter.com/search?q=Ty%20France",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Flames",
-          "url": "https://twitter.com/search?q=%23Flames",
-          "tweet_count": ""
-        },
-        {
-          "name": "Matheson",
-          "url": "https://twitter.com/search?q=Matheson",
-          "tweet_count": ""
-        },
-        {
-          "name": "Padres",
-          "url": "https://twitter.com/search?q=Padres",
-          "tweet_count": ""
-        },
-        {
-          "name": "Carti",
-          "url": "https://twitter.com/search?q=Carti",
-          "tweet_count": ""
-        },
-        {
-          "name": "#UFC332",
-          "url": "https://twitter.com/search?q=%23UFC332",
-          "tweet_count": ""
-        },
-        {
-          "name": "Tavares",
-          "url": "https://twitter.com/search?q=Tavares",
-          "tweet_count": ""
-        },
-        {
-          "name": "#GoHabsGo",
-          "url": "https://twitter.com/search?q=%23GoHabsGo",
-          "tweet_count": ""
-        },
-        {
-          "name": "Brewers",
-          "url": "https://twitter.com/search?q=Brewers",
-          "tweet_count": ""
-        },
-        {
-          "name": "Demidov",
-          "url": "https://twitter.com/search?q=Demidov",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sens",
-          "url": "https://twitter.com/search?q=Sens",
-          "tweet_count": ""
-        },
-        {
-          "name": "Stutzle",
-          "url": "https://twitter.com/search?q=Stutzle",
-          "tweet_count": ""
-        },
-        {
-          "name": "Natalia Silva",
-          "url": "https://twitter.com/search?q=Natalia%20Silva",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sanderson",
-          "url": "https://twitter.com/search?q=Sanderson",
-          "tweet_count": ""
-        },
-        {
-          "name": "#MLPNorthernRising",
-          "url": "https://twitter.com/search?q=%23MLPNorthernRising",
-          "tweet_count": ""
-        },
-        {
-          "name": "Edvinsson",
-          "url": "https://twitter.com/search?q=Edvinsson",
-          "tweet_count": ""
-        },
-        {
-          "name": "Pens",
-          "url": "https://twitter.com/search?q=Pens",
-          "tweet_count": ""
-        },
-        {
-          "name": "Devon Levi",
-          "url": "https://twitter.com/search?q=Devon%20Levi",
-          "tweet_count": ""
-        },
-        {
-          "name": "HNIC",
-          "url": "https://twitter.com/search?q=HNIC",
-          "tweet_count": ""
-        },
-        {
-          "name": "Chabot",
-          "url": "https://twitter.com/search?q=Chabot",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rielly",
-          "url": "https://twitter.com/search?q=Rielly",
-          "tweet_count": ""
-        },
-        {
-          "name": "Austin Wells",
-          "url": "https://twitter.com/search?q=Austin%20Wells",
-          "tweet_count": ""
-        },
-        {
-          "name": "Penguins",
-          "url": "https://twitter.com/search?q=Penguins",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dobes",
-          "url": "https://twitter.com/search?q=Dobes",
-          "tweet_count": ""
-        },
-        {
-          "name": "Crosby",
-          "url": "https://twitter.com/search?q=Crosby",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hiller",
-          "url": "https://twitter.com/search?q=Hiller",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ullmark",
-          "url": "https://twitter.com/search?q=Ullmark",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hockey Night in Canada",
-          "url": "https://twitter.com/search?q=Hockey%20Night%20in%20Canada",
-          "tweet_count": ""
-        },
-        {
-          "name": "Huska",
-          "url": "https://twitter.com/search?q=Huska",
-          "tweet_count": ""
-        },
-        {
-          "name": "Detroit",
-          "url": "https://twitter.com/search?q=Detroit",
-          "tweet_count": ""
-        },
-        {
-          "name": "Pittsburgh",
-          "url": "https://twitter.com/search?q=Pittsburgh",
-          "tweet_count": ""
-        },
-        {
-          "name": "Giannis",
-          "url": "https://twitter.com/search?q=Giannis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ottawa",
-          "url": "https://twitter.com/search?q=Ottawa",
-          "tweet_count": ""
-        },
-        {
-          "name": "Raptors",
-          "url": "https://twitter.com/search?q=Raptors",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senators",
-          "url": "https://twitter.com/search?q=Senators",
-          "tweet_count": ""
-        },
-        {
-          "name": "Scottie",
-          "url": "https://twitter.com/search?q=Scottie",
-          "tweet_count": ""
-        },
-        {
-          "name": "Red Wings",
-          "url": "https://twitter.com/search?q=Red%20Wings",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Bombers",
-          "url": "https://twitter.com/search?q=%23Bombers",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Postseason",
-          "url": "https://twitter.com/search?q=%23Postseason",
-          "tweet_count": ""
-        },
-        {
-          "name": "#LGRW",
-          "url": "https://twitter.com/search?q=%23LGRW",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Sun Oct 04 2026 04:28:16 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1791088096.537,
-      "trends": [
-        {
-          "name": "Lucki",
-          "url": "https://twitter.com/search?q=Lucki",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ty France",
-          "url": "https://twitter.com/search?q=Ty%20France",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sass Jordan",
-          "url": "https://twitter.com/search?q=Sass%20Jordan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Matheson",
-          "url": "https://twitter.com/search?q=Matheson",
-          "tweet_count": ""
-        },
-        {
-          "name": "#UFC332",
-          "url": "https://twitter.com/search?q=%23UFC332",
-          "tweet_count": ""
-        },
-        {
-          "name": "#GoHabsGo",
-          "url": "https://twitter.com/search?q=%23GoHabsGo",
-          "tweet_count": ""
-        },
-        {
-          "name": "Carti",
-          "url": "https://twitter.com/search?q=Carti",
-          "tweet_count": ""
-        },
-        {
-          "name": "Demidov",
-          "url": "https://twitter.com/search?q=Demidov",
-          "tweet_count": ""
-        },
-        {
-          "name": "Tavares",
-          "url": "https://twitter.com/search?q=Tavares",
-          "tweet_count": ""
-        },
-        {
-          "name": "Padres",
-          "url": "https://twitter.com/search?q=Padres",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sens",
-          "url": "https://twitter.com/search?q=Sens",
-          "tweet_count": ""
-        },
-        {
-          "name": "Brewers",
-          "url": "https://twitter.com/search?q=Brewers",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Flames",
-          "url": "https://twitter.com/search?q=%23Flames",
-          "tweet_count": ""
-        },
-        {
-          "name": "Stutzle",
-          "url": "https://twitter.com/search?q=Stutzle",
-          "tweet_count": ""
-        },
-        {
-          "name": "Natalia Silva",
-          "url": "https://twitter.com/search?q=Natalia%20Silva",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sanderson",
-          "url": "https://twitter.com/search?q=Sanderson",
-          "tweet_count": ""
-        },
-        {
-          "name": "Crosby",
-          "url": "https://twitter.com/search?q=Crosby",
-          "tweet_count": ""
-        },
-        {
-          "name": "HNIC",
-          "url": "https://twitter.com/search?q=HNIC",
-          "tweet_count": ""
-        },
-        {
-          "name": "Pens",
-          "url": "https://twitter.com/search?q=Pens",
-          "tweet_count": ""
-        },
-        {
-          "name": "Nick Suzuki",
-          "url": "https://twitter.com/search?q=Nick%20Suzuki",
-          "tweet_count": ""
-        },
-        {
-          "name": "Edvinsson",
-          "url": "https://twitter.com/search?q=Edvinsson",
-          "tweet_count": ""
-        },
-        {
-          "name": "Devon Levi",
-          "url": "https://twitter.com/search?q=Devon%20Levi",
-          "tweet_count": ""
-        },
-        {
-          "name": "#MLPNorthernRising",
-          "url": "https://twitter.com/search?q=%23MLPNorthernRising",
-          "tweet_count": ""
-        },
-        {
-          "name": "Chabot",
-          "url": "https://twitter.com/search?q=Chabot",
-          "tweet_count": ""
-        },
-        {
-          "name": "Austin Wells",
-          "url": "https://twitter.com/search?q=Austin%20Wells",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cole Caufield",
-          "url": "https://twitter.com/search?q=Cole%20Caufield",
-          "tweet_count": ""
-        },
-        {
-          "name": "Penguins",
-          "url": "https://twitter.com/search?q=Penguins",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dobes",
-          "url": "https://twitter.com/search?q=Dobes",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hiller",
-          "url": "https://twitter.com/search?q=Hiller",
-          "tweet_count": ""
-        },
-        {
-          "name": "Eklund",
-          "url": "https://twitter.com/search?q=Eklund",
-          "tweet_count": ""
-        },
-        {
-          "name": "ComplexCon",
-          "url": "https://twitter.com/search?q=ComplexCon",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ullmark",
-          "url": "https://twitter.com/search?q=Ullmark",
-          "tweet_count": ""
-        },
-        {
-          "name": "Bombers",
-          "url": "https://twitter.com/search?q=Bombers",
-          "tweet_count": ""
-        },
-        {
-          "name": "#AEWCollision",
-          "url": "https://twitter.com/search?q=%23AEWCollision",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hockey Night in Canada",
-          "url": "https://twitter.com/search?q=Hockey%20Night%20in%20Canada",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dobson",
-          "url": "https://twitter.com/search?q=Dobson",
-          "tweet_count": ""
-        },
-        {
-          "name": "Detroit",
-          "url": "https://twitter.com/search?q=Detroit",
-          "tweet_count": ""
-        },
-        {
-          "name": "Pittsburgh",
-          "url": "https://twitter.com/search?q=Pittsburgh",
-          "tweet_count": ""
-        },
-        {
-          "name": "Geno",
-          "url": "https://twitter.com/search?q=Geno",
-          "tweet_count": ""
-        },
-        {
-          "name": "Giannis",
-          "url": "https://twitter.com/search?q=Giannis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ottawa Senators",
-          "url": "https://twitter.com/search?q=Ottawa%20Senators",
-          "tweet_count": ""
-        },
-        {
-          "name": "Owen Michaels",
-          "url": "https://twitter.com/search?q=Owen%20Michaels",
-          "tweet_count": ""
-        },
-        {
-          "name": "Raptors",
-          "url": "https://twitter.com/search?q=Raptors",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rays",
-          "url": "https://twitter.com/search?q=Rays",
-          "tweet_count": ""
-        },
-        {
-          "name": "Scottie",
-          "url": "https://twitter.com/search?q=Scottie",
-          "tweet_count": ""
-        },
-        {
-          "name": "Red Wings",
-          "url": "https://twitter.com/search?q=Red%20Wings",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dodgers",
-          "url": "https://twitter.com/search?q=Dodgers",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Postseason",
-          "url": "https://twitter.com/search?q=%23Postseason",
-          "tweet_count": ""
-        },
-        {
-          "name": "#LGRW",
-          "url": "https://twitter.com/search?q=%23LGRW",
-          "tweet_count": ""
-        }
-      ]
     }
   ],
   "google": [
     {
-      "keyword": "tyquan thornton",
-      "traffic": "2000+",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb1eySPyenLJpGuqVh2ZOKvhQhTii0CknlkJNUt0OfI8L0yClrBTPKOUQm0wc",
-      "picture_source": "USA Today",
-      "pub_date": "Sun, 4 Oct 2026 16:10:00 -0700",
-      "news": [
-        {
-          "title": "Tyquan Thornton injury update as Chiefs WR suffers gruesome ankle injury",
-          "url": "https://www.usatoday.com/story/sports/nfl/chiefs/2026/10/04/tyquan-thornton-injury-update-chiefs-wr-ankle/92096658007/",
-          "source": "USA Today",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb1eySPyenLJpGuqVh2ZOKvhQhTii0CknlkJNUt0OfI8L0yClrBTPKOUQm0wc"
-        },
-        {
-          "title": "Chiefs star suffers horror injury with comms gasping 'I don't want to look'",
-          "url": "https://www.the-sun.com/sport/17096935/tyquan-thornton-injury-leaves-cbs-crew-gasping/",
-          "source": "The Sun",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPgLSO8zmR-1GGFH8d_rKgSRZpvK6jWZ0fM63qJdMwfQbHfKkcARJrxijTsSk"
-        },
-        {
-          "title": "Tyquan Thornton carted with lower-leg injury, Chiefs take 23-19 lead",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyquan-thornton-carted-with-lower-leg-injury-chiefs-take-23-19-lead",
-          "source": "NBC Sports",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPkDXNKAiHKkfy5OSOdEaMCiBH1cWXq4O36cNpyvOUUFw6YXsGFPvSYbhCgWg"
-        }
-      ]
-    },
-    {
-      "keyword": "49ers",
+      "keyword": "paul cotter",
       "traffic": "1000+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRc5voPkD2O11Dm2kmQ_kXYpKxhQbXPVUItr4tk4l-ZFv4ZVKA7jZ6rVUB-YHw",
-      "picture_source": "Denver Broncos",
-      "pub_date": "Sun, 4 Oct 2026 15:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYe8i9vLw3Pgw0Exhsvbv5_IKHW7m9tZDtsDlHFBb5M5dA-cTNsDUxa83xZdc",
+      "picture_source": "NHL.com",
+      "pub_date": "Sun, 4 Oct 2026 19:20:00 -0700",
       "news": [
         {
-          "title": "Denver Broncos at San Francisco 49ers: How to watch, listen and live stream the Broncos' Week 4 game",
-          "url": "https://www.denverbroncos.com/news/denver-broncos-at-san-francisco-49ers-how-to-watch-listen-and-live-stream-the-broncos-week-4-game",
-          "source": "Denver Broncos",
+          "title": "VGK@VAN: Cotter scores PPG against Adin Hill",
+          "url": "https://nhl.com/video/vgk-van-cotter-scores-ppg-against-adin-hill-6406231985112",
+          "source": "NHL.com",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRc5voPkD2O11Dm2kmQ_kXYpKxhQbXPVUItr4tk4l-ZFv4ZVKA7jZ6rVUB-YHw"
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYe8i9vLw3Pgw0Exhsvbv5_IKHW7m9tZDtsDlHFBb5M5dA-cTNsDUxa83xZdc"
         },
         {
-          "title": "3 keys to a 49ers win over the Broncos: There’s a matchup to exploit",
-          "url": "https://www.ninersnation.com/san-francisco-49ers-news/163673/san-francisco-49ers-news-3-keys-win-denver-broncos-brock-purdy-predictions-week-4-sean-payton",
-          "source": "Niners Nation",
+          "title": "Canucks' Paul Cotter is 'passionate' about faceoffs",
+          "url": "https://dailyhive.com/vancouver/canucks-paul-cotter-passionate-faceoffs",
+          "source": "Daily Hive",
           "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRq5SsSUVAGpvrb5Py84GQ8vq435cZ3DXILDNO4CxaT8WFn1kWnokQvRtEqFLc"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNGQJ3njdgA21SeYKTxm3OowI4VS06jzGbnPHYZzOvckYiU4QUKoT3LpJ0PXY"
         },
         {
-          "title": "What channel is the Broncos vs. 49ers game on today? Time, TV schedule",
-          "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/10/04/broncos-49ers-what-tv-channel-is-the-game-on-today/92060540007/",
-          "source": "Broncos Wire",
+          "title": "\"The acquisition of the year\": Move completed by Canucks GM Ryan Johnson's being deemed an absoloute home run",
+          "url": "https://www.markerzone.com/news/index.php?no=607453",
+          "source": "Markerzone.com",
           "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYXS3528IMeDnA6JCNWgAm3XhnoXl0Z4wjimwIMh8noRwwUanpwQGdtXspvg"
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkyDmoH7j02kaZiV31ryaDixa6uFDs68ioepo5CenfPbCewgVJP_xYDibm9XI"
         }
       ]
     },
     {
-      "keyword": "eleicoes brasil",
-      "traffic": "1000+",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-2YK3ovoF2nHEAmC7TtSm-z1f4fdW8qwLcToW_rJ7vDT9JZPC3m8vO1rTME",
-      "picture_source": "Agência Brasil",
-      "pub_date": "Sun, 4 Oct 2026 15:10:00 -0700",
-      "news": [
-        {
-          "title": "TSE registra 421 urnas substituídas nas primeiras 2 horas de votação",
-          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-registra-421-urnas-substituidas-nas-primeiras-2-horas-de-votacao",
-          "source": "Agência Brasil",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-2YK3ovoF2nHEAmC7TtSm-z1f4fdW8qwLcToW_rJ7vDT9JZPC3m8vO1rTME"
-        },
-        {
-          "title": "Eleições tranquilas em Alagoas: presidente do TRE faz balanço do pleito e explica filas após as 17h",
-          "url": "https://www.alagoas24horas.com.br/1765665/eleicoes-tranquilas-em-alagoas-presidente-do-tre-faz-balanco-do-pleito-e-explica-filas-apos-as-17h/",
-          "source": "Alagoas 24 Horas",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJNiB8zM_o-mayDnZl78M_KdyrrWUFX--qWJM67wCd-Ent8jYxkug6EbwAxUQ"
-        },
-        {
-          "title": "Kassio Nunes Marques destaca desempenho do e-Título e faz balanço positivo do 1º turno",
-          "url": "https://www.noticiasagricolas.com.br/noticias/politica-economia/429065-kassio-nunes-marques-destaca-desempenho-do-e-titulo-e-faz-balanco-positivo-do-1-turno.html",
-          "source": "Notícias Agrícolas",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjABk_I_H8r6UX08l256BGY0DAw4PUO187KmpN8anVbAbF9ykMPa_B5yh0QUM"
-        }
-      ]
-    },
-    {
-      "keyword": "floride",
+      "keyword": "michel jean",
       "traffic": "2000+",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg1gS84yvSlpn8Gp4jN8iS2PCBuP909yQiL9aSsfmqCjuBgXoyXjDqvkQInbw",
-      "picture_source": "Radio-Canada",
-      "pub_date": "Sun, 4 Oct 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj_RfiGrL4dDr5wi1HTnPokLb0sBoyto4EVXqkGAqsnJrKw5ItpcQJ3Wm1a3s",
+      "picture_source": "Le Soleil",
+      "pub_date": "Sun, 4 Oct 2026 18:10:00 -0700",
       "news": [
         {
-          "title": "La Floride envisage de supprimer les taxes foncières et de passer la note aux Canadiens",
-          "url": "https://ici.radio-canada.ca/nouvelle/2289857/taxe-fonciere-floride-canada",
+          "title": "Nishim n’est pas un « Kukum 2», affirme Michel Jean",
+          "url": "https://www.lesoleil.com/arts/livres/2026/10/04/emnishimem-nest-pas-un-emkukumem-2-affirme-michel-jean-7YBK3NNKSJAJPJG5ETQLBYQXA4/",
+          "source": "Le Soleil",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj_RfiGrL4dDr5wi1HTnPokLb0sBoyto4EVXqkGAqsnJrKw5ItpcQJ3Wm1a3s"
+        },
+        {
+          "title": "Michel Jean lance le roman « Nishim » et dénonce l'inaction politique au Québec",
+          "url": "https://ici.radio-canada.ca/tele/le-telejournal-quebec/site/videos/10772700/michel-jean-lance-roman-nishim-et-denonce-inaction-politique-au-quebec",
           "source": "Radio-Canada",
           "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg1gS84yvSlpn8Gp4jN8iS2PCBuP909yQiL9aSsfmqCjuBgXoyXjDqvkQInbw"
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrIgPPLWL-UArQzqzpbHeVgEAT_3shejE6GZx1vkwPGV_XuQuKj7cp86t-lYw"
         },
         {
-          "title": "Coupes de taxes foncières en Floride: les snowbirds pourraient recevoir la facture",
-          "url": "https://www.tvanouvelles.ca/2026/10/04/coupes-de-taxes-foncieres-en-floride-les-snowbirds-pourraient-recevoir-la-facture",
-          "source": "TVA Nouvelles",
+          "title": "3 souhaits de Michel Jean en cette journée nationale de la vérité et de la réconciliation",
+          "url": "https://www.journaldemontreal.com/2026/09/30/3-souhaits-de-michel-jean-en-cette-journee-de-la-verite-et-de-la-reconciliation",
+          "source": "Le Journal de Montréal",
           "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMfI0CvX-Odn69s3X1yLkuimzKgPAkCXgpP1Pl2Qb2pUbGIla3trsdVFVzGAY"
-        },
-        {
-          "title": "Le rappeur Rick Ross arrêté pour violence conjugale en Floride",
-          "url": "https://www.tvanouvelles.ca/2026/10/02/le-rappeur-rick-ross-arrete-pour-violence-conjugale-en-floride",
-          "source": "TVA Nouvelles",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_4xqepGozfWXvv_hLh2YTlPQpJGnSD0_CPkwQdYoSAcQW7BBZEPQlvhwDlTY"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVbvYaEOAvT5V2cvgrd0K5KwAXAZXn6s_VcyoBHj1TI-zWn0CvXz2a0JfzWA"
         }
       ]
     },
     {
-      "keyword": "brazil election",
-      "traffic": "2000+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOg60ZchDfwkHdS4LKTM1_H2wGNbv7kHzjtfj_HKKn9SstwzxKqs1oSwR4u6M",
-      "picture_source": "The Guardian",
-      "pub_date": "Sun, 4 Oct 2026 15:00:00 -0700",
+      "keyword": "panthers vs ducks",
+      "traffic": "1000+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+      "picture_source": "NHL.com",
+      "pub_date": "Sun, 4 Oct 2026 18:10:00 -0700",
       "news": [
         {
-          "title": "Brazil presidential election 2026: first-round live results",
-          "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
-          "source": "The Guardian",
+          "title": "Panthers at Ducks projected lineups",
+          "url": "https://www.nhl.com/news/florida-panthers-anaheim-ducks-game-preview-october-4-2026",
+          "source": "NHL.com",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOg60ZchDfwkHdS4LKTM1_H2wGNbv7kHzjtfj_HKKn9SstwzxKqs1oSwR4u6M"
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc"
         },
         {
-          "title": "Brazil votes, with Lula facing Bolsonaro's son",
-          "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
-          "source": "NPR",
+          "title": "Gameday 3: Florida Panthers at Anaheim Ducks",
+          "url": "https://www.litterboxcats.com/florida-panthers-at-anaheim-ducks-gameday-3-2026-27-nhl-season/",
+          "source": "Litter Box Cats",
           "snippet": "",
-          "picture": ""
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh4gRMHf7nKRRnMgXGXscDivfBWNCwdwK-LcNr6ppFx96HF9ImY5VAX-Eb_I0"
         },
         {
-          "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows",
-          "url": "https://www.reuters.com/world/americas/brazilians-head-polls-high-stakes-polarized-election-2026-10-04/",
-          "source": "Reuters",
+          "title": "Leo Carlsson October 4 Preview vs. the Panthers",
+          "url": "https://foxsports990.iheart.com/content/2026-10-04-leo-carlsson-october-4-preview-vs-the-panthers/",
+          "source": "Fox Sports 990",
           "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKk-teMcNIEk98ydupzqUiVuXDKwKpr5r69ccMjr30FOpJJ4-FA9_Jxi792Q"
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl_Enay7IJzVPXhP4BP6KXMZFIaOaxoqbXqFIIzrRioFbiHczWBMyHc8gflM4"
         }
       ]
     },
     {
-      "keyword": "portugal national football team vs norway national football team standings",
-      "traffic": "50000+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFFunbRHV-vAIDoXz_slBkwhs4x88tsACtTdEr8VK4j4dGYsJaJZ-v10fz8GQ",
-      "picture_source": "BBC",
-      "pub_date": "Sun, 4 Oct 2026 14:00:00 -0700",
+      "keyword": "plague",
+      "traffic": "1000+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSopwdNecOrY4Fpls-A5CmtrjnLI8sk_UZ2cB9AJkoUcM-qHdJv3UWXzYr34kg",
+      "picture_source": "Axios",
+      "pub_date": "Sun, 4 Oct 2026 18:00:00 -0700",
       "news": [
         {
-          "title": "Portugal 2-1 Norway: Goncalo Ramos scores late winner",
-          "url": "https://www.bbc.com/sport/football/live/cr158e0d932vt",
-          "source": "BBC",
+          "title": "Scoop: White House monitors suspected plague outbreak in Russia",
+          "url": "https://www.axios.com/2026/10/04/russia-plague-outbreak-white-house-us",
+          "source": "Axios",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFFunbRHV-vAIDoXz_slBkwhs4x88tsACtTdEr8VK4j4dGYsJaJZ-v10fz8GQ"
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSopwdNecOrY4Fpls-A5CmtrjnLI8sk_UZ2cB9AJkoUcM-qHdJv3UWXzYr34kg"
         },
         {
-          "title": "Hard yards! Skipper Fernandes warns Portugal must suffer to beat dangerous Norwegians",
-          "url": "https://ca.sports.yahoo.com/news/hard-yards-skipper-fernandes-warns-082702345.html",
+          "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies From Plague",
+          "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+          "source": "The Moscow Times",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPwnv_-PP9b_bmTYZe87s2Shpf7ggDK8sNKvtVPGJ58k_CXcpSk_jad85AhMI"
+        },
+        {
+          "title": "Has plague returned to Siberia? Panic in Russia after death of lab worker",
+          "url": "https://www.euronews.com/2026/10/04/has-plague-returned-to-siberia-panic-in-russia-after-death-of-lab-worker",
+          "source": "Euronews.com",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgdIVzxw4BTTKF4dSQeruSmddl9lEFqsv6Y8kVKw4BxVhTqUrTbQcLnmLw8c"
+        }
+      ]
+    },
+    {
+      "keyword": "irán",
+      "traffic": "1000+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS6Thu85VQ5FeVTygBacsR88ccbmBo6wPZmpf9cs_tVIiv1u9WVMbUr-nlOOg",
+      "picture_source": "Infobae",
+      "pub_date": "Sun, 4 Oct 2026 17:40:00 -0700",
+      "news": [
+        {
+          "title": "El régimen de Irán reconoció que evalúa la propuesta de paz presentada por Estados Unidos a través de Qatar",
+          "url": "https://www.infobae.com/america/mundo/2026/10/04/el-regimen-de-iran-reconocio-que-evalua-la-propuesta-de-paz-presentada-por-estados-unidos-a-traves-de-qatar/",
+          "source": "Infobae",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS6Thu85VQ5FeVTygBacsR88ccbmBo6wPZmpf9cs_tVIiv1u9WVMbUr-nlOOg"
+        },
+        {
+          "title": "Irán dice estar preparado para “combatir y negociar” con EE.UU., con Ormuz en el centro de diálogos",
+          "url": "https://www.trtespanol.com/article/55cfeb5368f4",
+          "source": "TRT Español",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvBbWqBsSy7rmYwyMk9Q24bFqcQQ7UY8fXu57M114P5mTcivglrvF4TSVK5uU"
+        },
+        {
+          "title": "Irán reafirma disposición a la vía diplomática para alcanzar solución",
+          "url": "https://www.prensa-latina.cu/2026/10/04/iran-reafirma-disposicion-a-la-via-diplomatica-para-alcanzar-solucion/",
+          "source": "Prensa Latina",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEnKAxl9FZSsvGEoletb5Pka3r7UeevedpEXOaOpqrt-HYaMOgteZi6eZ51r4"
+        }
+      ]
+    },
+    {
+      "keyword": "golden knights vs canucks",
+      "traffic": "5000+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+      "picture_source": "NHL.com",
+      "pub_date": "Sun, 4 Oct 2026 17:10:00 -0700",
+      "news": [
+        {
+          "title": "Golden Knights at Canucks projected lineups",
+          "url": "https://www.nhl.com/news/vegas-golden-knights-vancouver-canucks-game-preview-october-4-2026",
+          "source": "NHL.com",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc"
+        },
+        {
+          "title": "Golden Knights face the Canucks in Pacific Division play",
+          "url": "https://ca.sports.yahoo.com/news/golden-knights-face-canucks-pacific-081226767.html",
           "source": "Yahoo",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3R0X1sSESNkh342ZjoLy_ar1kB8c2oU128gCiO2oJgXHNNfcYbzFtNw_NYJI"
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDY2RRwyH2KKqT7W8fxipns-mgB-BpkmdMAga3JcQHoYrmedBww8BUq6G1bcE"
         },
         {
-          "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
-          "url": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals",
-          "source": "Al Jazeera",
+          "title": "Canucks Game Day: Closing out a busy weekend with a visit from Vegas",
+          "url": "https://canucksarmy.com/news/vancouver-canucks-game-day-closing-out-busy-weekend-visit-vegas-golden-knights",
+          "source": "Canucks Army",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBgUl0awwbQXKVM2GTUu59dDLYQcB53iq5HwJQEr8Thlbef-wJ6fGCuyfVmCE"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoN03Gdm0zieIzHkd7ODnN0fzZlG3gwVYZ6iJtIBjKSBh5SXfqNpKxjxFehnk"
         }
       ]
     },
     {
-      "keyword": "flávio bolsonaro",
-      "traffic": "5000+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHwvOmCLEuvSfvVt_y6zne6Kh8-PiUKwNDQA_0NtVdXM_wejzJHo-36Tj_SoY",
-      "picture_source": "G1",
-      "pub_date": "Sun, 4 Oct 2026 14:00:00 -0700",
+      "keyword": "costa rica vs haiti",
+      "traffic": "2000+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyGoWUbuSNR6gnvaWywePg98a4xJzCAlF18jk5ASWDVm5IFFmcOUAe21hdjsc",
+      "picture_source": "La Teja",
+      "pub_date": "Sun, 4 Oct 2026 17:10:00 -0700",
       "news": [
         {
-          "title": "Lula lidera votação no exterior e soma mais votos que Flávio Bolsonaro; acompanhe a apuração",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/04/resultados-eleicao-exterior-primeiro-turno-presidente-boletins-de-urna.ghtml",
-          "source": "G1",
+          "title": "Bryan Ruiz explicó por qué fueron convocados Mayron George, Ronald Matarrita y Anthony Hernández",
+          "url": "https://www.lateja.cr/deportes/bryan-ruiz-explico-por-que-fueron-convocados/GFH4TOOJWRHWTE27BHSQGQVBUY/story/",
+          "source": "La Teja",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHwvOmCLEuvSfvVt_y6zne6Kh8-PiUKwNDQA_0NtVdXM_wejzJHo-36Tj_SoY"
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyGoWUbuSNR6gnvaWywePg98a4xJzCAlF18jk5ASWDVm5IFFmcOUAe21hdjsc"
         },
         {
-          "title": "Lula lidera em 44 países e Flávio em 13; siga os resultados",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/eleicoes-2026-exterior-resultados/",
-          "source": "Poder360",
+          "title": "¿Dónde ver Costa Rica vs Haití hoy EN VIVO?",
+          "url": "https://www.365scores.com/es/news/donde-ver-costa-rica-vs-haiti-hoy/",
+          "source": "365Scores",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9DD57m_6fw7VFYco-A3QFsE_NSam7v3_Legcb1t44580Q5KzitgZjdHGT-SE"
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHot-IIYUhcwMjd30_JIkx1k5kYmkih4ZpMcJ6whUYDGOcoOBZNmox76xF8sY"
         },
         {
-          "title": "Eleições 2026: Lula vence na China e na Austrália; Flávio ganha no Japão",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/04/urnas-no-exterior-resultados-eleicoes-2026.ghtm",
-          "source": "UOL Notícias",
+          "title": "¡GOL! anota para Costa Rica. Carlos Mora",
+          "url": "https://www.tudn.com/futbol/concacaf-nations-league/gol-anota-para-costa-rica-carlos-mora-video-2",
+          "source": "TUDN",
           "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtE1FohKjH22Yy241rQh_zUuPYazMFTjXXs7WC9iH6rKKgv-5joH_0-XxgY0E"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyKTJzAjp-Kf7IbkjTZr3fo8JkBHLpYck-zfDuzYpFDqTm9MYLE4Sbhz8hsA"
         }
       ]
     },
     {
-      "keyword": "cowboys",
-      "traffic": "500+",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr9obsdltC__Wxu5oGDIL5Ube8U8gbUWkUIk3uSVN5nmGSqv2BysZ4leVMhSk",
-      "picture_source": "DAZN",
-      "pub_date": "Sun, 4 Oct 2026 13:20:00 -0700",
-      "news": [
-        {
-          "title": "NFL Week 4 early game results: Cowboys win on last second TD; Bears rush over for 230 yards",
-          "url": "https://www.dazn.com/en-CA/news/football/nfl-week-4-game-results-cowboys-win-bears-rushing/m9c98mnzqvt21330ndu36aj4r",
-          "source": "DAZN",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr9obsdltC__Wxu5oGDIL5Ube8U8gbUWkUIk3uSVN5nmGSqv2BysZ4leVMhSk"
-        },
-        {
-          "title": "Lamb’s late TD caps wild Cowboys rally to beat winless Texans",
-          "url": "https://www.tsn.ca/nfl/article/lambs-late-td-caps-wild-cowboys-rally-to-beat-winless-texans/",
-          "source": "TSN",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN70ZzzJ9_OqRdjRyhzADt9AFKBSwBJonbsJ8SutTpoBGe6vL_G3s6afT8MMA"
-        },
-        {
-          "title": "Cowboys Win Thriller At Texans: Top 10 Takes - Whitt's End",
-          "url": "https://sports.yahoo.com/videos/cowboys-win-thriller-texans-top-224458079.html",
-          "source": "Yahoo Sports",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk6rbJZBWI7F22EbShk9qReWD0glQzlR3Rk9dgyztbBbVmKIERA67wUn_FTTk"
-        }
-      ]
-    },
-    {
-      "keyword": "patriots",
-      "traffic": "500+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3kyRhUrqOfcKvAy7jnNhTHiDrhbnHkZ6sZBc3JUxozZ2YZp89DcO3bWSB5po",
+      "keyword": "travis kelce",
+      "traffic": "1000+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbkQS8_IYTPSs5opNDICtHbBN2t5pczV2zIZvWQn_mGxCy0QgI08WKOitINo4",
       "picture_source": "NBC Sports",
-      "pub_date": "Sun, 4 Oct 2026 13:10:00 -0700",
+      "pub_date": "Sun, 4 Oct 2026 17:00:00 -0700",
       "news": [
         {
-          "title": "Mike Vrabel: Ref flagged me because he was sensitive when I told him he made a bad call",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-ref-flagged-me-because-he-was-sensitive-when-i-told-him-he-made-a-bad-call",
+          "title": "Travis Kelce set to surpass Tim Brown, move into No. 7 on NFL’s all-time receptions list",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-set-to-surpass-tim-brown-move-into-no-7-on-nfls-all-time-receptions-list",
           "source": "NBC Sports",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3kyRhUrqOfcKvAy7jnNhTHiDrhbnHkZ6sZBc3JUxozZ2YZp89DcO3bWSB5po"
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbkQS8_IYTPSs5opNDICtHbBN2t5pczV2zIZvWQn_mGxCy0QgI08WKOitINo4"
         },
         {
-          "title": "Patriots coach Mike Vrabel called for penalty after yelling at official, which set up easy Bills touchdown",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/article/patriots-coach-mike-vrabel-called-for-penalty-after-yelling-at-official-which-set-up-easy-bills-touchdown-191108354.html",
-          "source": "Yahoo Sports",
+          "title": "Travis Kelce's Resurgence vs Raiders",
+          "url": "https://www.centraloregondaily.com/sports/travis-kelces-resurgence-vs-raiders/video_d186162c-ea41-5e61-a0c2-12c08636cf12.html",
+          "source": "Central Oregon Daily",
           "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCrUUXivLxcbfJv1jLsW7eeL-rOoK4kYhq4mBSZ55Ew96lsNDylj2RJyH5JSc"
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBO5tiRqgpVLLUZUgPIHf0on1EV0Y9LjFuyssfb-7Mmjwb20rgisMoEkb9bZ8"
         },
         {
-          "title": "Mike Vrabel calls out official after being penalized during Patriots win over Bills",
-          "url": "https://www.cbssports.com/nfl/news/mike-vrabel-calls-out-official-after-being-penalized-patriots-bills/",
-          "source": "CBS Sports",
+          "title": "Travis Kelce Held to two catches again",
+          "url": "https://www.thefantasyfootballers.com/news/640790/travis-kelce-held-to-two-catches-again/",
+          "source": "Fantasy Footballers Podcast",
           "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSNpL8NYpJ-pJoMCpCa80mKhIqp37i_LqdsgyRAuB6GKPSlZS_sOFbZOWGfrQ"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUZYZsuz2oVwf9jovXey7tAbBKxYKu70L6Mm5x6lf3dZRwUMTjUAa24zqyenU"
         }
       ]
     },
     {
-      "keyword": "tva nouvelles",
-      "traffic": "5000+",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrlsXrdmBzGjDjQEtYRpPpGfNMuJ-6sTTlXN2TgqIbwTfgtCUDfDmK2_WjI8",
-      "picture_source": "TVA Nouvelles",
-      "pub_date": "Sun, 4 Oct 2026 13:00:00 -0700",
+      "keyword": "raiders",
+      "traffic": "1000+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_eI7BB1PolZvMsjPEInKOXJTw5k986N7DKqjnfPLr57BTo4ZxAWfAasC9bus",
+      "picture_source": "NFL.com",
+      "pub_date": "Sun, 4 Oct 2026 17:00:00 -0700",
       "news": [
         {
-          "title": "Un homme en crise possiblement armé a forcé le confinement de clients dans une épicerie à Rosemont",
-          "url": "https://www.tvanouvelles.ca/2026/10/04/un-homme-en-crise-possiblement-arme-a-force-le-confinement-de-clients-dans-une-epicerie-a-rosemont",
-          "source": "TVA Nouvelles",
+          "title": "Can't-Miss Play: Superman dive at the pylon! Kenneth Walker III's 22-yard TD run is epic",
+          "url": "https://www.nfl.com/videos/can-t-miss-play-superman-dive-at-the-pylon-kenneth-walker-iii-s-22-yard-td-run-is-epic",
+          "source": "NFL.com",
           "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrlsXrdmBzGjDjQEtYRpPpGfNMuJ-6sTTlXN2TgqIbwTfgtCUDfDmK2_WjI8"
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_eI7BB1PolZvMsjPEInKOXJTw5k986N7DKqjnfPLr57BTo4ZxAWfAasC9bus"
         },
         {
-          "title": "Loi sur la réparabilité: vos électroménagers pourraient coûter jusqu'à 30% plus cher dès demain",
-          "url": "https://www.tvanouvelles.ca/2026/10/04/loi-sur-la-reparabilite-vos-electromenagers-pourraient-couter-jusqua-30-plus-cher-des-demain",
-          "source": "TVA Nouvelles",
+          "title": "NFL Highlights: Chiefs 30, Raiders 27",
+          "url": "https://www.sportsnet.ca/nfl/video/nfl-highlights-chiefs-30-raiders-27/",
+          "source": "Sportsnet.ca",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmvY5lgTyoFiTK0el-FgBWjHaPTzVAstkNI-XNibKj11wBsyoeVHvOw6kIwFA"
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJTN2BJjY4EzsXOdAu30YDH_kNeTyE4ACqee6Fu1RVYBWJo4CY1Aeyd6AluF4"
         },
         {
-          "title": "Nouvelle garantie légale de bon fonctionnement | Tanguay déboutée en cour",
-          "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-02/nouvelle-garantie-legale-de-bon-fonctionnement/tanguay-deboutee-en-cour.php",
-          "source": "La Presse",
+          "title": "'Elusive' RB Walker scores two TDs in 19 seconds to lead Chiefs to 4-0 record",
+          "url": "https://www.tsn.ca/nfl/video/2026/10/05/elusive-rb-walker-scores-two-tds-in-19-seconds-to-lead-chiefs-to-4-0-record/",
+          "source": "TSN",
           "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReZTO3trN9VgestIPbhYZD1PYMX218BUQrttHkY6vupiwo3DLp0C-xfKDDzvM"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeEafcRggXY3EkCADWsb4FZgIHnjMcSnKQfI-tVDNwUAI6OQnJ6ej2WKl_5T0"
+        }
+      ]
+    },
+    {
+      "keyword": "costa rica – haïti",
+      "traffic": "2000+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGoIX-kk7qoyG11nxyanncgV9obGni6NHB9zF11QPwlE_eky7BmDYHyyxmnIs",
+      "picture_source": "Fubo",
+      "pub_date": "Sun, 4 Oct 2026 16:50:00 -0700",
+      "news": [
+        {
+          "title": "Costa Rica vs Haiti Live Stream: How to Watch CONCACAF Nations League",
+          "url": "https://www.fubo.tv/news/concacaf-nations-league/costa-rica-vs-haiti-live-stream-how-to-watch-concacaf-nations-league/",
+          "source": "Fubo",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGoIX-kk7qoyG11nxyanncgV9obGni6NHB9zF11QPwlE_eky7BmDYHyyxmnIs"
+        },
+        {
+          "title": "Costa Rica Faces Haiti at a Packed Saprissa With Bryan Ruiz’s Future Undecided",
+          "url": "https://ticotimes.net/2026/10/04/costa-rica-vs-haiti-bryan-ruiz-saprissa",
+          "source": "The Tico Times",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ44EnYU89x_RmyZkcNDu73lScYABeD3rxAA4glRgC4d9vik_DOlHyea3iv3k"
+        },
+        {
+          "title": "Haiti defeats Costa Rica 2-0 in Nations League",
+          "url": "https://lenouvelliste.com/en/article/272359/haiti-defeats-costa-rica-2-0-in-nations-league",
+          "source": "lenouvelliste.com",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTAvxZQ7neeycxQch-AFVNmida9moiXd57vt_XromhKxBD6dQgXVQiCk3aYOg"
         }
       ]
     }
@@ -6364,45 +6329,45 @@
     },
     {
       "rank": "2",
-      "status": "=",
-      "title": "RuneScape - Official 4th MMO Teaser Trailer",
-      "url": "https://youtu.be/8Vu7c-8SCUc",
-      "video_id": "8Vu7c-8SCUc"
-    },
-    {
-      "rank": "3",
-      "status": "NEW",
-      "title": "Hermitcraft 11: Episode 29 - HAUNTING HERMITS!",
-      "url": "https://youtu.be/jKeTyuj1xPc",
-      "video_id": "jKeTyuj1xPc"
-    },
-    {
-      "rank": "4",
-      "status": "NEW",
-      "title": "Majaal",
-      "url": "https://youtu.be/ijd_4G4HX6Y",
-      "video_id": "ijd_4G4HX6Y"
-    },
-    {
-      "rank": "5",
       "status": "NEW",
       "title": "Call of Duty: Modern Warfare 4 | DMZ Worldbuilder Trailer",
       "url": "https://youtu.be/ivVCmP9I_Lo",
       "video_id": "ivVCmP9I_Lo"
     },
     {
+      "rank": "3",
+      "status": "NEW",
+      "title": "This Card Game is Cursed...",
+      "url": "https://youtu.be/_geP6kSwIfY",
+      "video_id": "_geP6kSwIfY"
+    },
+    {
+      "rank": "4",
+      "status": "NEW",
+      "title": "Dil Ki Dhadkan",
+      "url": "https://youtu.be/_isxMiGXwys",
+      "video_id": "_isxMiGXwys"
+    },
+    {
+      "rank": "5",
+      "status": "-3",
+      "title": "RuneScape - Official 4th MMO Teaser Trailer",
+      "url": "https://youtu.be/8Vu7c-8SCUc",
+      "video_id": "8Vu7c-8SCUc"
+    },
+    {
       "rank": "6",
       "status": "NEW",
-      "title": "We Automate Infinite Netherite - Sky Factory Season 7 EP 4",
-      "url": "https://youtu.be/RqagxX1-dP8",
-      "video_id": "RqagxX1-dP8"
+      "title": "Try Not To Get AGE-RESTRICTED Challenge #2",
+      "url": "https://youtu.be/o2JkhCiOQBY",
+      "video_id": "o2JkhCiOQBY"
     },
     {
       "rank": "7",
       "status": "NEW",
-      "title": "CLUB TALE | Hustinder | Mxrci | Dean Warring | Vintage Records | Latest Punjabi Songs",
-      "url": "https://youtu.be/iEmMbZm7Gkc",
-      "video_id": "iEmMbZm7Gkc"
+      "title": "Majaal",
+      "url": "https://youtu.be/ijd_4G4HX6Y",
+      "video_id": "ijd_4G4HX6Y"
     },
     {
       "rank": "8",
@@ -6413,73 +6378,73 @@
     },
     {
       "rank": "9",
-      "status": "-6",
-      "title": "SIDEMEN AMONG US MEGAMIND ROLE: BURST EVERYONE'S HEADS TO WIN",
-      "url": "https://youtu.be/VLwcqaXiNOA",
-      "video_id": "VLwcqaXiNOA"
+      "status": "NEW",
+      "title": "Hermitcraft 11: Episode 29 - HAUNTING HERMITS!",
+      "url": "https://youtu.be/jKeTyuj1xPc",
+      "video_id": "jKeTyuj1xPc"
     },
     {
       "rank": "10",
       "status": "NEW",
-      "title": "Dil Ki Dhadkan",
-      "url": "https://youtu.be/_isxMiGXwys",
-      "video_id": "_isxMiGXwys"
+      "title": "CLUB TALE | Hustinder | Mxrci | Dean Warring | Vintage Records | Latest Punjabi Songs",
+      "url": "https://youtu.be/iEmMbZm7Gkc",
+      "video_id": "iEmMbZm7Gkc"
     },
     {
       "rank": "11",
+      "status": "NEW",
+      "title": "BHOGI Official Teaser | Sharwanand | Sampath Nandi | Anupama | Dimple Hayathi | Bheems Ceciroleo",
+      "url": "https://youtu.be/qjp5KL_Zg4A",
+      "video_id": "qjp5KL_Zg4A"
+    },
+    {
+      "rank": "12",
+      "status": "NEW",
+      "title": "We Automate Infinite Netherite - Sky Factory Season 7 EP 4",
+      "url": "https://youtu.be/RqagxX1-dP8",
+      "video_id": "RqagxX1-dP8"
+    },
+    {
+      "rank": "13",
+      "status": "+15",
+      "title": "All The Things She Said",
+      "url": "https://youtu.be/04l5nCVrAGI",
+      "video_id": "04l5nCVrAGI"
+    },
+    {
+      "rank": "14",
       "status": "NEW",
       "title": "Hell Week 666 Trailer | Sam and Colby",
       "url": "https://youtu.be/H36rDvDG4ZM",
       "video_id": "H36rDvDG4ZM"
     },
     {
-      "rank": "12",
+      "rank": "15",
       "status": "NEW",
-      "title": "We Found an ABANDONED AIRPLANE in Minecraft",
-      "url": "https://youtu.be/JppPy0vMpgw",
-      "video_id": "JppPy0vMpgw"
+      "title": "I Hate Clips...",
+      "url": "https://youtu.be/m2kVV-COOno",
+      "video_id": "m2kVV-COOno"
     },
     {
-      "rank": "13",
+      "rank": "16",
       "status": "-9",
       "title": "Solar Eclipse",
       "url": "https://youtu.be/eJFi2TK5174",
       "video_id": "eJFi2TK5174"
     },
     {
-      "rank": "14",
-      "status": "-3",
+      "rank": "17",
+      "status": "-9",
       "title": "The Fractured Archive - Raids 4 Cinematic Trailer - Coming October 20th",
       "url": "https://youtu.be/loH7UPjhWyw",
       "video_id": "loH7UPjhWyw"
     },
     {
-      "rank": "15",
-      "status": "NEW",
-      "title": "This Card Game is Cursed...",
-      "url": "https://youtu.be/_geP6kSwIfY",
-      "video_id": "_geP6kSwIfY"
-    },
-    {
-      "rank": "16",
-      "status": "+12",
-      "title": "All The Things She Said",
-      "url": "https://youtu.be/04l5nCVrAGI",
-      "video_id": "04l5nCVrAGI"
-    },
-    {
-      "rank": "17",
-      "status": "-12",
-      "title": "RuneScape Reignited | Reveal Trailer",
-      "url": "https://youtu.be/dWx-6WlUXJE",
-      "video_id": "dWx-6WlUXJE"
-    },
-    {
       "rank": "18",
       "status": "NEW",
-      "title": "Try Not To Get AGE-RESTRICTED Challenge #2",
-      "url": "https://youtu.be/o2JkhCiOQBY",
-      "video_id": "o2JkhCiOQBY"
+      "title": "We Found an ABANDONED AIRPLANE in Minecraft",
+      "url": "https://youtu.be/JppPy0vMpgw",
+      "video_id": "JppPy0vMpgw"
     },
     {
       "rank": "19",
@@ -6490,28 +6455,28 @@
     },
     {
       "rank": "20",
-      "status": "NEW",
-      "title": "BHOGI Official Teaser | Sharwanand | Sampath Nandi | Anupama | Dimple Hayathi | Bheems Ceciroleo",
-      "url": "https://youtu.be/qjp5KL_Zg4A",
-      "video_id": "qjp5KL_Zg4A"
+      "status": "-15",
+      "title": "RuneScape Reignited | Reveal Trailer",
+      "url": "https://youtu.be/dWx-6WlUXJE",
+      "video_id": "dWx-6WlUXJE"
     },
     {
       "rank": "21",
-      "status": "NEW",
-      "title": "I Hate Clips...",
-      "url": "https://youtu.be/m2kVV-COOno",
-      "video_id": "m2kVV-COOno"
+      "status": "-18",
+      "title": "SIDEMEN AMONG US MEGAMIND ROLE: BURST EVERYONE'S HEADS TO WIN",
+      "url": "https://youtu.be/VLwcqaXiNOA",
+      "video_id": "VLwcqaXiNOA"
     },
     {
       "rank": "22",
-      "status": "-15",
+      "status": "-18",
       "title": "Duniya | Gippy Grewal | Shehnaaz Gill | Singh vs Kaur 2 | New Punjabi Songs 2026 | Speed Records",
       "url": "https://youtu.be/dRS3ofzlPwA",
       "video_id": "dRS3ofzlPwA"
     },
     {
       "rank": "23",
-      "status": "NEW",
+      "status": "=",
       "title": "Lanterns Episode 8 Finale Trailer | Hal Jordan Ending",
       "url": "https://youtu.be/LdeB3zU2qIw",
       "video_id": "LdeB3zU2qIw"
@@ -6519,16 +6484,16 @@
     {
       "rank": "24",
       "status": "NEW",
-      "title": "🔴LIVE | MINECRAFT HARDCORE MARATHON | HUTCHMF X CLOAKZY | 4 BOSSES, 1 STREAM | WHOLE VIDEO ON TWITCH",
-      "url": "https://youtu.be/bSXN86-0BGQ",
-      "video_id": "bSXN86-0BGQ"
+      "title": "About my Naked and Afraid Death",
+      "url": "https://youtu.be/4Uz1OZxVvXk",
+      "video_id": "4Uz1OZxVvXk"
     },
     {
       "rank": "25",
-      "status": "-12",
-      "title": "Headlights (The Super Voice)",
-      "url": "https://youtu.be/T4-fVVo0ZHg",
-      "video_id": "T4-fVVo0ZHg"
+      "status": "-15",
+      "title": "Aujla Szn",
+      "url": "https://youtu.be/tOVXGIAhbEM",
+      "video_id": "tOVXGIAhbEM"
     },
     {
       "rank": "26",
@@ -6540,16 +6505,16 @@
     {
       "rank": "27",
       "status": "NEW",
-      "title": "Trying to SURVIVE Nuclear Nightmare SOLO",
-      "url": "https://youtu.be/NpaBUyVGCo4",
-      "video_id": "NpaBUyVGCo4"
+      "title": "This game is beyond saving..",
+      "url": "https://youtu.be/czwSep19t2w",
+      "video_id": "czwSep19t2w"
     },
     {
       "rank": "28",
-      "status": "-18",
-      "title": "Aujla Szn",
-      "url": "https://youtu.be/tOVXGIAhbEM",
-      "video_id": "tOVXGIAhbEM"
+      "status": "-15",
+      "title": "Headlights (The Super Voice)",
+      "url": "https://youtu.be/T4-fVVo0ZHg",
+      "video_id": "T4-fVVo0ZHg"
     },
     {
       "rank": "29",
@@ -6561,20 +6526,20 @@
     {
       "rank": "30",
       "status": "NEW",
-      "title": "ESL Pro League Season 24 - Day 2 - Stream A - Full show",
-      "url": "https://youtu.be/LcMDVOtgvdk",
-      "video_id": "LcMDVOtgvdk"
+      "title": "Trying to SURVIVE Nuclear Nightmare SOLO",
+      "url": "https://youtu.be/NpaBUyVGCo4",
+      "video_id": "NpaBUyVGCo4"
     },
     {
       "rank": "31",
-      "status": "NEW",
-      "title": "Clover ft. Chis-A",
-      "url": "https://youtu.be/cY0qV7q9IC4",
-      "video_id": "cY0qV7q9IC4"
+      "status": "-9",
+      "title": "Kalli Khadi ( Music Video ) Watan Sahi - Dr Zeus - K Million Music - New Punjabi Song",
+      "url": "https://youtu.be/P11W7mpfGtc",
+      "video_id": "P11W7mpfGtc"
     },
     {
       "rank": "32",
-      "status": "-24",
+      "status": "-21",
       "title": "VISIONQUEST TRAILER BREAKDOWN! 100 Easter Eggs & Details You Missed!",
       "url": "https://youtu.be/kkhVtb_MhZs",
       "video_id": "kkhVtb_MhZs"
@@ -6582,16 +6547,16 @@
     {
       "rank": "33",
       "status": "NEW",
-      "title": "Pro Builder vs 2 Creative Noobs",
-      "url": "https://youtu.be/4772OXvXe-M",
-      "video_id": "4772OXvXe-M"
+      "title": "🔴LIVE | MINECRAFT HARDCORE MARATHON | HUTCHMF X CLOAKZY | 4 BOSSES, 1 STREAM | WHOLE VIDEO ON TWITCH",
+      "url": "https://youtu.be/bSXN86-0BGQ",
+      "video_id": "bSXN86-0BGQ"
     },
     {
       "rank": "34",
-      "status": "-12",
-      "title": "Kalli Khadi ( Music Video ) Watan Sahi - Dr Zeus - K Million Music - New Punjabi Song",
-      "url": "https://youtu.be/P11W7mpfGtc",
-      "video_id": "P11W7mpfGtc"
+      "status": "NEW",
+      "title": "Clover ft. Chis-A",
+      "url": "https://youtu.be/cY0qV7q9IC4",
+      "video_id": "cY0qV7q9IC4"
     },
     {
       "rank": "35",
@@ -6603,51 +6568,51 @@
     {
       "rank": "36",
       "status": "NEW",
-      "title": "NOUVELLE ZONE EN ADMIN ABUSE SUR VOL UN ŒUF !! (Dinguerie)",
-      "url": "https://youtu.be/ymdOW4iyGgI",
-      "video_id": "ymdOW4iyGgI"
+      "title": "Pro Builder vs 2 Creative Noobs",
+      "url": "https://youtu.be/4772OXvXe-M",
+      "video_id": "4772OXvXe-M"
     },
     {
       "rank": "37",
-      "status": "-21",
-      "title": "Aujla Szn (Official Audio) Karan Aujla  | Mxrci  | Aujla Szn 1",
-      "url": "https://youtu.be/gpkYsJighUY",
-      "video_id": "gpkYsJighUY"
+      "status": "NEW",
+      "title": "Hamza Malik, Zain Zohaib - Alfaaz (Lyics)",
+      "url": "https://youtu.be/ylZmxsL-GG8",
+      "video_id": "ylZmxsL-GG8"
     },
     {
       "rank": "38",
-      "status": "-21",
-      "title": "Persona 4 Revival — Shadow Trailer",
-      "url": "https://youtu.be/Bo-lYhPhDW0",
-      "video_id": "Bo-lYhPhDW0"
-    },
-    {
-      "rank": "39",
       "status": "NEW",
       "title": "Doctor Plays Plague Simulator",
       "url": "https://youtu.be/aFJt5X5dLk0",
       "video_id": "aFJt5X5dLk0"
     },
     {
+      "rank": "39",
+      "status": "-23",
+      "title": "Aujla Szn (Official Audio) Karan Aujla  | Mxrci  | Aujla Szn 1",
+      "url": "https://youtu.be/gpkYsJighUY",
+      "video_id": "gpkYsJighUY"
+    },
+    {
       "rank": "40",
-      "status": "-21",
+      "status": "NEW",
+      "title": "FAT To STRONG Evolution in Minecraft!",
+      "url": "https://youtu.be/HqrGbsCtI10",
+      "video_id": "HqrGbsCtI10"
+    },
+    {
+      "rank": "41",
+      "status": "-22",
       "title": "Draw You Out (From The Hunger Games: Sunrise on the Reaping - The Album)",
       "url": "https://youtu.be/_tIrGCUMHCY",
       "video_id": "_tIrGCUMHCY"
     },
     {
-      "rank": "41",
-      "status": "-3",
-      "title": "Crystal Lake | Final Trailer | Peacock Original (October 15)",
-      "url": "https://youtu.be/IVkOsTTCSyk",
-      "video_id": "IVkOsTTCSyk"
-    },
-    {
       "rank": "42",
       "status": "NEW",
-      "title": "new exploit unlocked",
-      "url": "https://youtu.be/ktyPyRj7I3E",
-      "video_id": "ktyPyRj7I3E"
+      "title": "I Coded Dumb Ways To Die In Minecraft",
+      "url": "https://youtu.be/RSVbXl_-Q6w",
+      "video_id": "RSVbXl_-Q6w"
     },
     {
       "rank": "43",
@@ -6659,9 +6624,9 @@
     {
       "rank": "44",
       "status": "NEW",
-      "title": "J’ai Trouvé une Pièce Secrète sur Voler un Œuf..",
-      "url": "https://youtu.be/LhMf4Y4r410",
-      "video_id": "LhMf4Y4r410"
+      "title": "Ranking Every Rivals Map By How Livable They Are...",
+      "url": "https://youtu.be/zPK4xt2n0x4",
+      "video_id": "zPK4xt2n0x4"
     },
     {
       "rank": "45",
@@ -6673,37 +6638,37 @@
     {
       "rank": "46",
       "status": "NEW",
-      "title": "I Coded Dumb Ways To Die In Minecraft",
-      "url": "https://youtu.be/RSVbXl_-Q6w",
-      "video_id": "RSVbXl_-Q6w"
+      "title": "new exploit unlocked",
+      "url": "https://youtu.be/ktyPyRj7I3E",
+      "video_id": "ktyPyRj7I3E"
     },
     {
       "rank": "47",
-      "status": "-16",
+      "status": "+2",
+      "title": "Kalli Khadi",
+      "url": "https://youtu.be/5MXTLGEHp9E",
+      "video_id": "5MXTLGEHp9E"
+    },
+    {
+      "rank": "48",
+      "status": "NEW",
+      "title": "NOUVELLE ZONE EN ADMIN ABUSE SUR VOL UN ŒUF !! (Dinguerie)",
+      "url": "https://youtu.be/ymdOW4iyGgI",
+      "video_id": "ymdOW4iyGgI"
+    },
+    {
+      "rank": "49",
+      "status": "-18",
       "title": "YFG Fatso - \"Bougie Hoes Pt 2 [Official Music Video]",
       "url": "https://youtu.be/Ge2xeRJAHv8",
       "video_id": "Ge2xeRJAHv8"
     },
     {
-      "rank": "48",
-      "status": "NEW",
-      "title": "CAN DOM & CLOUD9 DO IT AGAIN VS INSPIRED AND LYON? - LCS SUMMER PLAYOFFS 2026",
-      "url": "https://youtu.be/6b88v-7DtBg",
-      "video_id": "6b88v-7DtBg"
-    },
-    {
-      "rank": "49",
-      "status": "-15",
-      "title": "កុំស្អប់អ្នកក្រ",
-      "url": "https://youtu.be/joFioU4x4cg",
-      "video_id": "joFioU4x4cg"
-    },
-    {
       "rank": "50",
-      "status": "-8",
-      "title": "Cat In The Hat Is The SCARIEST Neighbor...",
-      "url": "https://youtu.be/X0se0MEl1wo",
-      "video_id": "X0se0MEl1wo"
+      "status": "NEW",
+      "title": "I Found EVERY SECRET at RON'S HOUSE in ANIMAL HOSPITAL!",
+      "url": "https://youtu.be/Kn2537gINEA",
+      "video_id": "Kn2537gINEA"
     }
   ]
 }
