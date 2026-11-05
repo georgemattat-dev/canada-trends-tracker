@@ -1,7 +1,2823 @@
 {
-  "last_updated": "2026-11-05 05:29:20 AM UTC",
-  "timestamp": 1793856561.393238,
+  "last_updated": "2026-11-05 01:36:29 PM UTC",
+  "timestamp": 1793885791.127785,
   "twitter": [
+    {
+      "time": "Thu Nov 05 2026 12:54:48 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1793883288.039,
+      "trends": [
+        {
+          "name": "Trump",
+          "url": "https://twitter.com/search?q=Trump",
+          "tweet_count": ""
+        },
+        {
+          "name": "Democrats",
+          "url": "https://twitter.com/search?q=Democrats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texas",
+          "url": "https://twitter.com/search?q=Texas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Republicans",
+          "url": "https://twitter.com/search?q=Republicans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dems",
+          "url": "https://twitter.com/search?q=Dems",
+          "tweet_count": ""
+        },
+        {
+          "name": "Portugal",
+          "url": "https://twitter.com/search?q=Portugal",
+          "tweet_count": ""
+        },
+        {
+          "name": "America",
+          "url": "https://twitter.com/search?q=America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Iran",
+          "url": "https://twitter.com/search?q=Iran",
+          "tweet_count": ""
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "url": "https://twitter.com/search?q=Cristiano%20Ronaldo",
+          "tweet_count": ""
+        },
+        {
+          "name": "MAGA",
+          "url": "https://twitter.com/search?q=MAGA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schumer",
+          "url": "https://twitter.com/search?q=Schumer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Congress",
+          "url": "https://twitter.com/search?q=Congress",
+          "tweet_count": ""
+        },
+        {
+          "name": "Senate",
+          "url": "https://twitter.com/search?q=Senate",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Midterms2026",
+          "url": "https://twitter.com/search?q=%23Midterms2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "Good Thursday",
+          "url": "https://twitter.com/search?q=Good%20Thursday",
+          "tweet_count": ""
+        },
+        {
+          "name": "Russia",
+          "url": "https://twitter.com/search?q=Russia",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Veto",
+          "url": "https://twitter.com/search?q=Veto",
+          "tweet_count": ""
+        },
+        {
+          "name": "Epstein",
+          "url": "https://twitter.com/search?q=Epstein",
+          "tweet_count": ""
+        },
+        {
+          "name": "DeSantis",
+          "url": "https://twitter.com/search?q=DeSantis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mississippi",
+          "url": "https://twitter.com/search?q=Mississippi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Michigan",
+          "url": "https://twitter.com/search?q=Michigan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "AIPAC",
+          "url": "https://twitter.com/search?q=AIPAC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hegseth",
+          "url": "https://twitter.com/search?q=Hegseth",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rubio",
+          "url": "https://twitter.com/search?q=Rubio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Biden",
+          "url": "https://twitter.com/search?q=Biden",
+          "tweet_count": ""
+        },
+        {
+          "name": "Atiku",
+          "url": "https://twitter.com/search?q=Atiku",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kansas",
+          "url": "https://twitter.com/search?q=Kansas",
+          "tweet_count": ""
+        },
+        {
+          "name": "#いい推しの日",
+          "url": "https://twitter.com/search?q=%23%E3%81%84%E3%81%84%E6%8E%A8%E3%81%97%E3%81%AE%E6%97%A5",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thune",
+          "url": "https://twitter.com/search?q=Thune",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BloodandGuts",
+          "url": "https://twitter.com/search?q=%23BloodandGuts",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BlueWave",
+          "url": "https://twitter.com/search?q=%23BlueWave",
+          "tweet_count": ""
+        },
+        {
+          "name": "Talarico",
+          "url": "https://twitter.com/search?q=Talarico",
+          "tweet_count": ""
+        },
+        {
+          "name": "Oshi",
+          "url": "https://twitter.com/search?q=Oshi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Beckett Sennecke",
+          "url": "https://twitter.com/search?q=Beckett%20Sennecke",
+          "tweet_count": ""
+        },
+        {
+          "name": "Paraguay",
+          "url": "https://twitter.com/search?q=Paraguay",
+          "tweet_count": ""
+        },
+        {
+          "name": "The GOP",
+          "url": "https://twitter.com/search?q=The%20GOP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lens",
+          "url": "https://twitter.com/search?q=Lens",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ocarina of Time",
+          "url": "https://twitter.com/search?q=Ocarina%20of%20Time",
+          "tweet_count": ""
+        },
+        {
+          "name": "Susan Collins",
+          "url": "https://twitter.com/search?q=Susan%20Collins",
+          "tweet_count": ""
+        },
+        {
+          "name": "Greg Abbott",
+          "url": "https://twitter.com/search?q=Greg%20Abbott",
+          "tweet_count": ""
+        },
+        {
+          "name": "Impeachment",
+          "url": "https://twitter.com/search?q=Impeachment",
+          "tweet_count": ""
+        },
+        {
+          "name": "RINOs",
+          "url": "https://twitter.com/search?q=RINOs",
+          "tweet_count": ""
+        },
+        {
+          "name": "South Carolina",
+          "url": "https://twitter.com/search?q=South%20Carolina",
+          "tweet_count": ""
+        },
+        {
+          "name": "Blue Tsunami",
+          "url": "https://twitter.com/search?q=Blue%20Tsunami",
+          "tweet_count": ""
+        },
+        {
+          "name": "Massie",
+          "url": "https://twitter.com/search?q=Massie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Georgia",
+          "url": "https://twitter.com/search?q=Georgia",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mamdani",
+          "url": "https://twitter.com/search?q=Mamdani",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Thu Nov 05 2026 12:03:46 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1793880226.916,
+      "trends": [
+        {
+          "name": "Trump",
+          "url": "https://twitter.com/search?q=Trump",
+          "tweet_count": ""
+        },
+        {
+          "name": "Democrats",
+          "url": "https://twitter.com/search?q=Democrats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texas",
+          "url": "https://twitter.com/search?q=Texas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Republicans",
+          "url": "https://twitter.com/search?q=Republicans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dems",
+          "url": "https://twitter.com/search?q=Dems",
+          "tweet_count": ""
+        },
+        {
+          "name": "America",
+          "url": "https://twitter.com/search?q=America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Iran",
+          "url": "https://twitter.com/search?q=Iran",
+          "tweet_count": ""
+        },
+        {
+          "name": "Portugal",
+          "url": "https://twitter.com/search?q=Portugal",
+          "tweet_count": ""
+        },
+        {
+          "name": "MAGA",
+          "url": "https://twitter.com/search?q=MAGA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schumer",
+          "url": "https://twitter.com/search?q=Schumer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "url": "https://twitter.com/search?q=Cristiano%20Ronaldo",
+          "tweet_count": ""
+        },
+        {
+          "name": "Israel",
+          "url": "https://twitter.com/search?q=Israel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Congress",
+          "url": "https://twitter.com/search?q=Congress",
+          "tweet_count": ""
+        },
+        {
+          "name": "Senate",
+          "url": "https://twitter.com/search?q=Senate",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Midterms2026",
+          "url": "https://twitter.com/search?q=%23Midterms2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Russia",
+          "url": "https://twitter.com/search?q=Russia",
+          "tweet_count": ""
+        },
+        {
+          "name": "DeSantis",
+          "url": "https://twitter.com/search?q=DeSantis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Epstein",
+          "url": "https://twitter.com/search?q=Epstein",
+          "tweet_count": ""
+        },
+        {
+          "name": "Veto",
+          "url": "https://twitter.com/search?q=Veto",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mississippi",
+          "url": "https://twitter.com/search?q=Mississippi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "Michigan",
+          "url": "https://twitter.com/search?q=Michigan",
+          "tweet_count": ""
+        },
+        {
+          "name": "AIPAC",
+          "url": "https://twitter.com/search?q=AIPAC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rubio",
+          "url": "https://twitter.com/search?q=Rubio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hegseth",
+          "url": "https://twitter.com/search?q=Hegseth",
+          "tweet_count": ""
+        },
+        {
+          "name": "Biden",
+          "url": "https://twitter.com/search?q=Biden",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kansas",
+          "url": "https://twitter.com/search?q=Kansas",
+          "tweet_count": ""
+        },
+        {
+          "name": "#いい推しの日",
+          "url": "https://twitter.com/search?q=%23%E3%81%84%E3%81%84%E6%8E%A8%E3%81%97%E3%81%AE%E6%97%A5",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BlueWave",
+          "url": "https://twitter.com/search?q=%23BlueWave",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BloodandGuts",
+          "url": "https://twitter.com/search?q=%23BloodandGuts",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thune",
+          "url": "https://twitter.com/search?q=Thune",
+          "tweet_count": ""
+        },
+        {
+          "name": "Talarico",
+          "url": "https://twitter.com/search?q=Talarico",
+          "tweet_count": ""
+        },
+        {
+          "name": "The GOP",
+          "url": "https://twitter.com/search?q=The%20GOP",
+          "tweet_count": ""
+        },
+        {
+          "name": "beckett sennecke",
+          "url": "https://twitter.com/search?q=beckett%20sennecke",
+          "tweet_count": ""
+        },
+        {
+          "name": "Oshi",
+          "url": "https://twitter.com/search?q=Oshi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lens",
+          "url": "https://twitter.com/search?q=Lens",
+          "tweet_count": ""
+        },
+        {
+          "name": "Atiku",
+          "url": "https://twitter.com/search?q=Atiku",
+          "tweet_count": ""
+        },
+        {
+          "name": "Susan Collins",
+          "url": "https://twitter.com/search?q=Susan%20Collins",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ocarina of Time",
+          "url": "https://twitter.com/search?q=Ocarina%20of%20Time",
+          "tweet_count": ""
+        },
+        {
+          "name": "Blue Tsunami",
+          "url": "https://twitter.com/search?q=Blue%20Tsunami",
+          "tweet_count": ""
+        },
+        {
+          "name": "Greg Abbott",
+          "url": "https://twitter.com/search?q=Greg%20Abbott",
+          "tweet_count": ""
+        },
+        {
+          "name": "Impeachment",
+          "url": "https://twitter.com/search?q=Impeachment",
+          "tweet_count": ""
+        },
+        {
+          "name": "South Carolina",
+          "url": "https://twitter.com/search?q=South%20Carolina",
+          "tweet_count": ""
+        },
+        {
+          "name": "RINOs",
+          "url": "https://twitter.com/search?q=RINOs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Massie",
+          "url": "https://twitter.com/search?q=Massie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fabregas",
+          "url": "https://twitter.com/search?q=Fabregas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ohio",
+          "url": "https://twitter.com/search?q=Ohio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mamdani",
+          "url": "https://twitter.com/search?q=Mamdani",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Thu Nov 05 2026 11:12:31 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1793877151.312,
+      "trends": [
+        {
+          "name": "Trump",
+          "url": "https://twitter.com/search?q=Trump",
+          "tweet_count": ""
+        },
+        {
+          "name": "Democrats",
+          "url": "https://twitter.com/search?q=Democrats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texas",
+          "url": "https://twitter.com/search?q=Texas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Republicans",
+          "url": "https://twitter.com/search?q=Republicans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dems",
+          "url": "https://twitter.com/search?q=Dems",
+          "tweet_count": ""
+        },
+        {
+          "name": "America",
+          "url": "https://twitter.com/search?q=America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Iran",
+          "url": "https://twitter.com/search?q=Iran",
+          "tweet_count": ""
+        },
+        {
+          "name": "MAGA",
+          "url": "https://twitter.com/search?q=MAGA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schumer",
+          "url": "https://twitter.com/search?q=Schumer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Israel",
+          "url": "https://twitter.com/search?q=Israel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Congress",
+          "url": "https://twitter.com/search?q=Congress",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Midterms2026",
+          "url": "https://twitter.com/search?q=%23Midterms2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "Senate",
+          "url": "https://twitter.com/search?q=Senate",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Russia",
+          "url": "https://twitter.com/search?q=Russia",
+          "tweet_count": ""
+        },
+        {
+          "name": "Epstein",
+          "url": "https://twitter.com/search?q=Epstein",
+          "tweet_count": ""
+        },
+        {
+          "name": "DeSantis",
+          "url": "https://twitter.com/search?q=DeSantis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Veto",
+          "url": "https://twitter.com/search?q=Veto",
+          "tweet_count": ""
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "url": "https://twitter.com/search?q=Cristiano%20Ronaldo",
+          "tweet_count": ""
+        },
+        {
+          "name": "Klay",
+          "url": "https://twitter.com/search?q=Klay",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mississippi",
+          "url": "https://twitter.com/search?q=Mississippi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "AIPAC",
+          "url": "https://twitter.com/search?q=AIPAC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Michigan",
+          "url": "https://twitter.com/search?q=Michigan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hegseth",
+          "url": "https://twitter.com/search?q=Hegseth",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rubio",
+          "url": "https://twitter.com/search?q=Rubio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kansas",
+          "url": "https://twitter.com/search?q=Kansas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Biden",
+          "url": "https://twitter.com/search?q=Biden",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BlueWave",
+          "url": "https://twitter.com/search?q=%23BlueWave",
+          "tweet_count": ""
+        },
+        {
+          "name": "Portugal",
+          "url": "https://twitter.com/search?q=Portugal",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thune",
+          "url": "https://twitter.com/search?q=Thune",
+          "tweet_count": ""
+        },
+        {
+          "name": "#いい推しの日",
+          "url": "https://twitter.com/search?q=%23%E3%81%84%E3%81%84%E6%8E%A8%E3%81%97%E3%81%AE%E6%97%A5",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BloodandGuts",
+          "url": "https://twitter.com/search?q=%23BloodandGuts",
+          "tweet_count": ""
+        },
+        {
+          "name": "Talarico",
+          "url": "https://twitter.com/search?q=Talarico",
+          "tweet_count": ""
+        },
+        {
+          "name": "The GOP",
+          "url": "https://twitter.com/search?q=The%20GOP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Oshi",
+          "url": "https://twitter.com/search?q=Oshi",
+          "tweet_count": ""
+        },
+        {
+          "name": "beckett sennecke",
+          "url": "https://twitter.com/search?q=beckett%20sennecke",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lens",
+          "url": "https://twitter.com/search?q=Lens",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ocarina of Time",
+          "url": "https://twitter.com/search?q=Ocarina%20of%20Time",
+          "tweet_count": ""
+        },
+        {
+          "name": "Susan Collins",
+          "url": "https://twitter.com/search?q=Susan%20Collins",
+          "tweet_count": ""
+        },
+        {
+          "name": "South Carolina",
+          "url": "https://twitter.com/search?q=South%20Carolina",
+          "tweet_count": ""
+        },
+        {
+          "name": "Blue Tsunami",
+          "url": "https://twitter.com/search?q=Blue%20Tsunami",
+          "tweet_count": ""
+        },
+        {
+          "name": "Greg Abbott",
+          "url": "https://twitter.com/search?q=Greg%20Abbott",
+          "tweet_count": ""
+        },
+        {
+          "name": "Impeachment",
+          "url": "https://twitter.com/search?q=Impeachment",
+          "tweet_count": ""
+        },
+        {
+          "name": "xhekaj",
+          "url": "https://twitter.com/search?q=xhekaj",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ohio",
+          "url": "https://twitter.com/search?q=Ohio",
+          "tweet_count": ""
+        },
+        {
+          "name": "RINOs",
+          "url": "https://twitter.com/search?q=RINOs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Massie",
+          "url": "https://twitter.com/search?q=Massie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fabregas",
+          "url": "https://twitter.com/search?q=Fabregas",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Thu Nov 05 2026 11:12:21 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1793877141.15,
+      "trends": [
+        {
+          "name": "Trump",
+          "url": "https://twitter.com/search?q=Trump",
+          "tweet_count": ""
+        },
+        {
+          "name": "Democrats",
+          "url": "https://twitter.com/search?q=Democrats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texas",
+          "url": "https://twitter.com/search?q=Texas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Republicans",
+          "url": "https://twitter.com/search?q=Republicans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dems",
+          "url": "https://twitter.com/search?q=Dems",
+          "tweet_count": ""
+        },
+        {
+          "name": "America",
+          "url": "https://twitter.com/search?q=America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Iran",
+          "url": "https://twitter.com/search?q=Iran",
+          "tweet_count": ""
+        },
+        {
+          "name": "MAGA",
+          "url": "https://twitter.com/search?q=MAGA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schumer",
+          "url": "https://twitter.com/search?q=Schumer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Israel",
+          "url": "https://twitter.com/search?q=Israel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Congress",
+          "url": "https://twitter.com/search?q=Congress",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Midterms2026",
+          "url": "https://twitter.com/search?q=%23Midterms2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "Senate",
+          "url": "https://twitter.com/search?q=Senate",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Russia",
+          "url": "https://twitter.com/search?q=Russia",
+          "tweet_count": ""
+        },
+        {
+          "name": "Epstein",
+          "url": "https://twitter.com/search?q=Epstein",
+          "tweet_count": ""
+        },
+        {
+          "name": "DeSantis",
+          "url": "https://twitter.com/search?q=DeSantis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Veto",
+          "url": "https://twitter.com/search?q=Veto",
+          "tweet_count": ""
+        },
+        {
+          "name": "Klay",
+          "url": "https://twitter.com/search?q=Klay",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mississippi",
+          "url": "https://twitter.com/search?q=Mississippi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "AIPAC",
+          "url": "https://twitter.com/search?q=AIPAC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Michigan",
+          "url": "https://twitter.com/search?q=Michigan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hegseth",
+          "url": "https://twitter.com/search?q=Hegseth",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rubio",
+          "url": "https://twitter.com/search?q=Rubio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "url": "https://twitter.com/search?q=Cristiano%20Ronaldo",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kansas",
+          "url": "https://twitter.com/search?q=Kansas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Biden",
+          "url": "https://twitter.com/search?q=Biden",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BlueWave",
+          "url": "https://twitter.com/search?q=%23BlueWave",
+          "tweet_count": ""
+        },
+        {
+          "name": "Portugal",
+          "url": "https://twitter.com/search?q=Portugal",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thune",
+          "url": "https://twitter.com/search?q=Thune",
+          "tweet_count": ""
+        },
+        {
+          "name": "#いい推しの日",
+          "url": "https://twitter.com/search?q=%23%E3%81%84%E3%81%84%E6%8E%A8%E3%81%97%E3%81%AE%E6%97%A5",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BloodandGuts",
+          "url": "https://twitter.com/search?q=%23BloodandGuts",
+          "tweet_count": ""
+        },
+        {
+          "name": "Talarico",
+          "url": "https://twitter.com/search?q=Talarico",
+          "tweet_count": ""
+        },
+        {
+          "name": "The GOP",
+          "url": "https://twitter.com/search?q=The%20GOP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Oshi",
+          "url": "https://twitter.com/search?q=Oshi",
+          "tweet_count": ""
+        },
+        {
+          "name": "beckett sennecke",
+          "url": "https://twitter.com/search?q=beckett%20sennecke",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lens",
+          "url": "https://twitter.com/search?q=Lens",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ocarina of Time",
+          "url": "https://twitter.com/search?q=Ocarina%20of%20Time",
+          "tweet_count": ""
+        },
+        {
+          "name": "Susan Collins",
+          "url": "https://twitter.com/search?q=Susan%20Collins",
+          "tweet_count": ""
+        },
+        {
+          "name": "South Carolina",
+          "url": "https://twitter.com/search?q=South%20Carolina",
+          "tweet_count": ""
+        },
+        {
+          "name": "Blue Tsunami",
+          "url": "https://twitter.com/search?q=Blue%20Tsunami",
+          "tweet_count": ""
+        },
+        {
+          "name": "Greg Abbott",
+          "url": "https://twitter.com/search?q=Greg%20Abbott",
+          "tweet_count": ""
+        },
+        {
+          "name": "Impeachment",
+          "url": "https://twitter.com/search?q=Impeachment",
+          "tweet_count": ""
+        },
+        {
+          "name": "xhekaj",
+          "url": "https://twitter.com/search?q=xhekaj",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ohio",
+          "url": "https://twitter.com/search?q=Ohio",
+          "tweet_count": ""
+        },
+        {
+          "name": "RINOs",
+          "url": "https://twitter.com/search?q=RINOs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Massie",
+          "url": "https://twitter.com/search?q=Massie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fabregas",
+          "url": "https://twitter.com/search?q=Fabregas",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Thu Nov 05 2026 10:20:22 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1793874022.413,
+      "trends": [
+        {
+          "name": "Trump",
+          "url": "https://twitter.com/search?q=Trump",
+          "tweet_count": ""
+        },
+        {
+          "name": "Democrats",
+          "url": "https://twitter.com/search?q=Democrats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texas",
+          "url": "https://twitter.com/search?q=Texas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Republicans",
+          "url": "https://twitter.com/search?q=Republicans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dems",
+          "url": "https://twitter.com/search?q=Dems",
+          "tweet_count": ""
+        },
+        {
+          "name": "America",
+          "url": "https://twitter.com/search?q=America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Iran",
+          "url": "https://twitter.com/search?q=Iran",
+          "tweet_count": ""
+        },
+        {
+          "name": "MAGA",
+          "url": "https://twitter.com/search?q=MAGA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schumer",
+          "url": "https://twitter.com/search?q=Schumer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Israel",
+          "url": "https://twitter.com/search?q=Israel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Congress",
+          "url": "https://twitter.com/search?q=Congress",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Midterms2026",
+          "url": "https://twitter.com/search?q=%23Midterms2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "Senate",
+          "url": "https://twitter.com/search?q=Senate",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Russia",
+          "url": "https://twitter.com/search?q=Russia",
+          "tweet_count": ""
+        },
+        {
+          "name": "DeSantis",
+          "url": "https://twitter.com/search?q=DeSantis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Epstein",
+          "url": "https://twitter.com/search?q=Epstein",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mississippi",
+          "url": "https://twitter.com/search?q=Mississippi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Klay",
+          "url": "https://twitter.com/search?q=Klay",
+          "tweet_count": ""
+        },
+        {
+          "name": "Veto",
+          "url": "https://twitter.com/search?q=Veto",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "AIPAC",
+          "url": "https://twitter.com/search?q=AIPAC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Michigan",
+          "url": "https://twitter.com/search?q=Michigan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kansas",
+          "url": "https://twitter.com/search?q=Kansas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rubio",
+          "url": "https://twitter.com/search?q=Rubio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hegseth",
+          "url": "https://twitter.com/search?q=Hegseth",
+          "tweet_count": ""
+        },
+        {
+          "name": "Biden",
+          "url": "https://twitter.com/search?q=Biden",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BlueWave",
+          "url": "https://twitter.com/search?q=%23BlueWave",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thune",
+          "url": "https://twitter.com/search?q=Thune",
+          "tweet_count": ""
+        },
+        {
+          "name": "#いい推しの日",
+          "url": "https://twitter.com/search?q=%23%E3%81%84%E3%81%84%E6%8E%A8%E3%81%97%E3%81%AE%E6%97%A5",
+          "tweet_count": ""
+        },
+        {
+          "name": "Talarico",
+          "url": "https://twitter.com/search?q=Talarico",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BloodandGuts",
+          "url": "https://twitter.com/search?q=%23BloodandGuts",
+          "tweet_count": ""
+        },
+        {
+          "name": "The GOP",
+          "url": "https://twitter.com/search?q=The%20GOP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Oshi",
+          "url": "https://twitter.com/search?q=Oshi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Giannis",
+          "url": "https://twitter.com/search?q=Giannis",
+          "tweet_count": ""
+        },
+        {
+          "name": "beckett sennecke",
+          "url": "https://twitter.com/search?q=beckett%20sennecke",
+          "tweet_count": ""
+        },
+        {
+          "name": "Clippers",
+          "url": "https://twitter.com/search?q=Clippers",
+          "tweet_count": ""
+        },
+        {
+          "name": "South Carolina",
+          "url": "https://twitter.com/search?q=South%20Carolina",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lens",
+          "url": "https://twitter.com/search?q=Lens",
+          "tweet_count": ""
+        },
+        {
+          "name": "Wemby",
+          "url": "https://twitter.com/search?q=Wemby",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ocarina of Time",
+          "url": "https://twitter.com/search?q=Ocarina%20of%20Time",
+          "tweet_count": ""
+        },
+        {
+          "name": "Susan Collins",
+          "url": "https://twitter.com/search?q=Susan%20Collins",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ohio",
+          "url": "https://twitter.com/search?q=Ohio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Blue Tsunami",
+          "url": "https://twitter.com/search?q=Blue%20Tsunami",
+          "tweet_count": ""
+        },
+        {
+          "name": "RINOs",
+          "url": "https://twitter.com/search?q=RINOs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Greg Abbott",
+          "url": "https://twitter.com/search?q=Greg%20Abbott",
+          "tweet_count": ""
+        },
+        {
+          "name": "Impeachment",
+          "url": "https://twitter.com/search?q=Impeachment",
+          "tweet_count": ""
+        },
+        {
+          "name": "xhekaj",
+          "url": "https://twitter.com/search?q=xhekaj",
+          "tweet_count": ""
+        },
+        {
+          "name": "Fox News",
+          "url": "https://twitter.com/search?q=Fox%20News",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Thu Nov 05 2026 09:28:21 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1793870901.213,
+      "trends": [
+        {
+          "name": "Trump",
+          "url": "https://twitter.com/search?q=Trump",
+          "tweet_count": ""
+        },
+        {
+          "name": "Democrats",
+          "url": "https://twitter.com/search?q=Democrats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texas",
+          "url": "https://twitter.com/search?q=Texas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Republicans",
+          "url": "https://twitter.com/search?q=Republicans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dems",
+          "url": "https://twitter.com/search?q=Dems",
+          "tweet_count": ""
+        },
+        {
+          "name": "America",
+          "url": "https://twitter.com/search?q=America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Iran",
+          "url": "https://twitter.com/search?q=Iran",
+          "tweet_count": ""
+        },
+        {
+          "name": "MAGA",
+          "url": "https://twitter.com/search?q=MAGA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schumer",
+          "url": "https://twitter.com/search?q=Schumer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Israel",
+          "url": "https://twitter.com/search?q=Israel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Congress",
+          "url": "https://twitter.com/search?q=Congress",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Midterms2026",
+          "url": "https://twitter.com/search?q=%23Midterms2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "Senate",
+          "url": "https://twitter.com/search?q=Senate",
+          "tweet_count": ""
+        },
+        {
+          "name": "Klay",
+          "url": "https://twitter.com/search?q=Klay",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Wemby",
+          "url": "https://twitter.com/search?q=Wemby",
+          "tweet_count": ""
+        },
+        {
+          "name": "Russia",
+          "url": "https://twitter.com/search?q=Russia",
+          "tweet_count": ""
+        },
+        {
+          "name": "DeSantis",
+          "url": "https://twitter.com/search?q=DeSantis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Epstein",
+          "url": "https://twitter.com/search?q=Epstein",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mississippi",
+          "url": "https://twitter.com/search?q=Mississippi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Veto",
+          "url": "https://twitter.com/search?q=Veto",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "AIPAC",
+          "url": "https://twitter.com/search?q=AIPAC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Michigan",
+          "url": "https://twitter.com/search?q=Michigan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Biden",
+          "url": "https://twitter.com/search?q=Biden",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rubio",
+          "url": "https://twitter.com/search?q=Rubio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hegseth",
+          "url": "https://twitter.com/search?q=Hegseth",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kansas",
+          "url": "https://twitter.com/search?q=Kansas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thune",
+          "url": "https://twitter.com/search?q=Thune",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BlueWave",
+          "url": "https://twitter.com/search?q=%23BlueWave",
+          "tweet_count": ""
+        },
+        {
+          "name": "#USElections",
+          "url": "https://twitter.com/search?q=%23USElections",
+          "tweet_count": ""
+        },
+        {
+          "name": "#いい推しの日",
+          "url": "https://twitter.com/search?q=%23%E3%81%84%E3%81%84%E6%8E%A8%E3%81%97%E3%81%AE%E6%97%A5",
+          "tweet_count": ""
+        },
+        {
+          "name": "Talarico",
+          "url": "https://twitter.com/search?q=Talarico",
+          "tweet_count": ""
+        },
+        {
+          "name": "The GOP",
+          "url": "https://twitter.com/search?q=The%20GOP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Oshi",
+          "url": "https://twitter.com/search?q=Oshi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Giannis",
+          "url": "https://twitter.com/search?q=Giannis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jokic",
+          "url": "https://twitter.com/search?q=Jokic",
+          "tweet_count": ""
+        },
+        {
+          "name": "Beckett Sennecke",
+          "url": "https://twitter.com/search?q=Beckett%20Sennecke",
+          "tweet_count": ""
+        },
+        {
+          "name": "Clippers",
+          "url": "https://twitter.com/search?q=Clippers",
+          "tweet_count": ""
+        },
+        {
+          "name": "South Carolina",
+          "url": "https://twitter.com/search?q=South%20Carolina",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lens",
+          "url": "https://twitter.com/search?q=Lens",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ocarina of Time",
+          "url": "https://twitter.com/search?q=Ocarina%20of%20Time",
+          "tweet_count": ""
+        },
+        {
+          "name": "Raptors",
+          "url": "https://twitter.com/search?q=Raptors",
+          "tweet_count": ""
+        },
+        {
+          "name": "Susan Collins",
+          "url": "https://twitter.com/search?q=Susan%20Collins",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ohio",
+          "url": "https://twitter.com/search?q=Ohio",
+          "tweet_count": ""
+        },
+        {
+          "name": "RINOs",
+          "url": "https://twitter.com/search?q=RINOs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Blue Tsunami",
+          "url": "https://twitter.com/search?q=Blue%20Tsunami",
+          "tweet_count": ""
+        },
+        {
+          "name": "Greg Abbott",
+          "url": "https://twitter.com/search?q=Greg%20Abbott",
+          "tweet_count": ""
+        },
+        {
+          "name": "Impeachment",
+          "url": "https://twitter.com/search?q=Impeachment",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Thu Nov 05 2026 08:36:47 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1793867807.018,
+      "trends": [
+        {
+          "name": "Trump",
+          "url": "https://twitter.com/search?q=Trump",
+          "tweet_count": ""
+        },
+        {
+          "name": "Democrats",
+          "url": "https://twitter.com/search?q=Democrats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texas",
+          "url": "https://twitter.com/search?q=Texas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Republicans",
+          "url": "https://twitter.com/search?q=Republicans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dems",
+          "url": "https://twitter.com/search?q=Dems",
+          "tweet_count": ""
+        },
+        {
+          "name": "America",
+          "url": "https://twitter.com/search?q=America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Iran",
+          "url": "https://twitter.com/search?q=Iran",
+          "tweet_count": ""
+        },
+        {
+          "name": "MAGA",
+          "url": "https://twitter.com/search?q=MAGA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schumer",
+          "url": "https://twitter.com/search?q=Schumer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Israel",
+          "url": "https://twitter.com/search?q=Israel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Congress",
+          "url": "https://twitter.com/search?q=Congress",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Midterms2026",
+          "url": "https://twitter.com/search?q=%23Midterms2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "Senate",
+          "url": "https://twitter.com/search?q=Senate",
+          "tweet_count": ""
+        },
+        {
+          "name": "Klay",
+          "url": "https://twitter.com/search?q=Klay",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Wemby",
+          "url": "https://twitter.com/search?q=Wemby",
+          "tweet_count": ""
+        },
+        {
+          "name": "Russia",
+          "url": "https://twitter.com/search?q=Russia",
+          "tweet_count": ""
+        },
+        {
+          "name": "DeSantis",
+          "url": "https://twitter.com/search?q=DeSantis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Epstein",
+          "url": "https://twitter.com/search?q=Epstein",
+          "tweet_count": ""
+        },
+        {
+          "name": "Veto",
+          "url": "https://twitter.com/search?q=Veto",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mississippi",
+          "url": "https://twitter.com/search?q=Mississippi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "AIPAC",
+          "url": "https://twitter.com/search?q=AIPAC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Michigan",
+          "url": "https://twitter.com/search?q=Michigan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rubio",
+          "url": "https://twitter.com/search?q=Rubio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kansas",
+          "url": "https://twitter.com/search?q=Kansas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Biden",
+          "url": "https://twitter.com/search?q=Biden",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hegseth",
+          "url": "https://twitter.com/search?q=Hegseth",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kyrie",
+          "url": "https://twitter.com/search?q=Kyrie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thune",
+          "url": "https://twitter.com/search?q=Thune",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BlueWave",
+          "url": "https://twitter.com/search?q=%23BlueWave",
+          "tweet_count": ""
+        },
+        {
+          "name": "#USElections",
+          "url": "https://twitter.com/search?q=%23USElections",
+          "tweet_count": ""
+        },
+        {
+          "name": "Talarico",
+          "url": "https://twitter.com/search?q=Talarico",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jokic",
+          "url": "https://twitter.com/search?q=Jokic",
+          "tweet_count": ""
+        },
+        {
+          "name": "#いい推しの日",
+          "url": "https://twitter.com/search?q=%23%E3%81%84%E3%81%84%E6%8E%A8%E3%81%97%E3%81%AE%E6%97%A5",
+          "tweet_count": ""
+        },
+        {
+          "name": "The GOP",
+          "url": "https://twitter.com/search?q=The%20GOP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Clippers",
+          "url": "https://twitter.com/search?q=Clippers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Oshi",
+          "url": "https://twitter.com/search?q=Oshi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Giannis",
+          "url": "https://twitter.com/search?q=Giannis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Beckett Sennecke",
+          "url": "https://twitter.com/search?q=Beckett%20Sennecke",
+          "tweet_count": ""
+        },
+        {
+          "name": "South Carolina",
+          "url": "https://twitter.com/search?q=South%20Carolina",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lens",
+          "url": "https://twitter.com/search?q=Lens",
+          "tweet_count": ""
+        },
+        {
+          "name": "Blue Tsunami",
+          "url": "https://twitter.com/search?q=Blue%20Tsunami",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ohio",
+          "url": "https://twitter.com/search?q=Ohio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Raptors",
+          "url": "https://twitter.com/search?q=Raptors",
+          "tweet_count": ""
+        },
+        {
+          "name": "Susan Collins",
+          "url": "https://twitter.com/search?q=Susan%20Collins",
+          "tweet_count": ""
+        },
+        {
+          "name": "RINOs",
+          "url": "https://twitter.com/search?q=RINOs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Greg Abbott",
+          "url": "https://twitter.com/search?q=Greg%20Abbott",
+          "tweet_count": ""
+        },
+        {
+          "name": "Impeachment",
+          "url": "https://twitter.com/search?q=Impeachment",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Thu Nov 05 2026 08:36:30 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1793867790.965,
+      "trends": [
+        {
+          "name": "Trump",
+          "url": "https://twitter.com/search?q=Trump",
+          "tweet_count": ""
+        },
+        {
+          "name": "Democrats",
+          "url": "https://twitter.com/search?q=Democrats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texas",
+          "url": "https://twitter.com/search?q=Texas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Republicans",
+          "url": "https://twitter.com/search?q=Republicans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dems",
+          "url": "https://twitter.com/search?q=Dems",
+          "tweet_count": ""
+        },
+        {
+          "name": "America",
+          "url": "https://twitter.com/search?q=America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Iran",
+          "url": "https://twitter.com/search?q=Iran",
+          "tweet_count": ""
+        },
+        {
+          "name": "MAGA",
+          "url": "https://twitter.com/search?q=MAGA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schumer",
+          "url": "https://twitter.com/search?q=Schumer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Israel",
+          "url": "https://twitter.com/search?q=Israel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Congress",
+          "url": "https://twitter.com/search?q=Congress",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Midterms2026",
+          "url": "https://twitter.com/search?q=%23Midterms2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "Senate",
+          "url": "https://twitter.com/search?q=Senate",
+          "tweet_count": ""
+        },
+        {
+          "name": "Klay",
+          "url": "https://twitter.com/search?q=Klay",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Wemby",
+          "url": "https://twitter.com/search?q=Wemby",
+          "tweet_count": ""
+        },
+        {
+          "name": "Russia",
+          "url": "https://twitter.com/search?q=Russia",
+          "tweet_count": ""
+        },
+        {
+          "name": "DeSantis",
+          "url": "https://twitter.com/search?q=DeSantis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Epstein",
+          "url": "https://twitter.com/search?q=Epstein",
+          "tweet_count": ""
+        },
+        {
+          "name": "Veto",
+          "url": "https://twitter.com/search?q=Veto",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mississippi",
+          "url": "https://twitter.com/search?q=Mississippi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "AIPAC",
+          "url": "https://twitter.com/search?q=AIPAC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Michigan",
+          "url": "https://twitter.com/search?q=Michigan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rubio",
+          "url": "https://twitter.com/search?q=Rubio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kansas",
+          "url": "https://twitter.com/search?q=Kansas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Biden",
+          "url": "https://twitter.com/search?q=Biden",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hegseth",
+          "url": "https://twitter.com/search?q=Hegseth",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kyrie",
+          "url": "https://twitter.com/search?q=Kyrie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thune",
+          "url": "https://twitter.com/search?q=Thune",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BlueWave",
+          "url": "https://twitter.com/search?q=%23BlueWave",
+          "tweet_count": ""
+        },
+        {
+          "name": "#USElections",
+          "url": "https://twitter.com/search?q=%23USElections",
+          "tweet_count": ""
+        },
+        {
+          "name": "Talarico",
+          "url": "https://twitter.com/search?q=Talarico",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jokic",
+          "url": "https://twitter.com/search?q=Jokic",
+          "tweet_count": ""
+        },
+        {
+          "name": "#いい推しの日",
+          "url": "https://twitter.com/search?q=%23%E3%81%84%E3%81%84%E6%8E%A8%E3%81%97%E3%81%AE%E6%97%A5",
+          "tweet_count": ""
+        },
+        {
+          "name": "The GOP",
+          "url": "https://twitter.com/search?q=The%20GOP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Clippers",
+          "url": "https://twitter.com/search?q=Clippers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Oshi",
+          "url": "https://twitter.com/search?q=Oshi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Giannis",
+          "url": "https://twitter.com/search?q=Giannis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Beckett Sennecke",
+          "url": "https://twitter.com/search?q=Beckett%20Sennecke",
+          "tweet_count": ""
+        },
+        {
+          "name": "South Carolina",
+          "url": "https://twitter.com/search?q=South%20Carolina",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lens",
+          "url": "https://twitter.com/search?q=Lens",
+          "tweet_count": ""
+        },
+        {
+          "name": "Blue Tsunami",
+          "url": "https://twitter.com/search?q=Blue%20Tsunami",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ohio",
+          "url": "https://twitter.com/search?q=Ohio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Raptors",
+          "url": "https://twitter.com/search?q=Raptors",
+          "tweet_count": ""
+        },
+        {
+          "name": "Susan Collins",
+          "url": "https://twitter.com/search?q=Susan%20Collins",
+          "tweet_count": ""
+        },
+        {
+          "name": "RINOs",
+          "url": "https://twitter.com/search?q=RINOs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Greg Abbott",
+          "url": "https://twitter.com/search?q=Greg%20Abbott",
+          "tweet_count": ""
+        },
+        {
+          "name": "Impeachment",
+          "url": "https://twitter.com/search?q=Impeachment",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Thu Nov 05 2026 07:44:28 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1793864668.612,
+      "trends": [
+        {
+          "name": "Trump",
+          "url": "https://twitter.com/search?q=Trump",
+          "tweet_count": ""
+        },
+        {
+          "name": "Democrats",
+          "url": "https://twitter.com/search?q=Democrats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texas",
+          "url": "https://twitter.com/search?q=Texas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Republicans",
+          "url": "https://twitter.com/search?q=Republicans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dems",
+          "url": "https://twitter.com/search?q=Dems",
+          "tweet_count": ""
+        },
+        {
+          "name": "America",
+          "url": "https://twitter.com/search?q=America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Iran",
+          "url": "https://twitter.com/search?q=Iran",
+          "tweet_count": ""
+        },
+        {
+          "name": "Klay",
+          "url": "https://twitter.com/search?q=Klay",
+          "tweet_count": ""
+        },
+        {
+          "name": "MAGA",
+          "url": "https://twitter.com/search?q=MAGA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schumer",
+          "url": "https://twitter.com/search?q=Schumer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Israel",
+          "url": "https://twitter.com/search?q=Israel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Congress",
+          "url": "https://twitter.com/search?q=Congress",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Midterms2026",
+          "url": "https://twitter.com/search?q=%23Midterms2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "Senate",
+          "url": "https://twitter.com/search?q=Senate",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Wemby",
+          "url": "https://twitter.com/search?q=Wemby",
+          "tweet_count": ""
+        },
+        {
+          "name": "Russia",
+          "url": "https://twitter.com/search?q=Russia",
+          "tweet_count": ""
+        },
+        {
+          "name": "DeSantis",
+          "url": "https://twitter.com/search?q=DeSantis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Epstein",
+          "url": "https://twitter.com/search?q=Epstein",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mississippi",
+          "url": "https://twitter.com/search?q=Mississippi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Veto",
+          "url": "https://twitter.com/search?q=Veto",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "AIPAC",
+          "url": "https://twitter.com/search?q=AIPAC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Michigan",
+          "url": "https://twitter.com/search?q=Michigan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Giannis",
+          "url": "https://twitter.com/search?q=Giannis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rubio",
+          "url": "https://twitter.com/search?q=Rubio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kansas",
+          "url": "https://twitter.com/search?q=Kansas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Biden",
+          "url": "https://twitter.com/search?q=Biden",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hegseth",
+          "url": "https://twitter.com/search?q=Hegseth",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BlueWave",
+          "url": "https://twitter.com/search?q=%23BlueWave",
+          "tweet_count": ""
+        },
+        {
+          "name": "Raptors",
+          "url": "https://twitter.com/search?q=Raptors",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kyrie",
+          "url": "https://twitter.com/search?q=Kyrie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Spurs",
+          "url": "https://twitter.com/search?q=Spurs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Clippers",
+          "url": "https://twitter.com/search?q=Clippers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thune",
+          "url": "https://twitter.com/search?q=Thune",
+          "tweet_count": ""
+        },
+        {
+          "name": "Talarico",
+          "url": "https://twitter.com/search?q=Talarico",
+          "tweet_count": ""
+        },
+        {
+          "name": "#いい推しの日",
+          "url": "https://twitter.com/search?q=%23%E3%81%84%E3%81%84%E6%8E%A8%E3%81%97%E3%81%AE%E6%97%A5",
+          "tweet_count": ""
+        },
+        {
+          "name": "#USElections",
+          "url": "https://twitter.com/search?q=%23USElections",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jokic",
+          "url": "https://twitter.com/search?q=Jokic",
+          "tweet_count": ""
+        },
+        {
+          "name": "The GOP",
+          "url": "https://twitter.com/search?q=The%20GOP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mavs",
+          "url": "https://twitter.com/search?q=Mavs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Oshi",
+          "url": "https://twitter.com/search?q=Oshi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kawhi",
+          "url": "https://twitter.com/search?q=Kawhi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Beckett Sennecke",
+          "url": "https://twitter.com/search?q=Beckett%20Sennecke",
+          "tweet_count": ""
+        },
+        {
+          "name": "South Carolina",
+          "url": "https://twitter.com/search?q=South%20Carolina",
+          "tweet_count": ""
+        },
+        {
+          "name": "Lens",
+          "url": "https://twitter.com/search?q=Lens",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ohio",
+          "url": "https://twitter.com/search?q=Ohio",
+          "tweet_count": ""
+        },
+        {
+          "name": "RINOs",
+          "url": "https://twitter.com/search?q=RINOs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Blue Tsunami",
+          "url": "https://twitter.com/search?q=Blue%20Tsunami",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Thu Nov 05 2026 06:52:29 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1793861549.89,
+      "trends": [
+        {
+          "name": "Trump",
+          "url": "https://twitter.com/search?q=Trump",
+          "tweet_count": ""
+        },
+        {
+          "name": "Democrats",
+          "url": "https://twitter.com/search?q=Democrats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texas",
+          "url": "https://twitter.com/search?q=Texas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Republicans",
+          "url": "https://twitter.com/search?q=Republicans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dems",
+          "url": "https://twitter.com/search?q=Dems",
+          "tweet_count": ""
+        },
+        {
+          "name": "America",
+          "url": "https://twitter.com/search?q=America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Iran",
+          "url": "https://twitter.com/search?q=Iran",
+          "tweet_count": ""
+        },
+        {
+          "name": "Klay",
+          "url": "https://twitter.com/search?q=Klay",
+          "tweet_count": ""
+        },
+        {
+          "name": "MAGA",
+          "url": "https://twitter.com/search?q=MAGA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schumer",
+          "url": "https://twitter.com/search?q=Schumer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Israel",
+          "url": "https://twitter.com/search?q=Israel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Congress",
+          "url": "https://twitter.com/search?q=Congress",
+          "tweet_count": ""
+        },
+        {
+          "name": "Senate",
+          "url": "https://twitter.com/search?q=Senate",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Midterms2026",
+          "url": "https://twitter.com/search?q=%23Midterms2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "Wemby",
+          "url": "https://twitter.com/search?q=Wemby",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Giannis",
+          "url": "https://twitter.com/search?q=Giannis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Russia",
+          "url": "https://twitter.com/search?q=Russia",
+          "tweet_count": ""
+        },
+        {
+          "name": "DeSantis",
+          "url": "https://twitter.com/search?q=DeSantis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Epstein",
+          "url": "https://twitter.com/search?q=Epstein",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mississippi",
+          "url": "https://twitter.com/search?q=Mississippi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Raptors",
+          "url": "https://twitter.com/search?q=Raptors",
+          "tweet_count": ""
+        },
+        {
+          "name": "Veto",
+          "url": "https://twitter.com/search?q=Veto",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "Michigan",
+          "url": "https://twitter.com/search?q=Michigan",
+          "tweet_count": ""
+        },
+        {
+          "name": "AIPAC",
+          "url": "https://twitter.com/search?q=AIPAC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kyrie",
+          "url": "https://twitter.com/search?q=Kyrie",
+          "tweet_count": ""
+        },
+        {
+          "name": "Biden",
+          "url": "https://twitter.com/search?q=Biden",
+          "tweet_count": ""
+        },
+        {
+          "name": "Clippers",
+          "url": "https://twitter.com/search?q=Clippers",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rubio",
+          "url": "https://twitter.com/search?q=Rubio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kansas",
+          "url": "https://twitter.com/search?q=Kansas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hegseth",
+          "url": "https://twitter.com/search?q=Hegseth",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BlueWave",
+          "url": "https://twitter.com/search?q=%23BlueWave",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jokic",
+          "url": "https://twitter.com/search?q=Jokic",
+          "tweet_count": ""
+        },
+        {
+          "name": "Spurs",
+          "url": "https://twitter.com/search?q=Spurs",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Survivor51",
+          "url": "https://twitter.com/search?q=%23Survivor51",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thune",
+          "url": "https://twitter.com/search?q=Thune",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mavs",
+          "url": "https://twitter.com/search?q=Mavs",
+          "tweet_count": ""
+        },
+        {
+          "name": "#いい推しの日",
+          "url": "https://twitter.com/search?q=%23%E3%81%84%E3%81%84%E6%8E%A8%E3%81%97%E3%81%AE%E6%97%A5",
+          "tweet_count": ""
+        },
+        {
+          "name": "Talarico",
+          "url": "https://twitter.com/search?q=Talarico",
+          "tweet_count": ""
+        },
+        {
+          "name": "Shead",
+          "url": "https://twitter.com/search?q=Shead",
+          "tweet_count": ""
+        },
+        {
+          "name": "The GOP",
+          "url": "https://twitter.com/search?q=The%20GOP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kawhi",
+          "url": "https://twitter.com/search?q=Kawhi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jakob",
+          "url": "https://twitter.com/search?q=Jakob",
+          "tweet_count": ""
+        },
+        {
+          "name": "Oshi",
+          "url": "https://twitter.com/search?q=Oshi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Flagg",
+          "url": "https://twitter.com/search?q=Flagg",
+          "tweet_count": ""
+        },
+        {
+          "name": "Beckett Sennecke",
+          "url": "https://twitter.com/search?q=Beckett%20Sennecke",
+          "tweet_count": ""
+        },
+        {
+          "name": "Ersson",
+          "url": "https://twitter.com/search?q=Ersson",
+          "tweet_count": ""
+        },
+        {
+          "name": "South Carolina",
+          "url": "https://twitter.com/search?q=South%20Carolina",
+          "tweet_count": ""
+        }
+      ]
+    },
+    {
+      "time": "Thu Nov 05 2026 06:01:29 GMT+0000 (Coordinated Universal Time)",
+      "epoch": 1793858489.597,
+      "trends": [
+        {
+          "name": "Trump",
+          "url": "https://twitter.com/search?q=Trump",
+          "tweet_count": ""
+        },
+        {
+          "name": "Democrats",
+          "url": "https://twitter.com/search?q=Democrats",
+          "tweet_count": ""
+        },
+        {
+          "name": "Texas",
+          "url": "https://twitter.com/search?q=Texas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Republicans",
+          "url": "https://twitter.com/search?q=Republicans",
+          "tweet_count": ""
+        },
+        {
+          "name": "Dems",
+          "url": "https://twitter.com/search?q=Dems",
+          "tweet_count": ""
+        },
+        {
+          "name": "America",
+          "url": "https://twitter.com/search?q=America",
+          "tweet_count": ""
+        },
+        {
+          "name": "Iran",
+          "url": "https://twitter.com/search?q=Iran",
+          "tweet_count": ""
+        },
+        {
+          "name": "MAGA",
+          "url": "https://twitter.com/search?q=MAGA",
+          "tweet_count": ""
+        },
+        {
+          "name": "Schumer",
+          "url": "https://twitter.com/search?q=Schumer",
+          "tweet_count": ""
+        },
+        {
+          "name": "Vance",
+          "url": "https://twitter.com/search?q=Vance",
+          "tweet_count": ""
+        },
+        {
+          "name": "Israel",
+          "url": "https://twitter.com/search?q=Israel",
+          "tweet_count": ""
+        },
+        {
+          "name": "Congress",
+          "url": "https://twitter.com/search?q=Congress",
+          "tweet_count": ""
+        },
+        {
+          "name": "#Midterms2026",
+          "url": "https://twitter.com/search?q=%23Midterms2026",
+          "tweet_count": ""
+        },
+        {
+          "name": "Senate",
+          "url": "https://twitter.com/search?q=Senate",
+          "tweet_count": ""
+        },
+        {
+          "name": "Wemby",
+          "url": "https://twitter.com/search?q=Wemby",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWDynamite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "tweet_count": ""
+        },
+        {
+          "name": "Raptors",
+          "url": "https://twitter.com/search?q=Raptors",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jokic",
+          "url": "https://twitter.com/search?q=Jokic",
+          "tweet_count": ""
+        },
+        {
+          "name": "Epstein",
+          "url": "https://twitter.com/search?q=Epstein",
+          "tweet_count": ""
+        },
+        {
+          "name": "Russian",
+          "url": "https://twitter.com/search?q=Russian",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kyrie",
+          "url": "https://twitter.com/search?q=Kyrie",
+          "tweet_count": ""
+        },
+        {
+          "name": "DeSantis",
+          "url": "https://twitter.com/search?q=DeSantis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Veto",
+          "url": "https://twitter.com/search?q=Veto",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mississippi",
+          "url": "https://twitter.com/search?q=Mississippi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Florida",
+          "url": "https://twitter.com/search?q=Florida",
+          "tweet_count": ""
+        },
+        {
+          "name": "Michigan",
+          "url": "https://twitter.com/search?q=Michigan",
+          "tweet_count": ""
+        },
+        {
+          "name": "Mavs",
+          "url": "https://twitter.com/search?q=Mavs",
+          "tweet_count": ""
+        },
+        {
+          "name": "AIPAC",
+          "url": "https://twitter.com/search?q=AIPAC",
+          "tweet_count": ""
+        },
+        {
+          "name": "#AEWBloodAndGuts",
+          "url": "https://twitter.com/search?q=%23AEWBloodAndGuts",
+          "tweet_count": ""
+        },
+        {
+          "name": "Nuggets",
+          "url": "https://twitter.com/search?q=Nuggets",
+          "tweet_count": ""
+        },
+        {
+          "name": "Rubio",
+          "url": "https://twitter.com/search?q=Rubio",
+          "tweet_count": ""
+        },
+        {
+          "name": "Biden",
+          "url": "https://twitter.com/search?q=Biden",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kansas",
+          "url": "https://twitter.com/search?q=Kansas",
+          "tweet_count": ""
+        },
+        {
+          "name": "Spurs",
+          "url": "https://twitter.com/search?q=Spurs",
+          "tweet_count": ""
+        },
+        {
+          "name": "Hegseth",
+          "url": "https://twitter.com/search?q=Hegseth",
+          "tweet_count": ""
+        },
+        {
+          "name": "#BlueWave",
+          "url": "https://twitter.com/search?q=%23BlueWave",
+          "tweet_count": ""
+        },
+        {
+          "name": "#RHOSLC",
+          "url": "https://twitter.com/search?q=%23RHOSLC",
+          "tweet_count": ""
+        },
+        {
+          "name": "Thune",
+          "url": "https://twitter.com/search?q=Thune",
+          "tweet_count": ""
+        },
+        {
+          "name": "Giannis",
+          "url": "https://twitter.com/search?q=Giannis",
+          "tweet_count": ""
+        },
+        {
+          "name": "Talarico",
+          "url": "https://twitter.com/search?q=Talarico",
+          "tweet_count": ""
+        },
+        {
+          "name": "Shead",
+          "url": "https://twitter.com/search?q=Shead",
+          "tweet_count": ""
+        },
+        {
+          "name": "The GOP",
+          "url": "https://twitter.com/search?q=The%20GOP",
+          "tweet_count": ""
+        },
+        {
+          "name": "Kawhi",
+          "url": "https://twitter.com/search?q=Kawhi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Jakob",
+          "url": "https://twitter.com/search?q=Jakob",
+          "tweet_count": ""
+        },
+        {
+          "name": "Oshi",
+          "url": "https://twitter.com/search?q=Oshi",
+          "tweet_count": ""
+        },
+        {
+          "name": "Flagg",
+          "url": "https://twitter.com/search?q=Flagg",
+          "tweet_count": ""
+        },
+        {
+          "name": "South Carolina",
+          "url": "https://twitter.com/search?q=South%20Carolina",
+          "tweet_count": ""
+        },
+        {
+          "name": "Beckett Sennecke",
+          "url": "https://twitter.com/search?q=Beckett%20Sennecke",
+          "tweet_count": ""
+        },
+        {
+          "name": "Victor Wembanyama",
+          "url": "https://twitter.com/search?q=Victor%20Wembanyama",
+          "tweet_count": ""
+        },
+        {
+          "name": "Luka",
+          "url": "https://twitter.com/search?q=Luka",
+          "tweet_count": ""
+        }
+      ]
+    },
     {
       "time": "Thu Nov 05 2026 05:10:07 GMT+0000 (Coordinated Universal Time)",
       "epoch": 1793855407.832,
@@ -3329,2867 +6145,306 @@
           "tweet_count": ""
         }
       ]
-    },
-    {
-      "time": "Wed Nov 04 2026 18:51:36 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1793818296.318,
-      "trends": [
-        {
-          "name": "Texas",
-          "url": "https://twitter.com/search?q=Texas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trump",
-          "url": "https://twitter.com/search?q=Trump",
-          "tweet_count": ""
-        },
-        {
-          "name": "Democrats",
-          "url": "https://twitter.com/search?q=Democrats",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republicans",
-          "url": "https://twitter.com/search?q=Republicans",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dems",
-          "url": "https://twitter.com/search?q=Dems",
-          "tweet_count": ""
-        },
-        {
-          "name": "America",
-          "url": "https://twitter.com/search?q=America",
-          "tweet_count": ""
-        },
-        {
-          "name": "Iran",
-          "url": "https://twitter.com/search?q=Iran",
-          "tweet_count": ""
-        },
-        {
-          "name": "MAGA",
-          "url": "https://twitter.com/search?q=MAGA",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Midterms2026",
-          "url": "https://twitter.com/search?q=%23Midterms2026",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senate",
-          "url": "https://twitter.com/search?q=Senate",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vance",
-          "url": "https://twitter.com/search?q=Vance",
-          "tweet_count": ""
-        },
-        {
-          "name": "Israel",
-          "url": "https://twitter.com/search?q=Israel",
-          "tweet_count": ""
-        },
-        {
-          "name": "Schumer",
-          "url": "https://twitter.com/search?q=Schumer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Florida",
-          "url": "https://twitter.com/search?q=Florida",
-          "tweet_count": ""
-        },
-        {
-          "name": "Michigan",
-          "url": "https://twitter.com/search?q=Michigan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kansas",
-          "url": "https://twitter.com/search?q=Kansas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Veto",
-          "url": "https://twitter.com/search?q=Veto",
-          "tweet_count": ""
-        },
-        {
-          "name": "#USElections",
-          "url": "https://twitter.com/search?q=%23USElections",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mississippi",
-          "url": "https://twitter.com/search?q=Mississippi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Russia",
-          "url": "https://twitter.com/search?q=Russia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Epstein",
-          "url": "https://twitter.com/search?q=Epstein",
-          "tweet_count": ""
-        },
-        {
-          "name": "#BlueWave",
-          "url": "https://twitter.com/search?q=%23BlueWave",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ukraine",
-          "url": "https://twitter.com/search?q=Ukraine",
-          "tweet_count": ""
-        },
-        {
-          "name": "South Carolina",
-          "url": "https://twitter.com/search?q=South%20Carolina",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ohio",
-          "url": "https://twitter.com/search?q=Ohio",
-          "tweet_count": ""
-        },
-        {
-          "name": "The GOP",
-          "url": "https://twitter.com/search?q=The%20GOP",
-          "tweet_count": ""
-        },
-        {
-          "name": "Georgia",
-          "url": "https://twitter.com/search?q=Georgia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Talarico",
-          "url": "https://twitter.com/search?q=Talarico",
-          "tweet_count": ""
-        },
-        {
-          "name": "AIPAC",
-          "url": "https://twitter.com/search?q=AIPAC",
-          "tweet_count": ""
-        },
-        {
-          "name": "DeSantis",
-          "url": "https://twitter.com/search?q=DeSantis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Greg Abbott",
-          "url": "https://twitter.com/search?q=Greg%20Abbott",
-          "tweet_count": ""
-        },
-        {
-          "name": "Latvia",
-          "url": "https://twitter.com/search?q=Latvia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Biden",
-          "url": "https://twitter.com/search?q=Biden",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Tsunami",
-          "url": "https://twitter.com/search?q=Blue%20Tsunami",
-          "tweet_count": ""
-        },
-        {
-          "name": "Susan Collins",
-          "url": "https://twitter.com/search?q=Susan%20Collins",
-          "tweet_count": ""
-        },
-        {
-          "name": "As a Canadian",
-          "url": "https://twitter.com/search?q=As%20a%20Canadian",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fowler",
-          "url": "https://twitter.com/search?q=Fowler",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Elections2026",
-          "url": "https://twitter.com/search?q=%23Elections2026",
-          "tweet_count": ""
-        },
-        {
-          "name": "Thune",
-          "url": "https://twitter.com/search?q=Thune",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hegseth",
-          "url": "https://twitter.com/search?q=Hegseth",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jets",
-          "url": "https://twitter.com/search?q=Jets",
-          "tweet_count": ""
-        },
-        {
-          "name": "Impeachment",
-          "url": "https://twitter.com/search?q=Impeachment",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rubio",
-          "url": "https://twitter.com/search?q=Rubio",
-          "tweet_count": ""
-        },
-        {
-          "name": "Abdul",
-          "url": "https://twitter.com/search?q=Abdul",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xhekaj",
-          "url": "https://twitter.com/search?q=Xhekaj",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fox News",
-          "url": "https://twitter.com/search?q=Fox%20News",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vini",
-          "url": "https://twitter.com/search?q=Vini",
-          "tweet_count": ""
-        },
-        {
-          "name": "#USMidtermElections",
-          "url": "https://twitter.com/search?q=%23USMidtermElections",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mike Johnson",
-          "url": "https://twitter.com/search?q=Mike%20Johnson",
-          "tweet_count": ""
-        },
-        {
-          "name": "RINOs",
-          "url": "https://twitter.com/search?q=RINOs",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Wed Nov 04 2026 17:57:54 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1793815074.794,
-      "trends": [
-        {
-          "name": "Vance",
-          "url": "https://twitter.com/search?q=Vance",
-          "tweet_count": ""
-        },
-        {
-          "name": "Democrats",
-          "url": "https://twitter.com/search?q=Democrats",
-          "tweet_count": ""
-        },
-        {
-          "name": "MAGA",
-          "url": "https://twitter.com/search?q=MAGA",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republicans",
-          "url": "https://twitter.com/search?q=Republicans",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dems",
-          "url": "https://twitter.com/search?q=Dems",
-          "tweet_count": ""
-        },
-        {
-          "name": "Texas",
-          "url": "https://twitter.com/search?q=Texas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Schumer",
-          "url": "https://twitter.com/search?q=Schumer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Congress",
-          "url": "https://twitter.com/search?q=Congress",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jeffries",
-          "url": "https://twitter.com/search?q=Jeffries",
-          "tweet_count": ""
-        },
-        {
-          "name": "President",
-          "url": "https://twitter.com/search?q=President",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hegseth",
-          "url": "https://twitter.com/search?q=Hegseth",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rubio",
-          "url": "https://twitter.com/search?q=Rubio",
-          "tweet_count": ""
-        },
-        {
-          "name": "Epstein",
-          "url": "https://twitter.com/search?q=Epstein",
-          "tweet_count": ""
-        },
-        {
-          "name": "Veto",
-          "url": "https://twitter.com/search?q=Veto",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lake Ontario",
-          "url": "https://twitter.com/search?q=Lake%20Ontario",
-          "tweet_count": ""
-        },
-        {
-          "name": "DeSantis",
-          "url": "https://twitter.com/search?q=DeSantis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Impeachment",
-          "url": "https://twitter.com/search?q=Impeachment",
-          "tweet_count": ""
-        },
-        {
-          "name": "Clinton",
-          "url": "https://twitter.com/search?q=Clinton",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senate",
-          "url": "https://twitter.com/search?q=Senate",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mike Johnson",
-          "url": "https://twitter.com/search?q=Mike%20Johnson",
-          "tweet_count": ""
-        },
-        {
-          "name": "RINOs",
-          "url": "https://twitter.com/search?q=RINOs",
-          "tweet_count": ""
-        },
-        {
-          "name": "The American",
-          "url": "https://twitter.com/search?q=The%20American",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trumps",
-          "url": "https://twitter.com/search?q=Trumps",
-          "tweet_count": ""
-        },
-        {
-          "name": "America First",
-          "url": "https://twitter.com/search?q=America%20First",
-          "tweet_count": ""
-        },
-        {
-          "name": "POTUS",
-          "url": "https://twitter.com/search?q=POTUS",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ocarina of Time",
-          "url": "https://twitter.com/search?q=Ocarina%20of%20Time",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lame",
-          "url": "https://twitter.com/search?q=Lame",
-          "tweet_count": ""
-        },
-        {
-          "name": "Congratulations America",
-          "url": "https://twitter.com/search?q=Congratulations%20America",
-          "tweet_count": ""
-        },
-        {
-          "name": "The GOP",
-          "url": "https://twitter.com/search?q=The%20GOP",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republican Party",
-          "url": "https://twitter.com/search?q=Republican%20Party",
-          "tweet_count": ""
-        },
-        {
-          "name": "The Iran",
-          "url": "https://twitter.com/search?q=The%20Iran",
-          "tweet_count": ""
-        },
-        {
-          "name": "Tariffs",
-          "url": "https://twitter.com/search?q=Tariffs",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mississippi",
-          "url": "https://twitter.com/search?q=Mississippi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Iran War",
-          "url": "https://twitter.com/search?q=Iran%20War",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cope",
-          "url": "https://twitter.com/search?q=Cope",
-          "tweet_count": ""
-        },
-        {
-          "name": "Thune",
-          "url": "https://twitter.com/search?q=Thune",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sharia Law",
-          "url": "https://twitter.com/search?q=Sharia%20Law",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senator",
-          "url": "https://twitter.com/search?q=Senator",
-          "tweet_count": ""
-        },
-        {
-          "name": "Abdul El-Sayed",
-          "url": "https://twitter.com/search?q=Abdul%20El-Sayed",
-          "tweet_count": ""
-        },
-        {
-          "name": "Alabama",
-          "url": "https://twitter.com/search?q=Alabama",
-          "tweet_count": ""
-        },
-        {
-          "name": "AIPAC",
-          "url": "https://twitter.com/search?q=AIPAC",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Tsunami",
-          "url": "https://twitter.com/search?q=Blue%20Tsunami",
-          "tweet_count": ""
-        },
-        {
-          "name": "Arber",
-          "url": "https://twitter.com/search?q=Arber",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Wed Nov 04 2026 17:06:56 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1793812016.268,
-      "trends": [
-        {
-          "name": "Democrats",
-          "url": "https://twitter.com/search?q=Democrats",
-          "tweet_count": ""
-        },
-        {
-          "name": "America",
-          "url": "https://twitter.com/search?q=America",
-          "tweet_count": ""
-        },
-        {
-          "name": "MAGA",
-          "url": "https://twitter.com/search?q=MAGA",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vance",
-          "url": "https://twitter.com/search?q=Vance",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republicans",
-          "url": "https://twitter.com/search?q=Republicans",
-          "tweet_count": ""
-        },
-        {
-          "name": "Texas",
-          "url": "https://twitter.com/search?q=Texas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dems",
-          "url": "https://twitter.com/search?q=Dems",
-          "tweet_count": ""
-        },
-        {
-          "name": "Congress",
-          "url": "https://twitter.com/search?q=Congress",
-          "tweet_count": ""
-        },
-        {
-          "name": "Schumer",
-          "url": "https://twitter.com/search?q=Schumer",
-          "tweet_count": ""
-        },
-        {
-          "name": "President",
-          "url": "https://twitter.com/search?q=President",
-          "tweet_count": ""
-        },
-        {
-          "name": "Epstein",
-          "url": "https://twitter.com/search?q=Epstein",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jeffries",
-          "url": "https://twitter.com/search?q=Jeffries",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rubio",
-          "url": "https://twitter.com/search?q=Rubio",
-          "tweet_count": ""
-        },
-        {
-          "name": "Veto",
-          "url": "https://twitter.com/search?q=Veto",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hegseth",
-          "url": "https://twitter.com/search?q=Hegseth",
-          "tweet_count": ""
-        },
-        {
-          "name": "Clinton",
-          "url": "https://twitter.com/search?q=Clinton",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mike Johnson",
-          "url": "https://twitter.com/search?q=Mike%20Johnson",
-          "tweet_count": ""
-        },
-        {
-          "name": "DeSantis",
-          "url": "https://twitter.com/search?q=DeSantis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trumps",
-          "url": "https://twitter.com/search?q=Trumps",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senate",
-          "url": "https://twitter.com/search?q=Senate",
-          "tweet_count": ""
-        },
-        {
-          "name": "RINOs",
-          "url": "https://twitter.com/search?q=RINOs",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lame",
-          "url": "https://twitter.com/search?q=Lame",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lake Ontario",
-          "url": "https://twitter.com/search?q=Lake%20Ontario",
-          "tweet_count": ""
-        },
-        {
-          "name": "POTUS",
-          "url": "https://twitter.com/search?q=POTUS",
-          "tweet_count": ""
-        },
-        {
-          "name": "Thune",
-          "url": "https://twitter.com/search?q=Thune",
-          "tweet_count": ""
-        },
-        {
-          "name": "Impeachment",
-          "url": "https://twitter.com/search?q=Impeachment",
-          "tweet_count": ""
-        },
-        {
-          "name": "The Iran",
-          "url": "https://twitter.com/search?q=The%20Iran",
-          "tweet_count": ""
-        },
-        {
-          "name": "The GOP",
-          "url": "https://twitter.com/search?q=The%20GOP",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republican Party",
-          "url": "https://twitter.com/search?q=Republican%20Party",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mississippi",
-          "url": "https://twitter.com/search?q=Mississippi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cope",
-          "url": "https://twitter.com/search?q=Cope",
-          "tweet_count": ""
-        },
-        {
-          "name": "Tariffs",
-          "url": "https://twitter.com/search?q=Tariffs",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kansas",
-          "url": "https://twitter.com/search?q=Kansas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Loser",
-          "url": "https://twitter.com/search?q=Loser",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sharia Law",
-          "url": "https://twitter.com/search?q=Sharia%20Law",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ocarina of Time",
-          "url": "https://twitter.com/search?q=Ocarina%20of%20Time",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senator",
-          "url": "https://twitter.com/search?q=Senator",
-          "tweet_count": ""
-        },
-        {
-          "name": "Abdul El-Sayed",
-          "url": "https://twitter.com/search?q=Abdul%20El-Sayed",
-          "tweet_count": ""
-        },
-        {
-          "name": "Iran War",
-          "url": "https://twitter.com/search?q=Iran%20War",
-          "tweet_count": ""
-        },
-        {
-          "name": "Alabama",
-          "url": "https://twitter.com/search?q=Alabama",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xhekaj",
-          "url": "https://twitter.com/search?q=Xhekaj",
-          "tweet_count": ""
-        },
-        {
-          "name": "AIPAC",
-          "url": "https://twitter.com/search?q=AIPAC",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Tsunami",
-          "url": "https://twitter.com/search?q=Blue%20Tsunami",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Wave",
-          "url": "https://twitter.com/search?q=Blue%20Wave",
-          "tweet_count": ""
-        },
-        {
-          "name": "Arber",
-          "url": "https://twitter.com/search?q=Arber",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Wed Nov 04 2026 16:16:00 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1793808960.723,
-      "trends": [
-        {
-          "name": "America",
-          "url": "https://twitter.com/search?q=America",
-          "tweet_count": ""
-        },
-        {
-          "name": "Democrats",
-          "url": "https://twitter.com/search?q=Democrats",
-          "tweet_count": ""
-        },
-        {
-          "name": "MAGA",
-          "url": "https://twitter.com/search?q=MAGA",
-          "tweet_count": ""
-        },
-        {
-          "name": "Texas",
-          "url": "https://twitter.com/search?q=Texas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republicans",
-          "url": "https://twitter.com/search?q=Republicans",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dems",
-          "url": "https://twitter.com/search?q=Dems",
-          "tweet_count": ""
-        },
-        {
-          "name": "Congress",
-          "url": "https://twitter.com/search?q=Congress",
-          "tweet_count": ""
-        },
-        {
-          "name": "Schumer",
-          "url": "https://twitter.com/search?q=Schumer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Epstein",
-          "url": "https://twitter.com/search?q=Epstein",
-          "tweet_count": ""
-        },
-        {
-          "name": "President",
-          "url": "https://twitter.com/search?q=President",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jeffries",
-          "url": "https://twitter.com/search?q=Jeffries",
-          "tweet_count": ""
-        },
-        {
-          "name": "Veto",
-          "url": "https://twitter.com/search?q=Veto",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vance",
-          "url": "https://twitter.com/search?q=Vance",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mike Johnson",
-          "url": "https://twitter.com/search?q=Mike%20Johnson",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lake Ontario",
-          "url": "https://twitter.com/search?q=Lake%20Ontario",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lame",
-          "url": "https://twitter.com/search?q=Lame",
-          "tweet_count": ""
-        },
-        {
-          "name": "The GOP",
-          "url": "https://twitter.com/search?q=The%20GOP",
-          "tweet_count": ""
-        },
-        {
-          "name": "Michigan",
-          "url": "https://twitter.com/search?q=Michigan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trumps",
-          "url": "https://twitter.com/search?q=Trumps",
-          "tweet_count": ""
-        },
-        {
-          "name": "DeSantis",
-          "url": "https://twitter.com/search?q=DeSantis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rubio",
-          "url": "https://twitter.com/search?q=Rubio",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senate",
-          "url": "https://twitter.com/search?q=Senate",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mississippi",
-          "url": "https://twitter.com/search?q=Mississippi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Clinton",
-          "url": "https://twitter.com/search?q=Clinton",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republican Party",
-          "url": "https://twitter.com/search?q=Republican%20Party",
-          "tweet_count": ""
-        },
-        {
-          "name": "Impeachment",
-          "url": "https://twitter.com/search?q=Impeachment",
-          "tweet_count": ""
-        },
-        {
-          "name": "Thune",
-          "url": "https://twitter.com/search?q=Thune",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cope",
-          "url": "https://twitter.com/search?q=Cope",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kansas",
-          "url": "https://twitter.com/search?q=Kansas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Loser",
-          "url": "https://twitter.com/search?q=Loser",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Tsunami",
-          "url": "https://twitter.com/search?q=Blue%20Tsunami",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sharia",
-          "url": "https://twitter.com/search?q=Sharia",
-          "tweet_count": ""
-        },
-        {
-          "name": "POTUS",
-          "url": "https://twitter.com/search?q=POTUS",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hegseth",
-          "url": "https://twitter.com/search?q=Hegseth",
-          "tweet_count": ""
-        },
-        {
-          "name": "#BlueWave",
-          "url": "https://twitter.com/search?q=%23BlueWave",
-          "tweet_count": ""
-        },
-        {
-          "name": "Tariffs",
-          "url": "https://twitter.com/search?q=Tariffs",
-          "tweet_count": ""
-        },
-        {
-          "name": "Alabama",
-          "url": "https://twitter.com/search?q=Alabama",
-          "tweet_count": ""
-        },
-        {
-          "name": "Abdul El-Sayed",
-          "url": "https://twitter.com/search?q=Abdul%20El-Sayed",
-          "tweet_count": ""
-        },
-        {
-          "name": "Iran War",
-          "url": "https://twitter.com/search?q=Iran%20War",
-          "tweet_count": ""
-        },
-        {
-          "name": "AIPAC",
-          "url": "https://twitter.com/search?q=AIPAC",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xhekaj",
-          "url": "https://twitter.com/search?q=Xhekaj",
-          "tweet_count": ""
-        },
-        {
-          "name": "Arber",
-          "url": "https://twitter.com/search?q=Arber",
-          "tweet_count": ""
-        },
-        {
-          "name": "Susan Collins",
-          "url": "https://twitter.com/search?q=Susan%20Collins",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Wed Nov 04 2026 15:24:20 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1793805860.191,
-      "trends": [
-        {
-          "name": "America",
-          "url": "https://twitter.com/search?q=America",
-          "tweet_count": ""
-        },
-        {
-          "name": "Democrats",
-          "url": "https://twitter.com/search?q=Democrats",
-          "tweet_count": ""
-        },
-        {
-          "name": "MAGA",
-          "url": "https://twitter.com/search?q=MAGA",
-          "tweet_count": ""
-        },
-        {
-          "name": "Texas",
-          "url": "https://twitter.com/search?q=Texas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republicans",
-          "url": "https://twitter.com/search?q=Republicans",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dems",
-          "url": "https://twitter.com/search?q=Dems",
-          "tweet_count": ""
-        },
-        {
-          "name": "Congress",
-          "url": "https://twitter.com/search?q=Congress",
-          "tweet_count": ""
-        },
-        {
-          "name": "Schumer",
-          "url": "https://twitter.com/search?q=Schumer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jeffries",
-          "url": "https://twitter.com/search?q=Jeffries",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trump",
-          "url": "https://twitter.com/search?q=Trump",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rubio",
-          "url": "https://twitter.com/search?q=Rubio",
-          "tweet_count": ""
-        },
-        {
-          "name": "DeSantis",
-          "url": "https://twitter.com/search?q=DeSantis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Michigan",
-          "url": "https://twitter.com/search?q=Michigan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Veto",
-          "url": "https://twitter.com/search?q=Veto",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senate",
-          "url": "https://twitter.com/search?q=Senate",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lame",
-          "url": "https://twitter.com/search?q=Lame",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vance",
-          "url": "https://twitter.com/search?q=Vance",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lake Ontario",
-          "url": "https://twitter.com/search?q=Lake%20Ontario",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cope",
-          "url": "https://twitter.com/search?q=Cope",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mississippi",
-          "url": "https://twitter.com/search?q=Mississippi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Impeachment",
-          "url": "https://twitter.com/search?q=Impeachment",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republican Party",
-          "url": "https://twitter.com/search?q=Republican%20Party",
-          "tweet_count": ""
-        },
-        {
-          "name": "Thune",
-          "url": "https://twitter.com/search?q=Thune",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kansas",
-          "url": "https://twitter.com/search?q=Kansas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hegseth",
-          "url": "https://twitter.com/search?q=Hegseth",
-          "tweet_count": ""
-        },
-        {
-          "name": "The GOP",
-          "url": "https://twitter.com/search?q=The%20GOP",
-          "tweet_count": ""
-        },
-        {
-          "name": "POTUS",
-          "url": "https://twitter.com/search?q=POTUS",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mike Johnson",
-          "url": "https://twitter.com/search?q=Mike%20Johnson",
-          "tweet_count": ""
-        },
-        {
-          "name": "Loser",
-          "url": "https://twitter.com/search?q=Loser",
-          "tweet_count": ""
-        },
-        {
-          "name": "Alabama",
-          "url": "https://twitter.com/search?q=Alabama",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sharia",
-          "url": "https://twitter.com/search?q=Sharia",
-          "tweet_count": ""
-        },
-        {
-          "name": "#BlueWave",
-          "url": "https://twitter.com/search?q=%23BlueWave",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Tsunami",
-          "url": "https://twitter.com/search?q=Blue%20Tsunami",
-          "tweet_count": ""
-        },
-        {
-          "name": "Abdul El-Sayed",
-          "url": "https://twitter.com/search?q=Abdul%20El-Sayed",
-          "tweet_count": ""
-        },
-        {
-          "name": "Tariffs",
-          "url": "https://twitter.com/search?q=Tariffs",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xhekaj",
-          "url": "https://twitter.com/search?q=Xhekaj",
-          "tweet_count": ""
-        },
-        {
-          "name": "Clinton",
-          "url": "https://twitter.com/search?q=Clinton",
-          "tweet_count": ""
-        },
-        {
-          "name": "Arber",
-          "url": "https://twitter.com/search?q=Arber",
-          "tweet_count": ""
-        },
-        {
-          "name": "Susan Collins",
-          "url": "https://twitter.com/search?q=Susan%20Collins",
-          "tweet_count": ""
-        },
-        {
-          "name": "AIPAC",
-          "url": "https://twitter.com/search?q=AIPAC",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Wed Nov 04 2026 15:24:16 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1793805856.273,
-      "trends": [
-        {
-          "name": "America",
-          "url": "https://twitter.com/search?q=America",
-          "tweet_count": ""
-        },
-        {
-          "name": "Democrats",
-          "url": "https://twitter.com/search?q=Democrats",
-          "tweet_count": ""
-        },
-        {
-          "name": "MAGA",
-          "url": "https://twitter.com/search?q=MAGA",
-          "tweet_count": ""
-        },
-        {
-          "name": "Texas",
-          "url": "https://twitter.com/search?q=Texas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republicans",
-          "url": "https://twitter.com/search?q=Republicans",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dems",
-          "url": "https://twitter.com/search?q=Dems",
-          "tweet_count": ""
-        },
-        {
-          "name": "Congress",
-          "url": "https://twitter.com/search?q=Congress",
-          "tweet_count": ""
-        },
-        {
-          "name": "Schumer",
-          "url": "https://twitter.com/search?q=Schumer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jeffries",
-          "url": "https://twitter.com/search?q=Jeffries",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trump",
-          "url": "https://twitter.com/search?q=Trump",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rubio",
-          "url": "https://twitter.com/search?q=Rubio",
-          "tweet_count": ""
-        },
-        {
-          "name": "DeSantis",
-          "url": "https://twitter.com/search?q=DeSantis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Michigan",
-          "url": "https://twitter.com/search?q=Michigan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Veto",
-          "url": "https://twitter.com/search?q=Veto",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senate",
-          "url": "https://twitter.com/search?q=Senate",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lame",
-          "url": "https://twitter.com/search?q=Lame",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vance",
-          "url": "https://twitter.com/search?q=Vance",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lake Ontario",
-          "url": "https://twitter.com/search?q=Lake%20Ontario",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cope",
-          "url": "https://twitter.com/search?q=Cope",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mississippi",
-          "url": "https://twitter.com/search?q=Mississippi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Impeachment",
-          "url": "https://twitter.com/search?q=Impeachment",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republican Party",
-          "url": "https://twitter.com/search?q=Republican%20Party",
-          "tweet_count": ""
-        },
-        {
-          "name": "Thune",
-          "url": "https://twitter.com/search?q=Thune",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kansas",
-          "url": "https://twitter.com/search?q=Kansas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hegseth",
-          "url": "https://twitter.com/search?q=Hegseth",
-          "tweet_count": ""
-        },
-        {
-          "name": "The GOP",
-          "url": "https://twitter.com/search?q=The%20GOP",
-          "tweet_count": ""
-        },
-        {
-          "name": "POTUS",
-          "url": "https://twitter.com/search?q=POTUS",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mike Johnson",
-          "url": "https://twitter.com/search?q=Mike%20Johnson",
-          "tweet_count": ""
-        },
-        {
-          "name": "Loser",
-          "url": "https://twitter.com/search?q=Loser",
-          "tweet_count": ""
-        },
-        {
-          "name": "Alabama",
-          "url": "https://twitter.com/search?q=Alabama",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sharia",
-          "url": "https://twitter.com/search?q=Sharia",
-          "tweet_count": ""
-        },
-        {
-          "name": "#BlueWave",
-          "url": "https://twitter.com/search?q=%23BlueWave",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Tsunami",
-          "url": "https://twitter.com/search?q=Blue%20Tsunami",
-          "tweet_count": ""
-        },
-        {
-          "name": "Abdul El-Sayed",
-          "url": "https://twitter.com/search?q=Abdul%20El-Sayed",
-          "tweet_count": ""
-        },
-        {
-          "name": "Tariffs",
-          "url": "https://twitter.com/search?q=Tariffs",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xhekaj",
-          "url": "https://twitter.com/search?q=Xhekaj",
-          "tweet_count": ""
-        },
-        {
-          "name": "Clinton",
-          "url": "https://twitter.com/search?q=Clinton",
-          "tweet_count": ""
-        },
-        {
-          "name": "Arber",
-          "url": "https://twitter.com/search?q=Arber",
-          "tweet_count": ""
-        },
-        {
-          "name": "Susan Collins",
-          "url": "https://twitter.com/search?q=Susan%20Collins",
-          "tweet_count": ""
-        },
-        {
-          "name": "AIPAC",
-          "url": "https://twitter.com/search?q=AIPAC",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Wed Nov 04 2026 14:32:09 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1793802729.418,
-      "trends": [
-        {
-          "name": "America",
-          "url": "https://twitter.com/search?q=America",
-          "tweet_count": ""
-        },
-        {
-          "name": "Democrats",
-          "url": "https://twitter.com/search?q=Democrats",
-          "tweet_count": ""
-        },
-        {
-          "name": "Texas",
-          "url": "https://twitter.com/search?q=Texas",
-          "tweet_count": ""
-        },
-        {
-          "name": "MAGA",
-          "url": "https://twitter.com/search?q=MAGA",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republicans",
-          "url": "https://twitter.com/search?q=Republicans",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dems",
-          "url": "https://twitter.com/search?q=Dems",
-          "tweet_count": ""
-        },
-        {
-          "name": "Congress",
-          "url": "https://twitter.com/search?q=Congress",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trump",
-          "url": "https://twitter.com/search?q=Trump",
-          "tweet_count": ""
-        },
-        {
-          "name": "Vance",
-          "url": "https://twitter.com/search?q=Vance",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senate",
-          "url": "https://twitter.com/search?q=Senate",
-          "tweet_count": ""
-        },
-        {
-          "name": "Michigan",
-          "url": "https://twitter.com/search?q=Michigan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Schumer",
-          "url": "https://twitter.com/search?q=Schumer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lake Ontario",
-          "url": "https://twitter.com/search?q=Lake%20Ontario",
-          "tweet_count": ""
-        },
-        {
-          "name": "DeSantis",
-          "url": "https://twitter.com/search?q=DeSantis",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jeffries",
-          "url": "https://twitter.com/search?q=Jeffries",
-          "tweet_count": ""
-        },
-        {
-          "name": "Veto",
-          "url": "https://twitter.com/search?q=Veto",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lame",
-          "url": "https://twitter.com/search?q=Lame",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mississippi",
-          "url": "https://twitter.com/search?q=Mississippi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rubio",
-          "url": "https://twitter.com/search?q=Rubio",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kansas",
-          "url": "https://twitter.com/search?q=Kansas",
-          "tweet_count": ""
-        },
-        {
-          "name": "The GOP",
-          "url": "https://twitter.com/search?q=The%20GOP",
-          "tweet_count": ""
-        },
-        {
-          "name": "Abdul El-Sayed",
-          "url": "https://twitter.com/search?q=Abdul%20El-Sayed",
-          "tweet_count": ""
-        },
-        {
-          "name": "Thune",
-          "url": "https://twitter.com/search?q=Thune",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republican Party",
-          "url": "https://twitter.com/search?q=Republican%20Party",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hegseth",
-          "url": "https://twitter.com/search?q=Hegseth",
-          "tweet_count": ""
-        },
-        {
-          "name": "Clinton",
-          "url": "https://twitter.com/search?q=Clinton",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Tsunami",
-          "url": "https://twitter.com/search?q=Blue%20Tsunami",
-          "tweet_count": ""
-        },
-        {
-          "name": "As a Canadian",
-          "url": "https://twitter.com/search?q=As%20a%20Canadian",
-          "tweet_count": ""
-        },
-        {
-          "name": "Loser",
-          "url": "https://twitter.com/search?q=Loser",
-          "tweet_count": ""
-        },
-        {
-          "name": "Tariffs",
-          "url": "https://twitter.com/search?q=Tariffs",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Wave",
-          "url": "https://twitter.com/search?q=Blue%20Wave",
-          "tweet_count": ""
-        },
-        {
-          "name": "Susan Collins",
-          "url": "https://twitter.com/search?q=Susan%20Collins",
-          "tweet_count": ""
-        },
-        {
-          "name": "Donald",
-          "url": "https://twitter.com/search?q=Donald",
-          "tweet_count": ""
-        },
-        {
-          "name": "Sharia",
-          "url": "https://twitter.com/search?q=Sharia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Georgia",
-          "url": "https://twitter.com/search?q=Georgia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xhekaj",
-          "url": "https://twitter.com/search?q=Xhekaj",
-          "tweet_count": ""
-        },
-        {
-          "name": "Maine",
-          "url": "https://twitter.com/search?q=Maine",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mamdani",
-          "url": "https://twitter.com/search?q=Mamdani",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Wed Nov 04 2026 13:36:29 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1793799389.274,
-      "trends": [
-        {
-          "name": "Texas",
-          "url": "https://twitter.com/search?q=Texas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Democrats",
-          "url": "https://twitter.com/search?q=Democrats",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trump",
-          "url": "https://twitter.com/search?q=Trump",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republicans",
-          "url": "https://twitter.com/search?q=Republicans",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dems",
-          "url": "https://twitter.com/search?q=Dems",
-          "tweet_count": ""
-        },
-        {
-          "name": "America",
-          "url": "https://twitter.com/search?q=America",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Midterms2026",
-          "url": "https://twitter.com/search?q=%23Midterms2026",
-          "tweet_count": ""
-        },
-        {
-          "name": "Iran",
-          "url": "https://twitter.com/search?q=Iran",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senate",
-          "url": "https://twitter.com/search?q=Senate",
-          "tweet_count": ""
-        },
-        {
-          "name": "MAGA",
-          "url": "https://twitter.com/search?q=MAGA",
-          "tweet_count": ""
-        },
-        {
-          "name": "Florida",
-          "url": "https://twitter.com/search?q=Florida",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kansas",
-          "url": "https://twitter.com/search?q=Kansas",
-          "tweet_count": ""
-        },
-        {
-          "name": "South Carolina",
-          "url": "https://twitter.com/search?q=South%20Carolina",
-          "tweet_count": ""
-        },
-        {
-          "name": "#USElections",
-          "url": "https://twitter.com/search?q=%23USElections",
-          "tweet_count": ""
-        },
-        {
-          "name": "Michigan",
-          "url": "https://twitter.com/search?q=Michigan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Congress",
-          "url": "https://twitter.com/search?q=Congress",
-          "tweet_count": ""
-        },
-        {
-          "name": "Israel",
-          "url": "https://twitter.com/search?q=Israel",
-          "tweet_count": ""
-        },
-        {
-          "name": "Russia",
-          "url": "https://twitter.com/search?q=Russia",
-          "tweet_count": ""
-        },
-        {
-          "name": "#BlueWave",
-          "url": "https://twitter.com/search?q=%23BlueWave",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mississippi",
-          "url": "https://twitter.com/search?q=Mississippi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ohio",
-          "url": "https://twitter.com/search?q=Ohio",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ukraine",
-          "url": "https://twitter.com/search?q=Ukraine",
-          "tweet_count": ""
-        },
-        {
-          "name": "Greg Abbott",
-          "url": "https://twitter.com/search?q=Greg%20Abbott",
-          "tweet_count": ""
-        },
-        {
-          "name": "Epstein",
-          "url": "https://twitter.com/search?q=Epstein",
-          "tweet_count": ""
-        },
-        {
-          "name": "Latvia",
-          "url": "https://twitter.com/search?q=Latvia",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Elections2026",
-          "url": "https://twitter.com/search?q=%23Elections2026",
-          "tweet_count": ""
-        },
-        {
-          "name": "Veto",
-          "url": "https://twitter.com/search?q=Veto",
-          "tweet_count": ""
-        },
-        {
-          "name": "Georgia",
-          "url": "https://twitter.com/search?q=Georgia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jets",
-          "url": "https://twitter.com/search?q=Jets",
-          "tweet_count": ""
-        },
-        {
-          "name": "Happy Hump",
-          "url": "https://twitter.com/search?q=Happy%20Hump",
-          "tweet_count": ""
-        },
-        {
-          "name": "Schumer",
-          "url": "https://twitter.com/search?q=Schumer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Talarico",
-          "url": "https://twitter.com/search?q=Talarico",
-          "tweet_count": ""
-        },
-        {
-          "name": "Susan Collins",
-          "url": "https://twitter.com/search?q=Susan%20Collins",
-          "tweet_count": ""
-        },
-        {
-          "name": "As a Canadian",
-          "url": "https://twitter.com/search?q=As%20a%20Canadian",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lake Ontario",
-          "url": "https://twitter.com/search?q=Lake%20Ontario",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fowler",
-          "url": "https://twitter.com/search?q=Fowler",
-          "tweet_count": ""
-        },
-        {
-          "name": "Roma",
-          "url": "https://twitter.com/search?q=Roma",
-          "tweet_count": ""
-        },
-        {
-          "name": "Guam",
-          "url": "https://twitter.com/search?q=Guam",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Tsunami",
-          "url": "https://twitter.com/search?q=Blue%20Tsunami",
-          "tweet_count": ""
-        },
-        {
-          "name": "Abdul",
-          "url": "https://twitter.com/search?q=Abdul",
-          "tweet_count": ""
-        },
-        {
-          "name": "The GOP",
-          "url": "https://twitter.com/search?q=The%20GOP",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jeffries",
-          "url": "https://twitter.com/search?q=Jeffries",
-          "tweet_count": ""
-        },
-        {
-          "name": "#GMMTVNEXT",
-          "url": "https://twitter.com/search?q=%23GMMTVNEXT",
-          "tweet_count": ""
-        },
-        {
-          "name": "AIPAC",
-          "url": "https://twitter.com/search?q=AIPAC",
-          "tweet_count": ""
-        },
-        {
-          "name": "Bauer",
-          "url": "https://twitter.com/search?q=Bauer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xhekaj",
-          "url": "https://twitter.com/search?q=Xhekaj",
-          "tweet_count": ""
-        },
-        {
-          "name": "Iggy",
-          "url": "https://twitter.com/search?q=Iggy",
-          "tweet_count": ""
-        },
-        {
-          "name": "DeSantis",
-          "url": "https://twitter.com/search?q=DeSantis",
-          "tweet_count": ""
-        },
-        {
-          "name": "hear conscripts",
-          "url": "https://twitter.com/search?q=hear%20conscripts",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cunha",
-          "url": "https://twitter.com/search?q=Cunha",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Wed Nov 04 2026 12:45:36 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1793796336.581,
-      "trends": [
-        {
-          "name": "Texas",
-          "url": "https://twitter.com/search?q=Texas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Democrats",
-          "url": "https://twitter.com/search?q=Democrats",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republicans",
-          "url": "https://twitter.com/search?q=Republicans",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trump",
-          "url": "https://twitter.com/search?q=Trump",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dems",
-          "url": "https://twitter.com/search?q=Dems",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Midterms2026",
-          "url": "https://twitter.com/search?q=%23Midterms2026",
-          "tweet_count": ""
-        },
-        {
-          "name": "America",
-          "url": "https://twitter.com/search?q=America",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senate",
-          "url": "https://twitter.com/search?q=Senate",
-          "tweet_count": ""
-        },
-        {
-          "name": "Iran",
-          "url": "https://twitter.com/search?q=Iran",
-          "tweet_count": ""
-        },
-        {
-          "name": "MAGA",
-          "url": "https://twitter.com/search?q=MAGA",
-          "tweet_count": ""
-        },
-        {
-          "name": "Florida",
-          "url": "https://twitter.com/search?q=Florida",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kansas",
-          "url": "https://twitter.com/search?q=Kansas",
-          "tweet_count": ""
-        },
-        {
-          "name": "South Carolina",
-          "url": "https://twitter.com/search?q=South%20Carolina",
-          "tweet_count": ""
-        },
-        {
-          "name": "#USElections",
-          "url": "https://twitter.com/search?q=%23USElections",
-          "tweet_count": ""
-        },
-        {
-          "name": "Russia",
-          "url": "https://twitter.com/search?q=Russia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Michigan",
-          "url": "https://twitter.com/search?q=Michigan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Israel",
-          "url": "https://twitter.com/search?q=Israel",
-          "tweet_count": ""
-        },
-        {
-          "name": "Congress",
-          "url": "https://twitter.com/search?q=Congress",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ohio",
-          "url": "https://twitter.com/search?q=Ohio",
-          "tweet_count": ""
-        },
-        {
-          "name": "#BlueWave",
-          "url": "https://twitter.com/search?q=%23BlueWave",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mississippi",
-          "url": "https://twitter.com/search?q=Mississippi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ukraine",
-          "url": "https://twitter.com/search?q=Ukraine",
-          "tweet_count": ""
-        },
-        {
-          "name": "Greg Abbott",
-          "url": "https://twitter.com/search?q=Greg%20Abbott",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Elections2026",
-          "url": "https://twitter.com/search?q=%23Elections2026",
-          "tweet_count": ""
-        },
-        {
-          "name": "Latvia",
-          "url": "https://twitter.com/search?q=Latvia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Georgia",
-          "url": "https://twitter.com/search?q=Georgia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jets",
-          "url": "https://twitter.com/search?q=Jets",
-          "tweet_count": ""
-        },
-        {
-          "name": "Veto",
-          "url": "https://twitter.com/search?q=Veto",
-          "tweet_count": ""
-        },
-        {
-          "name": "Roma",
-          "url": "https://twitter.com/search?q=Roma",
-          "tweet_count": ""
-        },
-        {
-          "name": "Talarico",
-          "url": "https://twitter.com/search?q=Talarico",
-          "tweet_count": ""
-        },
-        {
-          "name": "Epstein",
-          "url": "https://twitter.com/search?q=Epstein",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fowler",
-          "url": "https://twitter.com/search?q=Fowler",
-          "tweet_count": ""
-        },
-        {
-          "name": "Susan Collins",
-          "url": "https://twitter.com/search?q=Susan%20Collins",
-          "tweet_count": ""
-        },
-        {
-          "name": "Guam",
-          "url": "https://twitter.com/search?q=Guam",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Tsunami",
-          "url": "https://twitter.com/search?q=Blue%20Tsunami",
-          "tweet_count": ""
-        },
-        {
-          "name": "Schumer",
-          "url": "https://twitter.com/search?q=Schumer",
-          "tweet_count": ""
-        },
-        {
-          "name": "As a Canadian",
-          "url": "https://twitter.com/search?q=As%20a%20Canadian",
-          "tweet_count": ""
-        },
-        {
-          "name": "Abdul",
-          "url": "https://twitter.com/search?q=Abdul",
-          "tweet_count": ""
-        },
-        {
-          "name": "#GMMTVNEXT",
-          "url": "https://twitter.com/search?q=%23GMMTVNEXT",
-          "tweet_count": ""
-        },
-        {
-          "name": "Rupa",
-          "url": "https://twitter.com/search?q=Rupa",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jeffries",
-          "url": "https://twitter.com/search?q=Jeffries",
-          "tweet_count": ""
-        },
-        {
-          "name": "The GOP",
-          "url": "https://twitter.com/search?q=The%20GOP",
-          "tweet_count": ""
-        },
-        {
-          "name": "Bauer",
-          "url": "https://twitter.com/search?q=Bauer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xhekaj",
-          "url": "https://twitter.com/search?q=Xhekaj",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cunha",
-          "url": "https://twitter.com/search?q=Cunha",
-          "tweet_count": ""
-        },
-        {
-          "name": "AIPAC",
-          "url": "https://twitter.com/search?q=AIPAC",
-          "tweet_count": ""
-        },
-        {
-          "name": "Annie Andrews",
-          "url": "https://twitter.com/search?q=Annie%20Andrews",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fox News",
-          "url": "https://twitter.com/search?q=Fox%20News",
-          "tweet_count": ""
-        },
-        {
-          "name": "White House",
-          "url": "https://twitter.com/search?q=White%20House",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lame Duck",
-          "url": "https://twitter.com/search?q=Lame%20Duck",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Wed Nov 04 2026 11:54:23 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1793793263.298,
-      "trends": [
-        {
-          "name": "Texas",
-          "url": "https://twitter.com/search?q=Texas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Democrats",
-          "url": "https://twitter.com/search?q=Democrats",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republicans",
-          "url": "https://twitter.com/search?q=Republicans",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trump",
-          "url": "https://twitter.com/search?q=Trump",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dems",
-          "url": "https://twitter.com/search?q=Dems",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Midterms2026",
-          "url": "https://twitter.com/search?q=%23Midterms2026",
-          "tweet_count": ""
-        },
-        {
-          "name": "America",
-          "url": "https://twitter.com/search?q=America",
-          "tweet_count": ""
-        },
-        {
-          "name": "America",
-          "url": "https://twitter.com/search?q=America",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senate",
-          "url": "https://twitter.com/search?q=Senate",
-          "tweet_count": ""
-        },
-        {
-          "name": "Iran",
-          "url": "https://twitter.com/search?q=Iran",
-          "tweet_count": ""
-        },
-        {
-          "name": "MAGA",
-          "url": "https://twitter.com/search?q=MAGA",
-          "tweet_count": ""
-        },
-        {
-          "name": "Florida",
-          "url": "https://twitter.com/search?q=Florida",
-          "tweet_count": ""
-        },
-        {
-          "name": "South Carolina",
-          "url": "https://twitter.com/search?q=South%20Carolina",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kansas",
-          "url": "https://twitter.com/search?q=Kansas",
-          "tweet_count": ""
-        },
-        {
-          "name": "#USElections",
-          "url": "https://twitter.com/search?q=%23USElections",
-          "tweet_count": ""
-        },
-        {
-          "name": "Russia",
-          "url": "https://twitter.com/search?q=Russia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ohio",
-          "url": "https://twitter.com/search?q=Ohio",
-          "tweet_count": ""
-        },
-        {
-          "name": "#BlueWave",
-          "url": "https://twitter.com/search?q=%23BlueWave",
-          "tweet_count": ""
-        },
-        {
-          "name": "Michigan",
-          "url": "https://twitter.com/search?q=Michigan",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mississippi",
-          "url": "https://twitter.com/search?q=Mississippi",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ukraine",
-          "url": "https://twitter.com/search?q=Ukraine",
-          "tweet_count": ""
-        },
-        {
-          "name": "Greg Abbott",
-          "url": "https://twitter.com/search?q=Greg%20Abbott",
-          "tweet_count": ""
-        },
-        {
-          "name": "Congress",
-          "url": "https://twitter.com/search?q=Congress",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Elections2026",
-          "url": "https://twitter.com/search?q=%23Elections2026",
-          "tweet_count": ""
-        },
-        {
-          "name": "Latvia",
-          "url": "https://twitter.com/search?q=Latvia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jets",
-          "url": "https://twitter.com/search?q=Jets",
-          "tweet_count": ""
-        },
-        {
-          "name": "Georgia",
-          "url": "https://twitter.com/search?q=Georgia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Veto",
-          "url": "https://twitter.com/search?q=Veto",
-          "tweet_count": ""
-        },
-        {
-          "name": "Talarico",
-          "url": "https://twitter.com/search?q=Talarico",
-          "tweet_count": ""
-        },
-        {
-          "name": "Roma",
-          "url": "https://twitter.com/search?q=Roma",
-          "tweet_count": ""
-        },
-        {
-          "name": "Guam",
-          "url": "https://twitter.com/search?q=Guam",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fowler",
-          "url": "https://twitter.com/search?q=Fowler",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Tsunami",
-          "url": "https://twitter.com/search?q=Blue%20Tsunami",
-          "tweet_count": ""
-        },
-        {
-          "name": "Susan Collins",
-          "url": "https://twitter.com/search?q=Susan%20Collins",
-          "tweet_count": ""
-        },
-        {
-          "name": "As a Canadian",
-          "url": "https://twitter.com/search?q=As%20a%20Canadian",
-          "tweet_count": ""
-        },
-        {
-          "name": "#GMMTVNEXT",
-          "url": "https://twitter.com/search?q=%23GMMTVNEXT",
-          "tweet_count": ""
-        },
-        {
-          "name": "Schumer",
-          "url": "https://twitter.com/search?q=Schumer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Abdul",
-          "url": "https://twitter.com/search?q=Abdul",
-          "tweet_count": ""
-        },
-        {
-          "name": "Bauer",
-          "url": "https://twitter.com/search?q=Bauer",
-          "tweet_count": ""
-        },
-        {
-          "name": "White House",
-          "url": "https://twitter.com/search?q=White%20House",
-          "tweet_count": ""
-        },
-        {
-          "name": "Epstein",
-          "url": "https://twitter.com/search?q=Epstein",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jeffries",
-          "url": "https://twitter.com/search?q=Jeffries",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cunha",
-          "url": "https://twitter.com/search?q=Cunha",
-          "tweet_count": ""
-        },
-        {
-          "name": "The GOP",
-          "url": "https://twitter.com/search?q=The%20GOP",
-          "tweet_count": ""
-        },
-        {
-          "name": "Annie Andrews",
-          "url": "https://twitter.com/search?q=Annie%20Andrews",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xhekaj",
-          "url": "https://twitter.com/search?q=Xhekaj",
-          "tweet_count": ""
-        },
-        {
-          "name": "Iggy",
-          "url": "https://twitter.com/search?q=Iggy",
-          "tweet_count": ""
-        },
-        {
-          "name": "HEAR CONSCRIPTS",
-          "url": "https://twitter.com/search?q=HEAR%20CONSCRIPTS",
-          "tweet_count": ""
-        },
-        {
-          "name": "Election Day",
-          "url": "https://twitter.com/search?q=Election%20Day",
-          "tweet_count": ""
-        },
-        {
-          "name": "Darline Graham",
-          "url": "https://twitter.com/search?q=Darline%20Graham",
-          "tweet_count": ""
-        }
-      ]
-    },
-    {
-      "time": "Wed Nov 04 2026 11:03:27 GMT+0000 (Coordinated Universal Time)",
-      "epoch": 1793790207.326,
-      "trends": [
-        {
-          "name": "Texas",
-          "url": "https://twitter.com/search?q=Texas",
-          "tweet_count": ""
-        },
-        {
-          "name": "Democrats",
-          "url": "https://twitter.com/search?q=Democrats",
-          "tweet_count": ""
-        },
-        {
-          "name": "Republicans",
-          "url": "https://twitter.com/search?q=Republicans",
-          "tweet_count": ""
-        },
-        {
-          "name": "Dems",
-          "url": "https://twitter.com/search?q=Dems",
-          "tweet_count": ""
-        },
-        {
-          "name": "Trump",
-          "url": "https://twitter.com/search?q=Trump",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Midterms2026",
-          "url": "https://twitter.com/search?q=%23Midterms2026",
-          "tweet_count": ""
-        },
-        {
-          "name": "America",
-          "url": "https://twitter.com/search?q=America",
-          "tweet_count": ""
-        },
-        {
-          "name": "Senate",
-          "url": "https://twitter.com/search?q=Senate",
-          "tweet_count": ""
-        },
-        {
-          "name": "Iran",
-          "url": "https://twitter.com/search?q=Iran",
-          "tweet_count": ""
-        },
-        {
-          "name": "Florida",
-          "url": "https://twitter.com/search?q=Florida",
-          "tweet_count": ""
-        },
-        {
-          "name": "MAGA",
-          "url": "https://twitter.com/search?q=MAGA",
-          "tweet_count": ""
-        },
-        {
-          "name": "South Carolina",
-          "url": "https://twitter.com/search?q=South%20Carolina",
-          "tweet_count": ""
-        },
-        {
-          "name": "Kansas",
-          "url": "https://twitter.com/search?q=Kansas",
-          "tweet_count": ""
-        },
-        {
-          "name": "#USElections",
-          "url": "https://twitter.com/search?q=%23USElections",
-          "tweet_count": ""
-        },
-        {
-          "name": "Russia",
-          "url": "https://twitter.com/search?q=Russia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ohio",
-          "url": "https://twitter.com/search?q=Ohio",
-          "tweet_count": ""
-        },
-        {
-          "name": "Mississippi",
-          "url": "https://twitter.com/search?q=Mississippi",
-          "tweet_count": ""
-        },
-        {
-          "name": "#BlueWave",
-          "url": "https://twitter.com/search?q=%23BlueWave",
-          "tweet_count": ""
-        },
-        {
-          "name": "Ukraine",
-          "url": "https://twitter.com/search?q=Ukraine",
-          "tweet_count": ""
-        },
-        {
-          "name": "Greg Abbott",
-          "url": "https://twitter.com/search?q=Greg%20Abbott",
-          "tweet_count": ""
-        },
-        {
-          "name": "Latvia",
-          "url": "https://twitter.com/search?q=Latvia",
-          "tweet_count": ""
-        },
-        {
-          "name": "#Elections2026",
-          "url": "https://twitter.com/search?q=%23Elections2026",
-          "tweet_count": ""
-        },
-        {
-          "name": "Jets",
-          "url": "https://twitter.com/search?q=Jets",
-          "tweet_count": ""
-        },
-        {
-          "name": "Georgia",
-          "url": "https://twitter.com/search?q=Georgia",
-          "tweet_count": ""
-        },
-        {
-          "name": "Roma",
-          "url": "https://twitter.com/search?q=Roma",
-          "tweet_count": ""
-        },
-        {
-          "name": "Talarico",
-          "url": "https://twitter.com/search?q=Talarico",
-          "tweet_count": ""
-        },
-        {
-          "name": "Veto",
-          "url": "https://twitter.com/search?q=Veto",
-          "tweet_count": ""
-        },
-        {
-          "name": "Congress",
-          "url": "https://twitter.com/search?q=Congress",
-          "tweet_count": ""
-        },
-        {
-          "name": "#GMMTVNEXT",
-          "url": "https://twitter.com/search?q=%23GMMTVNEXT",
-          "tweet_count": ""
-        },
-        {
-          "name": "Fowler",
-          "url": "https://twitter.com/search?q=Fowler",
-          "tweet_count": ""
-        },
-        {
-          "name": "Susan Collins",
-          "url": "https://twitter.com/search?q=Susan%20Collins",
-          "tweet_count": ""
-        },
-        {
-          "name": "Guam",
-          "url": "https://twitter.com/search?q=Guam",
-          "tweet_count": ""
-        },
-        {
-          "name": "Blue Tsunami",
-          "url": "https://twitter.com/search?q=Blue%20Tsunami",
-          "tweet_count": ""
-        },
-        {
-          "name": "Abdul",
-          "url": "https://twitter.com/search?q=Abdul",
-          "tweet_count": ""
-        },
-        {
-          "name": "Bauer",
-          "url": "https://twitter.com/search?q=Bauer",
-          "tweet_count": ""
-        },
-        {
-          "name": "As a Canadian",
-          "url": "https://twitter.com/search?q=As%20a%20Canadian",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lambert",
-          "url": "https://twitter.com/search?q=Lambert",
-          "tweet_count": ""
-        },
-        {
-          "name": "Schumer",
-          "url": "https://twitter.com/search?q=Schumer",
-          "tweet_count": ""
-        },
-        {
-          "name": "Cunha",
-          "url": "https://twitter.com/search?q=Cunha",
-          "tweet_count": ""
-        },
-        {
-          "name": "Xhekaj",
-          "url": "https://twitter.com/search?q=Xhekaj",
-          "tweet_count": ""
-        },
-        {
-          "name": "HEAR CONSCRIPTS",
-          "url": "https://twitter.com/search?q=HEAR%20CONSCRIPTS",
-          "tweet_count": ""
-        },
-        {
-          "name": "Annie Andrews",
-          "url": "https://twitter.com/search?q=Annie%20Andrews",
-          "tweet_count": ""
-        },
-        {
-          "name": "Lankinen",
-          "url": "https://twitter.com/search?q=Lankinen",
-          "tweet_count": ""
-        },
-        {
-          "name": "The GOP",
-          "url": "https://twitter.com/search?q=The%20GOP",
-          "tweet_count": ""
-        },
-        {
-          "name": "Election Day",
-          "url": "https://twitter.com/search?q=Election%20Day",
-          "tweet_count": ""
-        },
-        {
-          "name": "Iggy",
-          "url": "https://twitter.com/search?q=Iggy",
-          "tweet_count": ""
-        },
-        {
-          "name": "Hockey Canada",
-          "url": "https://twitter.com/search?q=Hockey%20Canada",
-          "tweet_count": ""
-        },
-        {
-          "name": "Paxton",
-          "url": "https://twitter.com/search?q=Paxton",
-          "tweet_count": ""
-        },
-        {
-          "name": "Darline Graham",
-          "url": "https://twitter.com/search?q=Darline%20Graham",
-          "tweet_count": ""
-        },
-        {
-          "name": "Epstein",
-          "url": "https://twitter.com/search?q=Epstein",
-          "tweet_count": ""
-        }
-      ]
     }
   ],
   "google": [
     {
-      "keyword": "kyrie irving",
+      "keyword": "michio hoshino",
       "traffic": "100+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSh5yiAi9-ElKTCMf_oFGmczootz1fPlO-0WWxVTNHRsogVF9XSsOqZhMQbeqw",
-      "picture_source": "ESPN",
-      "pub_date": "Wed, 4 Nov 2026 21:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR79n_I7WALzByILVucf09BB_EoNe4eQgb6qCHPcI0NTcdJSWlp3d6L1EnFfxM",
+      "picture_source": "https://gnyouth.net/",
+      "pub_date": "Thu, 5 Nov 2026 05:20:00 -0800",
       "news": [
         {
-          "title": "Wednesday's fantasy hoops adds, NBA bets to make: Jerome, Maxey bets stand out",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50379954/fantasy-basketball-tips-nba-betting-picks-today",
-          "source": "ESPN",
+          "title": "Wildlife photographer's fatal final decision before he was mauled to death by bear as he slept",
+          "url": "https://gnyouth.net/wildlife-photographers-fatal-final-decision-before-he-was-mauled-to-death-by-bear-as-he-slept/",
+          "source": "https://gnyouth.net/",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSh5yiAi9-ElKTCMf_oFGmczootz1fPlO-0WWxVTNHRsogVF9XSsOqZhMQbeqw"
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR79n_I7WALzByILVucf09BB_EoNe4eQgb6qCHPcI0NTcdJSWlp3d6L1EnFfxM"
         },
         {
-          "title": "NBA Predictions and Moneyline Picks: Wednesday, Nov. 4",
-          "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-4-2026",
-          "source": "Covers.com",
+          "title": "Wildlife photographer's fatal final decision before he was mauled to death by bear as he slept",
+          "url": "https://www.dailystar.co.uk/news/world-news/wildlife-photographers-fatal-final-decision-37828275",
+          "source": "Daily Star",
           "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpon85je9Ok2amCAtKhOo_V0o1zVdQSyh3owo500NNacJJ-RvVxvvlC8033s"
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTujAr8BKIGlgUc9pz5exp5KIASdWz4_2pj0_HUn4wdJhc7IcMtUv47t-5Qz8s"
         },
         {
-          "title": "NBA Props Today: 4 Best NBA Player Prop Bets for Wednesday, Nov. 4",
-          "url": "https://www.fanduel.com/research/nba-props-today-player-prop-bets-wednesday-nov-4",
-          "source": "FanDuel",
+          "title": "Bear devoured wildlife photographer just feet from his colleagues",
+          "url": "https://www.examinerlive.co.uk/news/uk-world-news/bear-devoured-wildlife-photographer-just-34850398",
+          "source": "Yorkshire Live",
           "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB4a4lXHfMGPhA-kscSzhpgzSZJxgR0r9PeBZpKVvgpxdmE_ZFsVuysfoTc6E"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBi2XzK82yc8YqKUvGqPqr6Dpyoeaar1aUDNKg90KhiddTzhFeaX9gGBj0DNc"
         }
       ]
     },
     {
-      "keyword": "dylan harper",
-      "traffic": "100+",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHoR0crQ4aMTk7XjRg-mkIIC_6XS6ulhSR7M_D5fcgykHYuJ4t9rTg3hX27e8",
-      "picture_source": "San Antonio Express-News",
-      "pub_date": "Wed, 4 Nov 2026 21:10:00 -0800",
-      "news": [
-        {
-          "title": "‘Not sustainable’: Kenny Smith raises concerns about Spurs three-guard lineup",
-          "url": "https://www.expressnews.com/news/article/kenny-smith-spurs-lineup-22513176.php",
-          "source": "San Antonio Express-News",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHoR0crQ4aMTk7XjRg-mkIIC_6XS6ulhSR7M_D5fcgykHYuJ4t9rTg3hX27e8"
-        },
-        {
-          "title": "Dylan Harper surprises fans at Spurs’ Filipino Heritage Night",
-          "url": "https://usa.inquirer.net/213916/dylan-harper-surprises-fans-at-spurs-filipino-heritage-night",
-          "source": "INQUIRER.net USA",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9IihtQcpp9pk35oUCbREArbQD7RSY7Y_Lvy1vnT13YvKfts2fQ3Axb5xkETw"
-        },
-        {
-          "title": "Dylan Harper brings adobo, rice to San Antonio Spurs game",
-          "url": "https://fastbreak.com.ph/dylan-harper-brings-adobo-rice-to-san-antonio-spurs-game/sports-galore/",
-          "source": "FASTBREAK.com.ph",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWz4G6nmrJRjSjlCxdebWtnu6LPX4Zx5hCLkrIQd6P6tiIrjBDILhtNppk5Y4"
-        }
-      ]
-    },
-    {
-      "keyword": "macklin celebrini",
-      "traffic": "200+",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcVz5bRpACacWagsBTRZO9PnH6cnk3MbrydUoHZCpswFOkz90-N7BuAhzUu3o",
-      "picture_source": "Daily Democrat",
-      "pub_date": "Wed, 4 Nov 2026 21:00:00 -0800",
-      "news": [
-        {
-          "title": "Why Macklin Celebrini believes the Sharks’ scoring slump will end soon",
-          "url": "https://www.dailydemocrat.com/2026/11/03/macklin-celebrini-san-jose-sharks-los-angeles-kings-ryan-warsofsky/",
-          "source": "Daily Democrat",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcVz5bRpACacWagsBTRZO9PnH6cnk3MbrydUoHZCpswFOkz90-N7BuAhzUu3o"
-        },
-        {
-          "title": "Sharks falling well below expectations early this season",
-          "url": "https://www.dailyfaceoff.com/news/san-jose-sharks-falling-well-below-expectations-early-nhl-season-celebrini-playoffs-news",
-          "source": "Daily Faceoff",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmC94QUUnEyOszUON_3W_-JcasNeDbLMu8kXl9PM_yX_YR2Rrzgel43UPiECY"
-        },
-        {
-          "title": "Should The San Jose Sharks Be Concerned About Their Offense? :The Hockey News Wraparound",
-          "url": "https://ca.sports.yahoo.com/news/san-jose-sharks-concerned-offense-212335161.html",
-          "source": "Yahoo",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQemx2A_q4lAUDU4tQ0ivO2K5APh--_Ggp2ZZPoVc5RmOBgqm_uhZzt2ml4QqY"
-        }
-      ]
-    },
-    {
-      "keyword": "bryce hopkins",
-      "traffic": "100+",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDUiks20v6wT5Bd3bjjXO2CKZN1tx0RmiEOMcy_54_8BrE_O5sFHTUfBlFK48",
-      "picture_source": "Thunderous Intentions",
-      "pub_date": "Wed, 4 Nov 2026 21:00:00 -0800",
-      "news": [
-        {
-          "title": "Recent Thunder additions should only benefit Ajay Mitchell's offensive punch",
-          "url": "https://thunderousintentions.com/okc-thunder-recent-additions-should-only-benefit-ajay-mitchell-offensive",
-          "source": "Thunderous Intentions",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDUiks20v6wT5Bd3bjjXO2CKZN1tx0RmiEOMcy_54_8BrE_O5sFHTUfBlFK48"
-        },
-        {
-          "title": "Bryce Hopkins with 18 in 27 minutes off the bench",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-04/bryce-hopkins-with-18-in-27-minutes-off-the-bench",
-          "source": "NBC Sports",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5WzrV1kTBW9pJwZcWQPvXqtHKGyNfzZ_h06yoyKsfzFLVvuDjoUDW-8PvRDw"
-        },
-        {
-          "title": "Thunder Guard Projected To Be All-Star This Season Due To Jalen Williams Injury",
-          "url": "https://heavy.com/sports/nba/oklahoma-city-thunder/all-star-due-to-jalen-williams-injury/",
-          "source": "Heavy.com",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqLqyCYD0na-gqii3lKB_yz9HnE68wpVGIRfhWYWqeeIq1wZo-k8w3KUsFuo4"
-        }
-      ]
-    },
-    {
-      "keyword": "burnaby school district",
-      "traffic": "200+",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgHWuAnC7q0jDX7ZQXEtd2Rt5IydVU3XWct398DkuPLZnKm_If3Owtq2PjHAM",
-      "picture_source": "CBC",
-      "pub_date": "Wed, 4 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "Russian hacker group claims to have posted B.C. school district information on dark web",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/qilin-burnaby-school-ransomware-9.7409539",
-          "source": "CBC",
-          "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgHWuAnC7q0jDX7ZQXEtd2Rt5IydVU3XWct398DkuPLZnKm_If3Owtq2PjHAM"
-        },
-        {
-          "title": "Burnaby School District confirms student and staff’s personal information may have been published on dark web",
-          "url": "https://globalnews.ca/video/12137465/burnaby-school-district-confirms-student-and-staffs-personal-information-may-have-been-published-on-dark-web/",
-          "source": "Global News",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIaFEOkT1kuj5QEjzLnGT0GsyjisAatTQkhAkWtZ9JxqcWUXCFmYIFzuIVCbE"
-        },
-        {
-          "title": "Russian cybercrime syndicate allegedly behind hack of Burnaby School District",
-          "url": "https://www.cbc.ca/player/play/video/9.7410087",
-          "source": "CBC",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfjMjao1v3vzGYQYZU-d8WQ8Licqc3--Iw8NpdfYPm8hkCxeAjHWCo5Tom69A"
-        }
-      ]
-    },
-    {
-      "keyword": "wemby",
-      "traffic": "100+",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8Xj0_izstoUg2gl8vC04B7IsWAhmTxQzfDWPDXv99x_Etx0ug1Jy9Wv09ew",
-      "picture_source": "WOAI",
-      "pub_date": "Wed, 4 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "Cape, swords and potions: Wembanyama shows off his most complex Halloween costume yet",
-          "url": "https://news4sanantonio.com/sports/spurs-zone/cape-swords-and-potions-wembanyama-shows-off-his-most-complex-halloween-costume-yet",
-          "source": "WOAI",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8Xj0_izstoUg2gl8vC04B7IsWAhmTxQzfDWPDXv99x_Etx0ug1Jy9Wv09ew"
-        },
-        {
-          "title": "Introducing @wemby as Geralt from The Witcher",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/01/introducing-wemby-as-geralt-from-the-witcher/92547484007/",
-          "source": "HoopsHype",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaglHxWQfUvU90Yo1K8Jm922NzsRF0JnA63ffwtyEMnHocqQdO2HzXHQKY9no"
-        },
-        {
-          "title": "This is the Spurs' first home game on Halloween since …",
-          "url": "https://ca.sports.yahoo.com/news/spurs-first-home-game-halloween-000856387.html",
-          "source": "Yahoo",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRp-55Exw1IjAoBpJJr4OmlR5zb7rl7QgeckTWNe-9fHlZroCr6IrjDp801n30"
-        }
-      ]
-    },
-    {
-      "keyword": "class action",
-      "traffic": "100+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQflr56zARFSjJlCDGUMDzJKIVUGPPoCVzAv8_LUoOjgbKfltapd9oHfiXUjxc",
-      "picture_source": "Global News",
-      "pub_date": "Wed, 4 Nov 2026 20:50:00 -0800",
-      "news": [
-        {
-          "title": "McDonald’s McRib class action lawsuit moves forward over ‘deceptive’ meat",
-          "url": "https://globalnews.ca/news/12130256/mcdonalds-mcrib-class-action-lawsuit-deceptive-meat/",
-          "source": "Global News",
-          "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQflr56zARFSjJlCDGUMDzJKIVUGPPoCVzAv8_LUoOjgbKfltapd9oHfiXUjxc"
-        },
-        {
-          "title": "McDonald’s must face lawsuit over McRib, U.S. judge rules",
-          "url": "https://www.cp24.com/news/world/2026/11/03/mcdonalds-must-face-lawsuit-over-mcrib-us-judge-rules/",
-          "source": "CP24",
-          "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyytwgcUuRtylsEGzVObjqmoALiTb3Q37tZwfIRBR866U-0-fAePOroq0DPaI"
-        },
-        {
-          "title": "McDonald's facing possible class action lawsuit over 'lower-grade' McRib ingredients",
-          "url": "https://ca.news.yahoo.com/mcdonalds-facing-possible-class-action-172658188.html",
-          "source": "Yahoo News Canada",
-          "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkRqpSMVKpH1bYVejfdF9FoX_pd_riuE3lygNm8E22IIgyCjziy7vv5WteFYk"
-        }
-      ]
-    },
-    {
-      "keyword": "victor wembanyama",
+      "keyword": "legend of zelda ocarina of time",
       "traffic": "500+",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjBq6NGiPSM9yAAmL2SB_OtgKW9G1bPTtjrx2IAme2zt8lWADhUsAtvPOryPs",
-      "picture_source": "USA Today",
-      "pub_date": "Wed, 4 Nov 2026 20:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkcAKWb46616_8iFzCYX5QO7Lj0QdzAb0bDNo5OU28T5uKkOfG1dUXr0r3F5w",
+      "picture_source": "The Guardian",
+      "pub_date": "Thu, 5 Nov 2026 05:20:00 -0800",
       "news": [
         {
-          "title": "Victor Wembanyama stats tonight must be seen to be believed: Spurs star's incredible box score",
-          "url": "https://www.usatoday.com/story/sports/nba/2026/11/04/victor-wembanyama-stats-tonight-mavericks-spurs-box-score/92620803007/",
+          "title": "The Legend of Zelda: Ocarina of Time review – a dream come true",
+          "url": "https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
+          "source": "The Guardian",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkcAKWb46616_8iFzCYX5QO7Lj0QdzAb0bDNo5OU28T5uKkOfG1dUXr0r3F5w"
+        },
+        {
+          "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
+          "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
+          "source": "WIRED",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMjAxn0J4swqRbydq5JpQ0j6xw8BgQwRZBXEHqX4hN_OOkkyf_trE1cyKAmg"
+        },
+        {
+          "title": "PHOTOS: Legend of Zelda Fans Take Over Toronto for Midnight Launch of The Legend of Zelda: Ocarina of Time",
+          "url": "https://www.newswire.ca/news-releases/photos-legend-of-zelda-fans-take-over-toronto-for-midnight-launch-of-the-legend-of-zelda-ocarina-of-time-876659805.html",
+          "source": "PR Newswire Canada",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbXmjGWFd_9GKgGJn3xTFOsF9gR2b0Pj7MUgLFk1roTOfpmyjkg5PwlZ-_r98"
+        }
+      ]
+    },
+    {
+      "keyword": "hawaiian pizza",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrjHl7flbmctR0yeASdrW1FGpScnvPXRSyrWMSY4U3PXa_wMrOLJFo6c4RlUw",
+      "picture_source": "BBC",
+      "pub_date": "Thu, 5 Nov 2026 05:20:00 -0800",
+      "news": [
+        {
+          "title": "Italian chef fired after refusing to put pineapple on pizza",
+          "url": "https://www.bbc.com/news/articles/cx4g1qy6gq9mo",
+          "source": "BBC",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrjHl7flbmctR0yeASdrW1FGpScnvPXRSyrWMSY4U3PXa_wMrOLJFo6c4RlUw"
+        },
+        {
+          "title": "‘An insult to his culture’: Italian chef sacked for not putting pineapple on pizza loses bid to get job back",
+          "url": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work",
+          "source": "The Guardian",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCMm8iGaISI2nnE8vVhKaw9_6dud6o6CFDyp1Ejl1CU05lOeSiXR5vX2gQcyk"
+        },
+        {
+          "title": "Italian chef sacked for refusing to put pineapple on pizza won’t get his job back",
+          "url": "https://www.independent.co.uk/news/world/australasia/italian-chef-pineapple-pizza-brisbane-b3079668.html",
+          "source": "The Independent",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4r_b97ZHpSP2tKgAaJ1OXBwVrK3QjAH1X4u1fEGV3heJLg9iEOj_jJpVd7xA"
+        }
+      ]
+    },
+    {
+      "keyword": "melania trump",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxFBnIaJ3Pr1xv02jP7-8uEP58T14F5uERM70-CQwpDlLUPNLAWmN95xa3oc",
+      "picture_source": "CBC",
+      "pub_date": "Thu, 5 Nov 2026 05:00:00 -0800",
+      "news": [
+        {
+          "title": "Melania Trump is preparing to host officials from Russia and Ukraine. Just what's behind her peace push?",
+          "url": "https://www.cbc.ca/news/world/melania-trump-oleshky-ceasefire-meeting-9.7409316",
+          "source": "CBC",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxFBnIaJ3Pr1xv02jP7-8uEP58T14F5uERM70-CQwpDlLUPNLAWmN95xa3oc"
+        },
+        {
+          "title": "Melania Trump to bring Russian and Ukrainian representatives to White House this week | CNN Politics",
+          "url": "https://edition.cnn.com/2026/11/03/politics/melania-trump-russia-ukraine",
+          "source": "CNN",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFOB6xR8kmxz2fJeAHsUgKebilHqSxVAbfAspOvmXic6LucaIV5upoW7gja5s"
+        },
+        {
+          "title": "Russia's Dmitriev in Washington for first US contact since Trump's midterm setback",
+          "url": "https://www.reuters.com/world/asia-pacific/russias-dmitriev-washington-first-us-contact-since-trumps-midterm-setback-2026-11-05/",
+          "source": "Reuters",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-VAi_ybPPK6Abcp77Vq_xHYiEHLPCEIUNK47DJWhs1DFU-JlWkl2P2bPrs4o"
+        }
+      ]
+    },
+    {
+      "keyword": "ben shelton",
+      "traffic": "200+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTl5x0Km4IoOTTscPGQcGnaVNfB1rR_hHHlj-oNNd4GbYCTXOpQzpRZb_fi7Bo",
+      "picture_source": "BBC",
+      "pub_date": "Thu, 5 Nov 2026 04:40:00 -0800",
+      "news": [
+        {
+          "title": "Juan Carlos Ferrero: Ben Shelton appoints Carlos Alcaraz's former coach - will it work?",
+          "url": "https://www.bbc.com/sport/tennis/articles/crz654jdzdqpo",
+          "source": "BBC",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTl5x0Km4IoOTTscPGQcGnaVNfB1rR_hHHlj-oNNd4GbYCTXOpQzpRZb_fi7Bo"
+        },
+        {
+          "title": "Tennis Mailbag: Will Ben Shelton and Juan Carlos Ferrero Be a Perfect Match?",
+          "url": "https://www.si.com/tennis/tennis-mailbag-will-ben-shelton-juan-carlos-ferrero-perfect-match",
+          "source": "Sports Illustrated",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7nz8fF9yxV1QpNYZDe-qq3QArARIdkqJv8Wfkk640TqdSG0TZKWtQ3WR8VE"
+        },
+        {
+          "title": "John Isner predicts how Carlos Alcaraz may react to Ben Shelton's new coach",
+          "url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171177/john-isner-predicts-how-carlos-alcaraz-may-react-to-ben-shelton-s-new-coach/",
+          "source": "Tennis World USA",
+          "snippet": "",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yAVjDCm7x9jnisxkn_TwKMCXMapTNJNU0VbB5R_GEAn5q1sKKngFGZxegbs"
+        }
+      ]
+    },
+    {
+      "keyword": "donald trump mi mandat",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw3SQVepJHJ5tn_nrDhBSt8-rydgVzqtvO2ceFgYYkVCpd_HsxU6QR1snegZ4",
+      "picture_source": "La Presse",
+      "pub_date": "Thu, 5 Nov 2026 04:40:00 -0800",
+      "news": [
+        {
+          "title": "Élections de mi-mandat | Le vote de l’indignation",
+          "url": "https://www.lapresse.ca/international/chroniques/2026-11-05/elections-de-mi-mandat/le-vote-de-l-indignation.php",
+          "source": "La Presse",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw3SQVepJHJ5tn_nrDhBSt8-rydgVzqtvO2ceFgYYkVCpd_HsxU6QR1snegZ4"
+        },
+        {
+          "title": "Donald Trump plombé par la défaite, les démocrates en ordre de marche",
+          "url": "https://www.tvanouvelles.ca/2026/11/05/donald-trump-plombe-par-la-defaite-les-democrates-en-ordre-de-marche",
+          "source": "TVA Nouvelles",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSc3iUynbnuIQgJBSPVE87sj3tRcBrkALc_ZqpNUAkb8IpX9ZG5J8Ked5xkkYo"
+        },
+        {
+          "title": "Le Canada devra se méfier aussi des démocrates",
+          "url": "https://www.journaldemontreal.com/2026/11/05/le-canada-devra-se-mefier-aussi-des-democrates",
+          "source": "Le Journal de Montréal",
+          "snippet": "",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq89ub6KzOQhIj0pzG6NcMfo6LLX4PLHfp_8ObWPLiq_FIt_CWMXVeWPAw10Q"
+        }
+      ]
+    },
+    {
+      "keyword": "charles porter",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSq7Zkw3Hcpr9PrGkZB5ijLxiX04bR230oajvje5ZkVBsEU7tgN7Rb0CklxnV8",
+      "picture_source": "USA Today",
+      "pub_date": "Thu, 5 Nov 2026 04:40:00 -0800",
+      "news": [
+        {
+          "title": "'Wendell Scott' star Charles F. Porter dies at 47 after cancer battle",
+          "url": "https://www.usatoday.com/story/entertainment/movies/2026/11/04/charles-f-porter-dead-cancer-battle/92619942007/",
           "source": "USA Today",
           "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjBq6NGiPSM9yAAmL2SB_OtgKW9G1bPTtjrx2IAme2zt8lWADhUsAtvPOryPs"
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSq7Zkw3Hcpr9PrGkZB5ijLxiX04bR230oajvje5ZkVBsEU7tgN7Rb0CklxnV8"
         },
         {
-          "title": "Victor Wembanyama rises to finish the alley-oop",
-          "url": "https://www.nba.com/watch/video/victor-wembanyama-rises-to-finish-the-alley-oop-16",
-          "source": "NBA.com",
+          "title": "Charles F. Porter, Actor and ‘Finding Faith’ Producer, Dies at 47",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/charles-porter-dead-finding-faith-duke-wendell-scott-1236748133/",
+          "source": "The Hollywood Reporter",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwpEkH6FP85BTuXOk_BYD8USCUDzU3PTL5PWFhKGxZEEqdp2n9Gim0I1bvKvE"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlXcBP_otjYdPf00wqyWgDPifq0arEckNnZxB_GlrdasK-uURanuvCkDlZC4"
         },
         {
-          "title": "There’s only been 3 players in Spurs history to have …",
-          "url": "https://sports.yahoo.com/articles/only-3-players-spurs-history-043557581.html",
-          "source": "Yahoo Sports",
+          "title": "Charles Porter Dies: ‘Finding Faith’ Producer & Actor Was 47",
+          "url": "https://deadline.com/2026/11/charles-porter-actor-dead-1237213861/",
+          "source": "Deadline",
           "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEAMTM-68Ipz2JdH3H2AOynUnQp9vtgeeg-5-BUgpW9lEN-lWRwgF6ki_p5Jk"
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJc6VsYQbLKJUi6p9FZ4Iz3gapDa1ipYp07MmvkSTtKy6aRojUVwpGCmuEDcc"
         }
       ]
     },
     {
-      "keyword": "adrian kempe",
+      "keyword": "bomb threat",
       "traffic": "100+",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwaABWbNr82PKnm4N2uD0Qd3wUE50c_9b-TxlhuTSC1lBht5gg1OatvSyq0SM",
-      "picture_source": "LA Kings Insider",
-      "pub_date": "Wed, 4 Nov 2026 20:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt3UTEeN0HCuBeAVvLLZxdkWUmBlwhb_eU3vMGGo9eZyHNoH73yFMNxydED1A",
+      "picture_source": "CBC",
+      "pub_date": "Thu, 5 Nov 2026 04:40:00 -0800",
       "news": [
         {
-          "title": "Notes on Kempe, Clarke, Turcotte, Fiala, Zuccarello as Kings practice in El Segundo",
-          "url": "https://lakingsinsider.com/2026/11/02/notes-on-kempe-clarke-turcotte-fiala-zuccarello-as-kings-practice-in-el-segundo/?utm_source=rss&utm_medium=rss&utm_campaign=notes-on-kempe-clarke-turcotte-fiala-zuccarello-as-kings-practice-in-el-segundo",
-          "source": "LA Kings Insider",
+          "title": "Bomb threats plague European air travel for 2nd time this week | CBC News",
+          "url": "https://www.cbc.ca/news/world/europe-bomb-threats-czechia-poland-france-9.7410169",
+          "source": "CBC",
           "snippet": "",
-          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwaABWbNr82PKnm4N2uD0Qd3wUE50c_9b-TxlhuTSC1lBht5gg1OatvSyq0SM"
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt3UTEeN0HCuBeAVvLLZxdkWUmBlwhb_eU3vMGGo9eZyHNoH73yFMNxydED1A"
         },
         {
-          "title": "Kings' Adrian Kempe: Returning to action",
-          "url": "https://www.cbssports.com/fantasy/hockey/news/kings-adrian-kempe-returning-to-action/",
-          "source": "CBS Sports",
+          "title": "Multiple flights diverted across Europe over bomb threats",
+          "url": "https://globalnews.ca/news/12137827/europe-flights-bomb-threat/",
+          "source": "Global News",
           "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt_Fy4SpLyXe6U5dQQoJZl0E8C4TABq7hY3EzUPT6vV9G4tGMJC2HjcsAJsAo"
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqzkm7bIAnaR-Q4dDHBMrr-80w1ITSnE9T4SVO_84GBu3Q8XYjFUOYHGhk-UQ"
         },
         {
-          "title": "West Notes: Kempe, Howard, Wild, O’Connor",
-          "url": "https://www.prohockeyrumors.com/2026/10/west-notes-kempe-howard-wild-oconnor.html",
-          "source": "Pro Hockey Rumors",
+          "title": "Plane bomb threats: Multiple flights in Europe hit by 'malicious hoax threats' - UK minister",
+          "url": "https://www.bbc.com/news/live/cwjdmnrg94ezt",
+          "source": "BBC",
           "snippet": "",
-          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv4_mgK4pUVoWvnREHpTXmGOhXzxLixZty1aCjK1D8ODFdKmUEwE15xmzV7Xw"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoeHDT8GfFISOBVWgb4KwNWNVH85VE9CNtjuTn82WjAAgZFSmf9FLfOiI-iFg"
         }
       ]
     },
     {
-      "keyword": "hm",
-      "traffic": "200+",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzSRKFHp22rLDP4GC2f65aCuDhquqe5XefIJsK1aA8P45Y7gxbtDUAz2gn1R8",
-      "picture_source": "Cosmopolitan",
-      "pub_date": "Wed, 4 Nov 2026 20:30:00 -0800",
+      "keyword": "one piece 1198",
+      "traffic": "100+",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4Bo63lBK4RJ-B0CMNyWI8tSeHV4m7u2zDrjUqmZnoDiJuk3__RKJ3GUZ9HY",
+      "picture_source": "Comic Book Resources",
+      "pub_date": "Thu, 5 Nov 2026 04:40:00 -0800",
       "news": [
         {
-          "title": "H&M’s Chocolate Brown Faux Fur Jacket Looks Way More Expensive Than It Is",
-          "url": "https://www.cosmopolitan.com/style-beauty/fashion/a74336884/h-m-faux-fur-jacket/",
-          "source": "Cosmopolitan",
+          "title": "One Piece Officially Appoints the Pirate King's Spear & Shield | Review",
+          "url": "https://www.cbr.com/one-piece-chapter-1197-sanji-conqueror-haki-shield/",
+          "source": "Comic Book Resources",
           "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzSRKFHp22rLDP4GC2f65aCuDhquqe5XefIJsK1aA8P45Y7gxbtDUAz2gn1R8"
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4Bo63lBK4RJ-B0CMNyWI8tSeHV4m7u2zDrjUqmZnoDiJuk3__RKJ3GUZ9HY"
         },
         {
-          "title": "H&M’s Chocolate Brown Faux Fur Jacket Looks Way More Expensive Than It Is",
-          "url": "https://ca.news.yahoo.com/h-m-chocolate-brown-faux-204248409.html",
-          "source": "Yahoo News Canada",
+          "title": "Almost 30 Years Later, One Piece Finally Gives Sanji the Power He Needed the Most",
+          "url": "https://comicbook.com/anime/feature/almost-30-years-later-one-piece-finally-gives-sanji-the-power-he-needed-the-most/",
+          "source": "ComicBook.com",
           "snippet": "",
-          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdJPMV4Ga3ZP2rou2IiNQVq8JZkqNzzGrhTAdplhy0_-cWDfuEH4bzZ3xP35w"
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEW3cGxUyRq---SjDJ_cMpvDtOb1V_pSxre-WHJdUk1OyXiz7Bwl7aTYeGESg"
         },
         {
-          "title": "Why You Might Be Interested In H & M Hennes & Mauritz AB (publ) (STO:HM B) For Its Upcoming Dividend",
-          "url": "https://simplywall.st/stocks/se/retail/sto-hm-b/h-m-hennes-mauritz-shares/news/why-you-might-be-interested-in-h-m-hennes-mauritz-ab-publ-st",
-          "source": "Simply Wall St",
+          "title": "One Piece Chapter 1198 spoilers: Luffy's feral new form debuts, as Imu crushes Loki",
+          "url": "https://gulfnews.com/entertainment/one-piece-chapter-1198-spoilers-luffys-feral-new-form-debuts-as-imu-crushes-loki-1.500735157",
+          "source": "Gulf News",
           "snippet": "",
-          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRA7QlDIg8VSgJUcrFnjXYa-N34ix2bTq5JMB5F76yFsNoYDUpqtUWc60GeEMc"
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcW7kdfxs-rBufaqBI7q73i7ahKxMVXlnAoDjdS7ZQ1cOdmUvL9Op5udM8vxw"
+        }
+      ]
+    },
+    {
+      "keyword": "micronesia",
+      "traffic": "200+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0-B9qySYjbIxQauWnFwcEmQtS_tb_qxa0VjPYSnUxTZdp3-Cmdm-D9HPA5FI",
+      "picture_source": "The New York Times",
+      "pub_date": "Thu, 5 Nov 2026 04:20:00 -0800",
+      "news": [
+        {
+          "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
+          "url": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
+          "source": "The New York Times",
+          "snippet": "",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0-B9qySYjbIxQauWnFwcEmQtS_tb_qxa0VjPYSnUxTZdp3-Cmdm-D9HPA5FI"
+        },
+        {
+          "title": "5 people rescued in South Pacific after months adrift at sea, 4 others missing",
+          "url": "https://www.cbsnews.com/news/rescue-south-pacific-months-adrift-kiribati/",
+          "source": "CBS News",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbZAtyw-ogMYbH8jcX3dATSBUBShmuksAxgU_pN1RR8KZsQ3kp3tVI-CqK9fM"
+        },
+        {
+          "title": "Group lost at sea for months found after drifting thousands of kilometres",
+          "url": "https://www.abc.net.au/news/2026-11-02/five-rescued-after-three-months-adrift-at-sea/107334486",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "snippet": "",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0aqkzEdJC409dTt1kwQg5mJG8IEnC4TnM4PTXa6UHQrSKXoy_3wyt4A1LZmw"
         }
       ]
     }
@@ -6218,7 +6473,7 @@
     },
     {
       "rank": "4",
-      "status": "NEW",
+      "status": "=",
       "title": "LocoCity - THE REASON (Official Music Video)",
       "url": "https://youtu.be/CvM47gtL7G4",
       "video_id": "CvM47gtL7G4"
@@ -6233,13 +6488,13 @@
     {
       "rank": "6",
       "status": "NEW",
-      "title": "The Legend of Zelda: Ocarina of Time Review",
-      "url": "https://youtu.be/g0ipZ6UoLac",
-      "video_id": "g0ipZ6UoLac"
+      "title": "🔴LIVE | AOE TOURNAMENT | VS FITZ (IMAGINARY FRIENDS) | ME X JOHN X HABIBI X KARMA | #BUNGULATE",
+      "url": "https://youtu.be/QzQU-_vJKYw",
+      "video_id": "QzQU-_vJKYw"
     },
     {
       "rank": "7",
-      "status": "NEW",
+      "status": "-6",
       "title": "BEDJINE - J'AVOUE (OFFICIAL VIDEO)",
       "url": "https://youtu.be/t1MJvR3vug8",
       "video_id": "t1MJvR3vug8"
@@ -6254,16 +6509,16 @@
     {
       "rank": "9",
       "status": "NEW",
-      "title": "Teaching My LITTLE SISTER How To Drive..",
-      "url": "https://youtu.be/AJhXDEH3730",
-      "video_id": "AJhXDEH3730"
+      "title": "The Legend of Zelda: Ocarina of Time Review",
+      "url": "https://youtu.be/g0ipZ6UoLac",
+      "video_id": "g0ipZ6UoLac"
     },
     {
       "rank": "10",
       "status": "NEW",
-      "title": "L2B - Chanel (Clip Officiel)",
-      "url": "https://youtu.be/7ONLEMg70bI",
-      "video_id": "7ONLEMg70bI"
+      "title": "100BandPlan | Ain't True (Official Video) Prod. DT Beats ‪@reedinthestreet",
+      "url": "https://youtu.be/kVnn0bKKgNU",
+      "video_id": "kVnn0bKKgNU"
     },
     {
       "rank": "11",
@@ -6275,16 +6530,16 @@
     {
       "rank": "12",
       "status": "NEW",
-      "title": "Our First Time Playing Resident Evil 9 (Part 3)",
-      "url": "https://youtu.be/5Fy0GXbDvHU",
-      "video_id": "5Fy0GXbDvHU"
+      "title": "Teaching My LITTLE SISTER How To Drive..",
+      "url": "https://youtu.be/AJhXDEH3730",
+      "video_id": "AJhXDEH3730"
     },
     {
       "rank": "13",
       "status": "NEW",
-      "title": "100BandPlan | Ain't True (Official Video) Prod. DT Beats ‪@reedinthestreet",
-      "url": "https://youtu.be/kVnn0bKKgNU",
-      "video_id": "kVnn0bKKgNU"
+      "title": "L2B - Chanel (Clip Officiel)",
+      "url": "https://youtu.be/7ONLEMg70bI",
+      "video_id": "7ONLEMg70bI"
     },
     {
       "rank": "14",
@@ -6296,16 +6551,16 @@
     {
       "rank": "15",
       "status": "NEW",
-      "title": "The most beautiful Minecraft piston door",
-      "url": "https://youtu.be/OQL2DSH0llM",
-      "video_id": "OQL2DSH0llM"
+      "title": "Our First Time Playing Resident Evil 9 (Part 3)",
+      "url": "https://youtu.be/5Fy0GXbDvHU",
+      "video_id": "5Fy0GXbDvHU"
     },
     {
       "rank": "16",
       "status": "NEW",
-      "title": "Sarah Brightman - Time To Say Goodbye (Con Te Partiro) w/ Andrea Bocelli (Classic Performances Live)",
-      "url": "https://youtu.be/6XyTSx_O1_Q",
-      "video_id": "6XyTSx_O1_Q"
+      "title": "Ramayana: Shree Hanuman Chalisa | Namit M, Nitesh T | Ranbir Kapoor, Sunny Deol | AR Rahman",
+      "url": "https://youtu.be/96S27C0p66w",
+      "video_id": "96S27C0p66w"
     },
     {
       "rank": "17",
@@ -6317,16 +6572,16 @@
     {
       "rank": "18",
       "status": "NEW",
-      "title": "🔴 GRIEF 91% // 65%+ x33 🔴 16-100%, 21-100%, 25-100%x4 🔴",
-      "url": "https://youtu.be/-lzMbvNkRLI",
-      "video_id": "-lzMbvNkRLI"
+      "title": "The most beautiful Minecraft piston door",
+      "url": "https://youtu.be/OQL2DSH0llM",
+      "video_id": "OQL2DSH0llM"
     },
     {
       "rank": "19",
       "status": "NEW",
-      "title": "Kache Ghar",
-      "url": "https://youtu.be/aTV60N_llUo",
-      "video_id": "aTV60N_llUo"
+      "title": "Sarah Brightman - Time To Say Goodbye (Con Te Partiro) w/ Andrea Bocelli (Classic Performances Live)",
+      "url": "https://youtu.be/6XyTSx_O1_Q",
+      "video_id": "6XyTSx_O1_Q"
     },
     {
       "rank": "20",
@@ -6337,17 +6592,17 @@
     },
     {
       "rank": "21",
-      "status": "-15",
-      "title": "The Elder Scrolls VI: Official Name Reveal",
-      "url": "https://youtu.be/mFu8t9735IY",
-      "video_id": "mFu8t9735IY"
+      "status": "NEW",
+      "title": "CHOVY & INSPIRED MEET AGAIN IN THE WORLDS QUARTERFINALS 2026",
+      "url": "https://youtu.be/JZng93Oj_qo",
+      "video_id": "JZng93Oj_qo"
     },
     {
       "rank": "22",
       "status": "NEW",
-      "title": "\"Alpine Autumn Lake\" Beautiful Relaxing Music, Peaceful Soothing Instrumental Music by Tim Janis",
-      "url": "https://youtu.be/igGvnfLASkA",
-      "video_id": "igGvnfLASkA"
+      "title": "Mahiya (Official Music Video) Badshah x Shreya Ghoshal - Mahiya ft. Avneet Kaur",
+      "url": "https://youtu.be/EgXkduRe9ZU",
+      "video_id": "EgXkduRe9ZU"
     },
     {
       "rank": "23",
@@ -6359,16 +6614,16 @@
     {
       "rank": "24",
       "status": "NEW",
-      "title": "Exposing EVERY SECRET in PINKIE PROMISE!",
-      "url": "https://youtu.be/2IY_EPBqXZo",
-      "video_id": "2IY_EPBqXZo"
+      "title": "I Can’t Believe This Happened…",
+      "url": "https://youtu.be/kx3YpIeUMM0",
+      "video_id": "kx3YpIeUMM0"
     },
     {
       "rank": "25",
       "status": "NEW",
-      "title": "Mahiya (Official Music Video) Badshah x Shreya Ghoshal - Mahiya ft. Avneet Kaur",
-      "url": "https://youtu.be/EgXkduRe9ZU",
-      "video_id": "EgXkduRe9ZU"
+      "title": "Kache Ghar",
+      "url": "https://youtu.be/aTV60N_llUo",
+      "video_id": "aTV60N_llUo"
     },
     {
       "rank": "26",
@@ -6380,16 +6635,16 @@
     {
       "rank": "27",
       "status": "NEW",
-      "title": "I Became an ELEMENTAL WOLF KING in Minecraft..",
-      "url": "https://youtu.be/msYqPeg_5u4",
-      "video_id": "msYqPeg_5u4"
+      "title": "I turned my stream into a sliding puzzle game",
+      "url": "https://youtu.be/7E2pnNixIB0",
+      "video_id": "7E2pnNixIB0"
     },
     {
       "rank": "28",
       "status": "NEW",
-      "title": "Kirk Franklin & Davido - Hope In You | From The Block Performance 🎙",
-      "url": "https://youtu.be/3-3AKLKJrlI",
-      "video_id": "3-3AKLKJrlI"
+      "title": "\"Alpine Autumn Lake\" Beautiful Relaxing Music, Peaceful Soothing Instrumental Music by Tim Janis",
+      "url": "https://youtu.be/igGvnfLASkA",
+      "video_id": "igGvnfLASkA"
     },
     {
       "rank": "29",
@@ -6401,41 +6656,41 @@
     {
       "rank": "30",
       "status": "NEW",
-      "title": "the worst halloween of my life",
-      "url": "https://youtu.be/j5x8xNqQ7g8",
-      "video_id": "j5x8xNqQ7g8"
+      "title": "🔴 GRIEF 91% // 65%+ x33 🔴 16-100%, 21-100%, 25-100%x4 🔴",
+      "url": "https://youtu.be/-lzMbvNkRLI",
+      "video_id": "-lzMbvNkRLI"
     },
     {
       "rank": "31",
       "status": "NEW",
-      "title": "Metallica: Sad But True (Live at Sphere, October 15, 2026)",
-      "url": "https://youtu.be/Un-Yri73rbw",
-      "video_id": "Un-Yri73rbw"
+      "title": "Kirk Franklin & Davido - Hope In You | From The Block Performance 🎙",
+      "url": "https://youtu.be/3-3AKLKJrlI",
+      "video_id": "3-3AKLKJrlI"
     },
     {
       "rank": "32",
-      "status": "-21",
+      "status": "-18",
       "title": "Fans Are Tired...",
       "url": "https://youtu.be/xCMFoGL5dZE",
       "video_id": "xCMFoGL5dZE"
     },
     {
       "rank": "33",
-      "status": "NEW",
-      "title": "I strongly recommend: 'The Legend of Zelda: Ocarina of Time (2026)' - Review",
-      "url": "https://youtu.be/7d93ySOiHMw",
-      "video_id": "7d93ySOiHMw"
+      "status": "-27",
+      "title": "The Elder Scrolls VI: Official Name Reveal",
+      "url": "https://youtu.be/mFu8t9735IY",
+      "video_id": "mFu8t9735IY"
     },
     {
       "rank": "34",
-      "status": "-27",
-      "title": "Al Shami - Taa [Official Music Video] (2026) / الشامي - تعا",
-      "url": "https://youtu.be/XXSNzN8wMTM",
-      "video_id": "XXSNzN8wMTM"
+      "status": "NEW",
+      "title": "Metallica: Sad But True (Live at Sphere, October 15, 2026)",
+      "url": "https://youtu.be/Un-Yri73rbw",
+      "video_id": "Un-Yri73rbw"
     },
     {
       "rank": "35",
-      "status": "-21",
+      "status": "-18",
       "title": "Honest Trailers | Monsters, Inc.",
       "url": "https://youtu.be/5vrrJorU-3c",
       "video_id": "5vrrJorU-3c"
@@ -6449,7 +6704,7 @@
     },
     {
       "rank": "37",
-      "status": "-24",
+      "status": "-18",
       "title": "Eagles - Hotel California (Lyrics)",
       "url": "https://youtu.be/8Ea83jemnXI",
       "video_id": "8Ea83jemnXI"
@@ -6463,87 +6718,87 @@
     },
     {
       "rank": "39",
-      "status": "-30",
-      "title": "This Video is Bananas",
-      "url": "https://youtu.be/5cS8Rw9cWZU",
-      "video_id": "5cS8Rw9cWZU"
+      "status": "NEW",
+      "title": "Exposing EVERY SECRET in PINKIE PROMISE!",
+      "url": "https://youtu.be/2IY_EPBqXZo",
+      "video_id": "2IY_EPBqXZo"
     },
     {
       "rank": "40",
-      "status": "-30",
-      "title": "Fadel Chaker - Nam El Layl | فضل شاكر - نام الليل (حصريا من ألبوم حلم جديد) | 2026",
-      "url": "https://youtu.be/mx0KW0sDhHE",
-      "video_id": "mx0KW0sDhHE"
+      "status": "-27",
+      "title": "Al Shami - Taa [Official Music Video] (2026) / الشامي - تعا",
+      "url": "https://youtu.be/XXSNzN8wMTM",
+      "video_id": "XXSNzN8wMTM"
     },
     {
       "rank": "41",
       "status": "-12",
-      "title": "Improv Tour Trailer: \"When Aha Comes Knocking\" | Honkai: Star Rail",
-      "url": "https://youtu.be/Asggb78zcYA",
-      "video_id": "Asggb78zcYA"
-    },
-    {
-      "rank": "42",
-      "status": "NEW",
-      "title": "I Can’t Believe This Happened…",
-      "url": "https://youtu.be/kx3YpIeUMM0",
-      "video_id": "kx3YpIeUMM0"
-    },
-    {
-      "rank": "43",
-      "status": "NEW",
-      "title": "HIEUTHUHAI - Anh Nên Đi Khỏi Đây (prod. by Kewtiie) | Official Music Video",
-      "url": "https://youtu.be/OLaYISTt65E",
-      "video_id": "OLaYISTt65E"
-    },
-    {
-      "rank": "44",
-      "status": "-24",
       "title": "XBOX SERIES X-BITE | Sweepstakes Trailer",
       "url": "https://youtu.be/YJptn7J1xeI",
       "video_id": "YJptn7J1xeI"
     },
     {
+      "rank": "42",
+      "status": "NEW",
+      "title": "the worst halloween of my life",
+      "url": "https://youtu.be/j5x8xNqQ7g8",
+      "video_id": "j5x8xNqQ7g8"
+    },
+    {
+      "rank": "43",
+      "status": "-27",
+      "title": "Fadel Chaker - Nam El Layl | فضل شاكر - نام الليل (حصريا من ألبوم حلم جديد) | 2026",
+      "url": "https://youtu.be/mx0KW0sDhHE",
+      "video_id": "mx0KW0sDhHE"
+    },
+    {
+      "rank": "44",
+      "status": "-39",
+      "title": "Character Trailer - \"Mitya: Everything's in Order\" | Genshin Impact #Mitya #GenshinSnezhnaya",
+      "url": "https://youtu.be/9OHKzmmq2e8",
+      "video_id": "9OHKzmmq2e8"
+    },
+    {
       "rank": "45",
-      "status": "-15",
-      "title": "WORLDS QUARTERFINALS BEGIN THESHY & ROOKIE TAKE ON JACKEYLOVE FOR SEMI FINALS - WORLDS 2026",
-      "url": "https://youtu.be/T5Vxmvbkyg8",
-      "video_id": "T5Vxmvbkyg8"
+      "status": "NEW",
+      "title": "I Became an ELEMENTAL WOLF KING in Minecraft..",
+      "url": "https://youtu.be/msYqPeg_5u4",
+      "video_id": "msYqPeg_5u4"
     },
     {
       "rank": "46",
-      "status": "-42",
+      "status": "-36",
       "title": "Star Girl (Official Music Video) Navaan Sandhu Ft.Mickey Singh | New Punjabi Songs 2026",
       "url": "https://youtu.be/whQqQf9GRhM",
       "video_id": "whQqQf9GRhM"
     },
     {
       "rank": "47",
-      "status": "-42",
-      "title": "Character Trailer - \"Mitya: Everything's in Order\" | Genshin Impact #Mitya #GenshinSnezhnaya",
-      "url": "https://youtu.be/9OHKzmmq2e8",
-      "video_id": "9OHKzmmq2e8"
-    },
-    {
-      "rank": "48",
-      "status": "NEW",
-      "title": "WHIMSICAL WEDNESDAY",
-      "url": "https://youtu.be/lWDwj15NJWw",
-      "video_id": "lWDwj15NJWw"
-    },
-    {
-      "rank": "49",
-      "status": "-48",
-      "title": "Snak The Ripper - Miss Me (Official Music Video)",
-      "url": "https://youtu.be/j8KKHc0s4Ag",
-      "video_id": "j8KKHc0s4Ag"
-    },
-    {
-      "rank": "50",
       "status": "NEW",
       "title": "LORDS OF WAR Official Teaser Trailer (2027) Nicolas Cage",
       "url": "https://youtu.be/6OQQhjG9QDY",
       "video_id": "6OQQhjG9QDY"
+    },
+    {
+      "rank": "48",
+      "status": "NEW",
+      "title": "Melodie at the beach! (Brawl Vice Season)",
+      "url": "https://youtu.be/ssaEv-g8_mQ",
+      "video_id": "ssaEv-g8_mQ"
+    },
+    {
+      "rank": "49",
+      "status": "NEW",
+      "title": "HIEUTHUHAI - Anh Nên Đi Khỏi Đây (prod. by Kewtiie) | Official Music Video",
+      "url": "https://youtu.be/OLaYISTt65E",
+      "video_id": "OLaYISTt65E"
+    },
+    {
+      "rank": "50",
+      "status": "NEW",
+      "title": "AVENGERS: DOOMSDAY \"Gambit Meets HERBIE\" Trailer (NEW 2026)",
+      "url": "https://youtu.be/_lMu4koUTaI",
+      "video_id": "_lMu4koUTaI"
     }
   ]
 }
